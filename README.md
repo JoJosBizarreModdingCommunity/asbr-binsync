@@ -1,3 +1,3 @@
 # asbr-binsync
 
-A repo that holds BinSync data for ASBR!
+A repo that holds [BinSync](https://binsync.net/) data for ASBR!
