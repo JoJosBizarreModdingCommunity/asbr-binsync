@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6010b8
+size = 0x17
+name = "ASBR_ccTaskCameraJudge::Ctrl"
+type = "long long"
+
+[header]
+name = "ASBR_ccTaskCameraJudge::Ctrl"
+addr = 0x6010b8
+type = "long long"
+
+[header.args]

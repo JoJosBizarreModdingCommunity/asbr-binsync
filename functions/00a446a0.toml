@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa446a0
+size = 0x67
+name = "_Init_thread_header"
+type = "void"
+
+[header]
+name = "_Init_thread_header"
+addr = 0xa446a0
+type = "void"
+
+[header.args]

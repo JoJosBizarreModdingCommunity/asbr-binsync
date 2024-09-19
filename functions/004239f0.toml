@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x4239f0
+size = 0x19
+name = "ASBR_ccSupportChara::Ctrl"
+type = "long long"
+
+[header]
+name = "ASBR_ccSupportChara::Ctrl"
+addr = 0x4239f0
+type = "long long"
+
+[header.args]

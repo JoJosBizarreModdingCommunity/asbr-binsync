@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xacbb90
+size = 0x6
+name = "??R_lambda_daad5f71a1db84f3475a074fd2d177ad_@@QEBA@XZ"
+
+[header]
+name = "??R_lambda_daad5f71a1db84f3475a074fd2d177ad_@@QEBA@XZ"
+addr = 0xacbb90
+
+[header.args]

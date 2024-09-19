@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x7d66c4
+size = 0x6
+name = "?max@?$numeric_limits@H@std@@SAHXZ"
+
+[header]
+name = "?max@?$numeric_limits@H@std@@SAHXZ"
+addr = 0x7d66c4
+
+[header.args]

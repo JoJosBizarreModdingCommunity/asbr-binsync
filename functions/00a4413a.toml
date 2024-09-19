@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa4413a
+size = 0x6
+name = "_Mtx_unlock"
+type = "int"
+
+[header]
+name = "_Mtx_unlock"
+addr = 0xa4413a
+type = "int"
+
+[header.args]

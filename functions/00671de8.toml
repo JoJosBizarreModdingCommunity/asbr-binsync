@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x671de8
+size = 0x1c
+name = "ASBR_CreateStrHolderHash"
+type = "uint32_t"
+
+[header]
+name = "ASBR_CreateStrHolderHash"
+addr = 0x671de8
+type = "uint32_t"
+
+[header.args]

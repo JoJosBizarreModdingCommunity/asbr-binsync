@@ -1,0 +1,63 @@
+last_change = 2024-09-19T13:58:47.979828Z
+name = "_SYSTEM_INFO"
+size = 0x30
+
+[members.0x0]
+name = "anonymous_0"
+offset = 0x0
+type = "union _SYSTEM_INFO::$A707B71C060B6D10F73A71917EA8473F"
+size = 0x4
+
+[members.0x4]
+name = "dwPageSize"
+offset = 0x4
+type = "DWORD"
+size = 0x4
+
+[members.0x8]
+name = "lpMinimumApplicationAddress"
+offset = 0x8
+type = "LPVOID"
+size = 0x8
+
+[members.0x10]
+name = "lpMaximumApplicationAddress"
+offset = 0x10
+type = "LPVOID"
+size = 0x8
+
+[members.0x18]
+name = "dwActiveProcessorMask"
+offset = 0x18
+type = "DWORD_PTR"
+size = 0x8
+
+[members.0x20]
+name = "dwNumberOfProcessors"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "dwProcessorType"
+offset = 0x24
+type = "DWORD"
+size = 0x4
+
+[members.0x28]
+name = "dwAllocationGranularity"
+offset = 0x28
+type = "DWORD"
+size = 0x4
+
+[members.0x2c]
+name = "wProcessorLevel"
+offset = 0x2c
+type = "WORD"
+size = 0x2
+
+[members.0x2e]
+name = "wProcessorRevision"
+offset = 0x2e
+type = "WORD"
+size = 0x2

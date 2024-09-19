@@ -1,0 +1,57 @@
+last_change = 2024-09-19T13:58:47.952350Z
+name = "DXGI_ADAPTER_DESC"
+size = 0x130
+
+[members.0x0]
+name = "Description"
+offset = 0x0
+type = "WCHAR[128]"
+size = 0x100
+
+[members.0x100]
+name = "VendorId"
+offset = 0x100
+type = "UINT"
+size = 0x4
+
+[members.0x104]
+name = "DeviceId"
+offset = 0x104
+type = "UINT"
+size = 0x4
+
+[members.0x108]
+name = "SubSysId"
+offset = 0x108
+type = "UINT"
+size = 0x4
+
+[members.0x10c]
+name = "Revision"
+offset = 0x10c
+type = "UINT"
+size = 0x4
+
+[members.0x110]
+name = "DedicatedVideoMemory"
+offset = 0x110
+type = "SIZE_T"
+size = 0x8
+
+[members.0x118]
+name = "DedicatedSystemMemory"
+offset = 0x118
+type = "SIZE_T"
+size = 0x8
+
+[members.0x120]
+name = "SharedSystemMemory"
+offset = 0x120
+type = "SIZE_T"
+size = 0x8
+
+[members.0x128]
+name = "AdapterLuid"
+offset = 0x128
+type = "LUID"
+size = 0x8

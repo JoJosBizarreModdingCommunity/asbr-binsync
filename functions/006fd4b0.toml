@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6fd4b0
+size = 0x42
+name = "unknown_libname_26"
+type = "long long"
+
+[header]
+name = "unknown_libname_26"
+addr = 0x6fd4b0
+type = "long long"
+
+[header.args]

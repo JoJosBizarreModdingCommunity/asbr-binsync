@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xadf3c0
+size = 0x17
+name = "?copy@?$_Char_traits@DH@std@@SAPEADQEADQEBD_K@Z_0"
+
+[header]
+name = "?copy@?$_Char_traits@DH@std@@SAPEADQEADQEBD_K@Z_0"
+addr = 0xadf3c0
+
+[header.args]

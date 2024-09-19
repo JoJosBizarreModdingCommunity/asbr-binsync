@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x4a0f20
+size = 0x20e
+name = "ASBR_UIDrawBtlSelCharaIcon"
+type = "long long"
+
+[header]
+name = "ASBR_UIDrawBtlSelCharaIcon"
+addr = 0x4a0f20
+type = "long long"
+
+[header.args]

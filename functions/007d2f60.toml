@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x7d2f60
+size = 0x2e
+name = "__dcrt_uninitialize_environments_nolock"
+type = "long long"
+
+[header]
+name = "__dcrt_uninitialize_environments_nolock"
+addr = 0x7d2f60
+type = "long long"
+
+[header.args]

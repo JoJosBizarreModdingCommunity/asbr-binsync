@@ -1,0 +1,45 @@
+last_change = 2024-09-19T13:58:47.972238Z
+name = "XINPUT_GAMEPAD"
+size = 0xc
+
+[members.0x0]
+name = "wButtons"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "bLeftTrigger"
+offset = 0x2
+type = "BYTE"
+size = 0x1
+
+[members.0x3]
+name = "bRightTrigger"
+offset = 0x3
+type = "BYTE"
+size = 0x1
+
+[members.0x4]
+name = "sThumbLX"
+offset = 0x4
+type = "SHORT"
+size = 0x2
+
+[members.0x6]
+name = "sThumbLY"
+offset = 0x6
+type = "SHORT"
+size = 0x2
+
+[members.0x8]
+name = "sThumbRX"
+offset = 0x8
+type = "SHORT"
+size = 0x2
+
+[members.0xa]
+name = "sThumbRY"
+offset = 0xa
+type = "SHORT"
+size = 0x2

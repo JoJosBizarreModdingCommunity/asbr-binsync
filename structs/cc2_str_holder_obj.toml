@@ -1,0 +1,21 @@
+last_change = 2024-09-19T13:58:47.993429Z
+name = "cc2_str_holder_obj"
+size = 0x44
+
+[members.0x0]
+name = "vtable"
+offset = 0x0
+type = ""
+size = 0x8
+
+[members.0x8]
+name = "str_obj"
+offset = 0x8
+type = "cc2_string_obj"
+size = 0x38
+
+[members.0x40]
+name = "str_hash"
+offset = 0x40
+type = ""
+size = 0x4

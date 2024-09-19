@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa4415e
+size = 0x6
+name = "_Cnd_timedwait"
+type = "int"
+
+[header]
+name = "_Cnd_timedwait"
+addr = 0xa4415e
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45fda
+size = 0x6
+name = "strlen"
+type = "size_t"
+
+[header]
+name = "strlen"
+addr = 0xa45fda
+type = "size_t"
+
+[header.args]

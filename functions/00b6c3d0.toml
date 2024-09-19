@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xb6c3d0
+size = 0x4c0
+name = "__sse2_sin2"
+
+[header]
+name = "__sse2_sin2"
+addr = 0xb6c3d0
+
+[header.args]

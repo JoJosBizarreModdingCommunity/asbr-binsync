@@ -1,0 +1,33 @@
+last_change = 2024-09-19T13:58:47.991896Z
+name = "cc2_hash_str"
+size = 0x10
+
+[members.0x0]
+name = "hash"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "unk"
+offset = 0x4
+type = ""
+size = 0x1
+
+[members.0x5]
+name = "field_5"
+offset = 0x5
+type = ""
+size = 0x1
+
+[members.0x6]
+name = "field_6"
+offset = 0x6
+type = ""
+size = 0x2
+
+[members.0x8]
+name = "str_ptr"
+offset = 0x8
+type = ""
+size = 0x8

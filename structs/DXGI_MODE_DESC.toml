@@ -1,0 +1,39 @@
+last_change = 2024-09-19T13:58:47.954343Z
+name = "DXGI_MODE_DESC"
+size = 0x1c
+
+[members.0x0]
+name = "Width"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "Height"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "RefreshRate"
+offset = 0x8
+type = "DXGI_RATIONAL"
+size = 0x8
+
+[members.0x10]
+name = "Format"
+offset = 0x10
+type = "DXGI_FORMAT"
+size = 0x4
+
+[members.0x14]
+name = "ScanlineOrdering"
+offset = 0x14
+type = "DXGI_MODE_SCANLINE_ORDER"
+size = 0x4
+
+[members.0x18]
+name = "Scaling"
+offset = 0x18
+type = "DXGI_MODE_SCALING"
+size = 0x4

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x272078
+size = 0x34
+name = "??_G__ExceptionPtr@@QEAAPEAXI@Z_1"
+type = "void *"
+
+[header]
+name = "??_G__ExceptionPtr@@QEAAPEAXI@Z_1"
+addr = 0x272078
+type = "void *"
+
+[header.args]

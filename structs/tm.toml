@@ -1,0 +1,57 @@
+last_change = 2024-09-19T13:58:47.995452Z
+name = "tm"
+size = 0x24
+
+[members.0x0]
+name = "tm_sec"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "tm_min"
+offset = 0x4
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "tm_hour"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "tm_mday"
+offset = 0xc
+type = "int"
+size = 0x4
+
+[members.0x10]
+name = "tm_mon"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "tm_year"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "tm_wday"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "tm_yday"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "tm_isdst"
+offset = 0x20
+type = "int"
+size = 0x4

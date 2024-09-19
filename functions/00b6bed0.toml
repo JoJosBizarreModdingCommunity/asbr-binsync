@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xb6bed0
+size = 0x5
+name = "j___sse2_cos2"
+
+[header]
+name = "j___sse2_cos2"
+addr = 0xb6bed0
+
+[header.args]

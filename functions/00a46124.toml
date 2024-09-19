@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa46124
+size = 0x6
+name = "__setusermatherr"
+type = "void"
+
+[header]
+name = "__setusermatherr"
+addr = 0xa46124
+type = "void"
+
+[header.args]

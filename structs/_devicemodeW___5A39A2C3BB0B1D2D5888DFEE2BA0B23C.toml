@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.986360Z
+name = "_devicemodeW::$5A39A2C3BB0B1D2D5888DFEE2BA0B23C"
+size = 0x10
+
+[members.0x0]
+name = "anonymous_0"
+offset = 0x0
+type = "struct _devicemodeW::$5A39A2C3BB0B1D2D5888DFEE2BA0B23C::$A4EE175A7532F35C00DA5CAD042934DF"
+size = 0x10
+
+[members.0x1]
+name = "anonymous_1"
+offset = 0x1
+type = "struct _devicemodeW::$5A39A2C3BB0B1D2D5888DFEE2BA0B23C::$604F2BC6924E02F5722A52FC79BC44F9"
+size = 0x10

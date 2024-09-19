@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa4600a
+size = 0x6
+name = "_beginthreadex"
+type = "uintptr_t"
+
+[header]
+name = "_beginthreadex"
+addr = 0xa4600a
+type = "uintptr_t"
+
+[header.args]

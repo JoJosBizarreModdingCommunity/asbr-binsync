@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa440c8
+size = 0x6
+name = "?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z"
+
+[header]
+name = "?xsputn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEBD_J@Z"
+addr = 0xa440c8
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xb6d240
+size = 0x2
+name = "_guard_dispatch_icall_nop"
+
+[header]
+name = "_guard_dispatch_icall_nop"
+addr = 0xb6d240
+
+[header.args]

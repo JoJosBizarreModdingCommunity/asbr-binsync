@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45f9e
+size = 0x6
+name = "fwrite"
+type = "size_t"
+
+[header]
+name = "fwrite"
+addr = 0xa45f9e
+type = "size_t"
+
+[header.args]

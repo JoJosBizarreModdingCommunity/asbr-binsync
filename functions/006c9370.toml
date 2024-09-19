@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6c9370
+size = 0x22
+name = "ASBR_CopyMatrix4x4"
+type = "_OWORD *"
+
+[header]
+name = "ASBR_CopyMatrix4x4"
+addr = 0x6c9370
+type = "_OWORD *"
+
+[header.args]

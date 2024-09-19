@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa45dbc
+size = 0x6
+name = "_get_startup_file_mode_0"
+
+[header]
+name = "_get_startup_file_mode_0"
+addr = 0xa45dbc
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x56b290
+size = 0x5
+name = "?GetLocaleT@_LocaleUpdate@@QEAAPEAU__crt_locale_pointers@@XZ"
+type = "struct __crt_locale_pointers *"
+
+[header]
+name = "?GetLocaleT@_LocaleUpdate@@QEAAPEAU__crt_locale_pointers@@XZ"
+addr = 0x56b290
+type = "struct __crt_locale_pointers *"
+
+[header.args]

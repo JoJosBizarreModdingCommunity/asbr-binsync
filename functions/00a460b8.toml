@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa460b8
+size = 0x6
+name = "signal"
+type = "_crt_signal_t"
+
+[header]
+name = "signal"
+addr = 0xa460b8
+type = "_crt_signal_t"
+
+[header.args]

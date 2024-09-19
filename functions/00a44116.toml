@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa44116
+size = 0x6
+name = "_Mtx_init"
+type = "int"
+
+[header]
+name = "_Mtx_init"
+addr = 0xa44116
+type = "int"
+
+[header.args]

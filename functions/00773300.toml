@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x773300
+size = 0x3
+name = "nullsub_297"
+
+[header]
+name = "nullsub_297"
+addr = 0x773300
+
+[header.args]

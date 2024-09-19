@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x2372fc
+size = 0x4b
+name = "ASBR_ccDuelManager::Update"
+
+[header]
+name = "ASBR_ccDuelManager::Update"
+addr = 0x2372fc
+
+[header.args]

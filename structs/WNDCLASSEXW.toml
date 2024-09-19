@@ -1,0 +1,75 @@
+last_change = 2024-09-19T13:58:47.971227Z
+name = "WNDCLASSEXW"
+size = 0x50
+
+[members.0x0]
+name = "cbSize"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "style"
+offset = 0x4
+type = "UINT"
+size = 0x4
+
+[members.0x8]
+name = "lpfnWndProc"
+offset = 0x8
+type = "WNDPROC"
+size = 0x8
+
+[members.0x10]
+name = "cbClsExtra"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "cbWndExtra"
+offset = 0x14
+type = "int"
+size = 0x4
+
+[members.0x18]
+name = "hInstance"
+offset = 0x18
+type = "HINSTANCE"
+size = 0x8
+
+[members.0x20]
+name = "hIcon"
+offset = 0x20
+type = "HICON"
+size = 0x8
+
+[members.0x28]
+name = "hCursor"
+offset = 0x28
+type = "HCURSOR"
+size = 0x8
+
+[members.0x30]
+name = "hbrBackground"
+offset = 0x30
+type = "HBRUSH"
+size = 0x8
+
+[members.0x38]
+name = "lpszMenuName"
+offset = 0x38
+type = "LPCWSTR"
+size = 0x8
+
+[members.0x40]
+name = "lpszClassName"
+offset = 0x40
+type = "LPCWSTR"
+size = 0x8
+
+[members.0x48]
+name = "hIconSm"
+offset = 0x48
+type = "HICON"
+size = 0x8

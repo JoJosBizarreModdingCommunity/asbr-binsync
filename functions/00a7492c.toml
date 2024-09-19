@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa7492c
+size = 0x43
+name = "__acrt_eagerly_load_locale_apis"
+
+[header]
+name = "__acrt_eagerly_load_locale_apis"
+addr = 0xa7492c
+
+[header.args]

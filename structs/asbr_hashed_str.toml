@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.988904Z
+name = "asbr_hashed_str"
+size = 0x5
+
+[members.0x0]
+name = "hash"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "unk_bool"
+offset = 0x4
+type = ""
+size = 0x1

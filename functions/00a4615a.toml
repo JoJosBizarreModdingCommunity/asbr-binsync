@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa4615a
+size = 0x6
+name = "_set_new_mode"
+type = "int"
+
+[header]
+name = "_set_new_mode"
+addr = 0xa4615a
+type = "int"
+
+[header.args]

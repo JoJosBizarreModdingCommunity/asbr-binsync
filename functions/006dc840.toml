@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6dc840
+size = 0xb5
+name = "ASBR_DecryptColorData"
+type = "float *"
+
+[header]
+name = "ASBR_DecryptColorData"
+addr = 0x6dc840
+type = "float *"
+
+[header.args]

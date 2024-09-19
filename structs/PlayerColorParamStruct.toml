@@ -1,0 +1,21 @@
+last_change = 2024-09-19T13:58:47.968635Z
+name = "PlayerColorParamStruct"
+size = 0x10
+
+[members.0x0]
+name = "chara_name_hash"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "field_4"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "rgba_buffer"
+offset = 0x8
+type = ""
+size = 0x8

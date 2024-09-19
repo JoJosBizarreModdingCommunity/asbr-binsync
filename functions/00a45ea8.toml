@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45ea8
+size = 0x6
+name = "memcmp"
+type = "int"
+
+[header]
+name = "memcmp"
+addr = 0xa45ea8
+type = "int"
+
+[header.args]

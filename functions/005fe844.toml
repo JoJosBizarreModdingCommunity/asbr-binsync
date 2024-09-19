@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x5fe844
+size = 0x4a
+name = "ASBR_AutoSaveTask"
+
+[header]
+name = "ASBR_AutoSaveTask"
+addr = 0x5fe844
+
+[header.args]

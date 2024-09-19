@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa460ac
+size = 0x6
+name = "_fstat64i32"
+type = "int"
+
+[header]
+name = "_fstat64i32"
+addr = 0xa460ac
+type = "int"
+
+[header.args]

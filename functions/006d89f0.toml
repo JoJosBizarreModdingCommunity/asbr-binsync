@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6d89f0
+size = 0x2d
+name = "ASBR_nuccEffectManager::NextFrame"
+type = "long long"
+
+[header]
+name = "ASBR_nuccEffectManager::NextFrame"
+addr = 0x6d89f0
+type = "long long"
+
+[header.args]

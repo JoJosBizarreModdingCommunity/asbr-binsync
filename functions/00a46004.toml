@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa46004
+size = 0x6
+name = "atanf"
+type = "float"
+
+[header]
+name = "atanf"
+addr = 0xa46004
+type = "float"
+
+[header.args]

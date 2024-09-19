@@ -1,0 +1,135 @@
+last_change = 2024-09-19T13:58:47.964079Z
+name = "ID3D11ShaderReflectionVtbl"
+size = 0xb0
+
+[members.0x0]
+name = "QueryInterface"
+offset = 0x0
+type = "HRESULT (__stdcall *)(ID3D11ShaderReflection *This, const IID *const iid, LPVOID *ppv)"
+size = 0x8
+
+[members.0x8]
+name = "AddRef"
+offset = 0x8
+type = "ULONG (__stdcall *)(ID3D11ShaderReflection *This)"
+size = 0x8
+
+[members.0x10]
+name = "Release"
+offset = 0x10
+type = "ULONG (__stdcall *)(ID3D11ShaderReflection *This)"
+size = 0x8
+
+[members.0x18]
+name = "GetDesc"
+offset = 0x18
+type = "HRESULT (__stdcall *)(ID3D11ShaderReflection *This, D3D11_SHADER_DESC *pDesc)"
+size = 0x8
+
+[members.0x20]
+name = "GetConstantBufferByIndex"
+offset = 0x20
+type = "ID3D11ShaderReflectionConstantBuffer *(__stdcall *)(ID3D11ShaderReflection *This, UINT Index)"
+size = 0x8
+
+[members.0x28]
+name = "GetConstantBufferByName"
+offset = 0x28
+type = "ID3D11ShaderReflectionConstantBuffer *(__stdcall *)(ID3D11ShaderReflection *This, LPCSTR Name)"
+size = 0x8
+
+[members.0x30]
+name = "GetResourceBindingDesc"
+offset = 0x30
+type = "HRESULT (__stdcall *)(ID3D11ShaderReflection *This, UINT ResourceIndex, D3D11_SHADER_INPUT_BIND_DESC *pDesc)"
+size = 0x8
+
+[members.0x38]
+name = "GetInputParameterDesc"
+offset = 0x38
+type = "HRESULT (__stdcall *)(ID3D11ShaderReflection *This, UINT ParameterIndex, D3D11_SIGNATURE_PARAMETER_DESC *pDesc)"
+size = 0x8
+
+[members.0x40]
+name = "GetOutputParameterDesc"
+offset = 0x40
+type = "HRESULT (__stdcall *)(ID3D11ShaderReflection *This, UINT ParameterIndex, D3D11_SIGNATURE_PARAMETER_DESC *pDesc)"
+size = 0x8
+
+[members.0x48]
+name = "GetPatchConstantParameterDesc"
+offset = 0x48
+type = "HRESULT (__stdcall *)(ID3D11ShaderReflection *This, UINT ParameterIndex, D3D11_SIGNATURE_PARAMETER_DESC *pDesc)"
+size = 0x8
+
+[members.0x50]
+name = "GetVariableByName"
+offset = 0x50
+type = "ID3D11ShaderReflectionVariable *(__stdcall *)(ID3D11ShaderReflection *This, LPCSTR Name)"
+size = 0x8
+
+[members.0x58]
+name = "GetResourceBindingDescByName"
+offset = 0x58
+type = "HRESULT (__stdcall *)(ID3D11ShaderReflection *This, LPCSTR Name, D3D11_SHADER_INPUT_BIND_DESC *pDesc)"
+size = 0x8
+
+[members.0x60]
+name = "GetMovInstructionCount"
+offset = 0x60
+type = "UINT (__stdcall *)(ID3D11ShaderReflection *This)"
+size = 0x8
+
+[members.0x68]
+name = "GetMovcInstructionCount"
+offset = 0x68
+type = "UINT (__stdcall *)(ID3D11ShaderReflection *This)"
+size = 0x8
+
+[members.0x70]
+name = "GetConversionInstructionCount"
+offset = 0x70
+type = "UINT (__stdcall *)(ID3D11ShaderReflection *This)"
+size = 0x8
+
+[members.0x78]
+name = "GetBitwiseInstructionCount"
+offset = 0x78
+type = "UINT (__stdcall *)(ID3D11ShaderReflection *This)"
+size = 0x8
+
+[members.0x80]
+name = "GetGSInputPrimitive"
+offset = 0x80
+type = "D3D_PRIMITIVE (__stdcall *)(ID3D11ShaderReflection *This)"
+size = 0x8
+
+[members.0x88]
+name = "IsSampleFrequencyShader"
+offset = 0x88
+type = "BOOL (__stdcall *)(ID3D11ShaderReflection *This)"
+size = 0x8
+
+[members.0x90]
+name = "GetNumInterfaceSlots"
+offset = 0x90
+type = "UINT (__stdcall *)(ID3D11ShaderReflection *This)"
+size = 0x8
+
+[members.0x98]
+name = "GetMinFeatureLevel"
+offset = 0x98
+type = "HRESULT (__stdcall *)(ID3D11ShaderReflection *This, enum D3D_FEATURE_LEVEL *pLevel)"
+size = 0x8
+
+[members.0xa0]
+name = "GetThreadGroupSize"
+offset = 0xa0
+type = "UINT (__stdcall *)(ID3D11ShaderReflection *This, UINT *pSizeX, UINT *pSizeY, UINT *pSizeZ)"
+size = 0x8
+
+[members.0xa8]
+name = "GetRequiresFlags"
+offset = 0xa8
+type = "UINT64 (__stdcall *)(ID3D11ShaderReflection *This)"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x665930
+size = 0x76
+name = "ASBR_ParticleDefferedRendering"
+
+[header]
+name = "ASBR_ParticleDefferedRendering"
+addr = 0x665930
+
+[header.args]

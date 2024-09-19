@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa46022
+size = 0x6
+name = "sin"
+type = "double"
+
+[header]
+name = "sin"
+addr = 0xa46022
+type = "double"
+
+[header.args]

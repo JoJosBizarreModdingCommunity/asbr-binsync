@@ -1,0 +1,45 @@
+last_change = 2024-09-19T13:58:47.993429Z
+name = "cc2_string_obj"
+size = 0x38
+
+[members.0x0]
+name = "vtable"
+offset = 0x0
+type = ""
+size = 0x8
+
+[members.0x8]
+name = "field_8"
+offset = 0x8
+type = ""
+size = 0x8
+
+[members.0x10]
+name = "field_10"
+offset = 0x10
+type = ""
+size = 0x8
+
+[members.0x18]
+name = "begin"
+offset = 0x18
+type = ""
+size = 0x8
+
+[members.0x20]
+name = "field_20"
+offset = 0x20
+type = ""
+size = 0x8
+
+[members.0x28]
+name = "size"
+offset = 0x28
+type = ""
+size = 0x8
+
+[members.0x30]
+name = "reserved"
+offset = 0x30
+type = ""
+size = 0x8

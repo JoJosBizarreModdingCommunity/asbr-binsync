@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa444b8
+size = 0x15d
+name = "?__scrt_initialize_thread_safe_statics@@YAHXZ"
+type = "long long"
+
+[header]
+name = "?__scrt_initialize_thread_safe_statics@@YAHXZ"
+addr = 0xa444b8
+type = "long long"
+
+[header.args]

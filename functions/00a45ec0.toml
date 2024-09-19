@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa45ec0
+size = 0x6
+name = "_purecall"
+
+[header]
+name = "_purecall"
+addr = 0xa45ec0
+
+[header.args]

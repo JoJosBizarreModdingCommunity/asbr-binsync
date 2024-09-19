@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x66185c
+size = 0x296
+name = "ASBR_HWNDProcCallback"
+type = "_BOOL8"
+
+[header]
+name = "ASBR_HWNDProcCallback"
+addr = 0x66185c
+type = "_BOOL8"
+
+[header.args]

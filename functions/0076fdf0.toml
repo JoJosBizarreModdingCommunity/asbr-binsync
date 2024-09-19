@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x76fdf0
+size = 0x44
+name = "ASBR_GetXFBINResource_1AB8D10"
+type = "long long"
+
+[header]
+name = "ASBR_GetXFBINResource_1AB8D10"
+addr = 0x76fdf0
+type = "long long"
+
+[header.args]

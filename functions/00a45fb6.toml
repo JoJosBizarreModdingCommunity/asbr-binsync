@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45fb6
+size = 0x6
+name = "exit"
+type = "void"
+
+[header]
+name = "exit"
+addr = 0xa45fb6
+type = "void"
+
+[header.args]

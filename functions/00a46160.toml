@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa46160
+size = 0x6
+name = "__p__commode"
+type = "int *"
+
+[header]
+name = "__p__commode"
+addr = 0xa46160
+type = "int *"
+
+[header.args]

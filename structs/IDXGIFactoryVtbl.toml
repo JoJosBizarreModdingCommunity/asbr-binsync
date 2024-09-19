@@ -1,0 +1,75 @@
+last_change = 2024-09-19T13:58:47.967581Z
+name = "IDXGIFactoryVtbl"
+size = 0x60
+
+[members.0x0]
+name = "QueryInterface"
+offset = 0x0
+type = "HRESULT (__stdcall *)(IDXGIFactory *This, const IID *const riid, void **ppvObject)"
+size = 0x8
+
+[members.0x8]
+name = "AddRef"
+offset = 0x8
+type = "ULONG (__stdcall *)(IDXGIFactory *This)"
+size = 0x8
+
+[members.0x10]
+name = "Release"
+offset = 0x10
+type = "ULONG (__stdcall *)(IDXGIFactory *This)"
+size = 0x8
+
+[members.0x18]
+name = "SetPrivateData"
+offset = 0x18
+type = "HRESULT (__stdcall *)(IDXGIFactory *This, const GUID *const Name, UINT DataSize, const void *pData)"
+size = 0x8
+
+[members.0x20]
+name = "SetPrivateDataInterface"
+offset = 0x20
+type = "HRESULT (__stdcall *)(IDXGIFactory *This, const GUID *const Name, const IUnknown *pUnknown)"
+size = 0x8
+
+[members.0x28]
+name = "GetPrivateData"
+offset = 0x28
+type = "HRESULT (__stdcall *)(IDXGIFactory *This, const GUID *const Name, UINT *pDataSize, void *pData)"
+size = 0x8
+
+[members.0x30]
+name = "GetParent"
+offset = 0x30
+type = "HRESULT (__stdcall *)(IDXGIFactory *This, const IID *const riid, void **ppParent)"
+size = 0x8
+
+[members.0x38]
+name = "EnumAdapters"
+offset = 0x38
+type = "HRESULT (__stdcall *)(IDXGIFactory *This, UINT Adapter, IDXGIAdapter **ppAdapter)"
+size = 0x8
+
+[members.0x40]
+name = "MakeWindowAssociation"
+offset = 0x40
+type = "HRESULT (__stdcall *)(IDXGIFactory *This, HWND WindowHandle, UINT Flags)"
+size = 0x8
+
+[members.0x48]
+name = "GetWindowAssociation"
+offset = 0x48
+type = "HRESULT (__stdcall *)(IDXGIFactory *This, HWND *pWindowHandle)"
+size = 0x8
+
+[members.0x50]
+name = "CreateSwapChain"
+offset = 0x50
+type = "HRESULT (__stdcall *)(IDXGIFactory *This, IUnknown *pDevice, DXGI_SWAP_CHAIN_DESC *pDesc, IDXGISwapChain **ppSwapChain)"
+size = 0x8
+
+[members.0x58]
+name = "CreateSoftwareAdapter"
+offset = 0x58
+type = "HRESULT (__stdcall *)(IDXGIFactory *This, HMODULE Module, IDXGIAdapter **ppAdapter)"
+size = 0x8

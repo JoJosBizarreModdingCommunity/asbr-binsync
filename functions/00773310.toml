@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x773310
+size = 0x3e
+name = "ASBR_ccCamera_Init"
+type = "_QWORD *"
+
+[header]
+name = "ASBR_ccCamera_Init"
+addr = 0x773310
+type = "_QWORD *"
+
+[header.args]

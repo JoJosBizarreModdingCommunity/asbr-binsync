@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.970228Z
+name = "UNWIND_CODE"
+size = 0x2
+
+[members.0x0]
+name = "PrologOff"
+offset = 0x0
+type = ""
+size = 0x1
+
+[members.0x1]
+name = "OpCode_OpInfo"
+offset = 0x1
+type = ""
+size = 0x1

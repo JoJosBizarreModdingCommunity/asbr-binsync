@@ -1,0 +1,51 @@
+last_change = 2024-09-19T13:58:47.987867Z
+name = "_devicemodeW::$5A39A2C3BB0B1D2D5888DFEE2BA0B23C::$A4EE175A7532F35C00DA5CAD042934DF"
+size = 0x10
+
+[members.0x0]
+name = "dmOrientation"
+offset = 0x0
+type = "short"
+size = 0x2
+
+[members.0x2]
+name = "dmPaperSize"
+offset = 0x2
+type = "short"
+size = 0x2
+
+[members.0x4]
+name = "dmPaperLength"
+offset = 0x4
+type = "short"
+size = 0x2
+
+[members.0x6]
+name = "dmPaperWidth"
+offset = 0x6
+type = "short"
+size = 0x2
+
+[members.0x8]
+name = "dmScale"
+offset = 0x8
+type = "short"
+size = 0x2
+
+[members.0xa]
+name = "dmCopies"
+offset = 0xa
+type = "short"
+size = 0x2
+
+[members.0xc]
+name = "dmDefaultSource"
+offset = 0xc
+type = "short"
+size = 0x2
+
+[members.0xe]
+name = "dmPrintQuality"
+offset = 0xe
+type = "short"
+size = 0x2

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x4ae9b4
+size = 0x64
+name = "ASBR_ModelDraw"
+type = "long long"
+
+[header]
+name = "ASBR_ModelDraw"
+addr = 0x4ae9b4
+type = "long long"
+
+[header.args]

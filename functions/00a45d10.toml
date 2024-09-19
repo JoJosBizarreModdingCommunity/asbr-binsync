@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45d10
+size = 0xac
+name = "__security_init_cookie"
+type = "void"
+
+[header]
+name = "__security_init_cookie"
+addr = 0xa45d10
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x663fd8
+size = 0x104
+name = "ASBR_CheckCursorClip"
+type = "int"
+
+[header]
+name = "ASBR_CheckCursorClip"
+addr = 0x663fd8
+type = "int"
+
+[header.args]

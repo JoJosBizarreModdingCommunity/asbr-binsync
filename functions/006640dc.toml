@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x6640dc
+size = 0xbe
+name = "ASBR_CheckSignoutDetection"
+
+[header]
+name = "ASBR_CheckSignoutDetection"
+addr = 0x6640dc
+
+[header.args]

@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.971227Z
+name = "UnwindMapEntry"
+size = 0x8
+
+[members.0x0]
+name = "toState"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "action"
+offset = 0x4
+type = ""
+size = 0x4

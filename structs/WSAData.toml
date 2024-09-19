@@ -1,0 +1,45 @@
+last_change = 2024-09-19T13:58:47.971227Z
+name = "WSAData"
+size = 0x198
+
+[members.0x0]
+name = "wVersion"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wHighVersion"
+offset = 0x2
+type = "WORD"
+size = 0x2
+
+[members.0x4]
+name = "iMaxSockets"
+offset = 0x4
+type = "unsigned short"
+size = 0x2
+
+[members.0x6]
+name = "iMaxUdpDg"
+offset = 0x6
+type = "unsigned short"
+size = 0x2
+
+[members.0x8]
+name = "lpVendorInfo"
+offset = 0x8
+type = "char *"
+size = 0x8
+
+[members.0x10]
+name = "szDescription"
+offset = 0x10
+type = "char[257]"
+size = 0x101
+
+[members.0x111]
+name = "szSystemStatus"
+offset = 0x111
+type = "char[129]"
+size = 0x81

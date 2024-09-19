@@ -1,0 +1,63 @@
+last_change = 2024-09-19T13:58:47.987867Z
+name = "_s_FuncInfo"
+size = 0x28
+
+[members.0x0]
+name = "_bf_0"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x4]
+name = "maxState"
+offset = 0x4
+type = "__ehstate_t"
+size = 0x4
+
+[members.0x8]
+name = "dispUnwindMap"
+offset = 0x8
+type = "int"
+size = 0x4
+
+[members.0xc]
+name = "nTryBlocks"
+offset = 0xc
+type = "unsigned int"
+size = 0x4
+
+[members.0x10]
+name = "dispTryBlockMap"
+offset = 0x10
+type = "int"
+size = 0x4
+
+[members.0x14]
+name = "nIPMapEntries"
+offset = 0x14
+type = "unsigned int"
+size = 0x4
+
+[members.0x18]
+name = "dispIPtoStateMap"
+offset = 0x18
+type = "int"
+size = 0x4
+
+[members.0x1c]
+name = "dispUwindHelp"
+offset = 0x1c
+type = "int"
+size = 0x4
+
+[members.0x20]
+name = "dispESTypeList"
+offset = 0x20
+type = "int"
+size = 0x4
+
+[members.0x24]
+name = "EHFlags"
+offset = 0x24
+type = "int"
+size = 0x4

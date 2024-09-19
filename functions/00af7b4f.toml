@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf7b4f
+size = 0x6
+name = "ImmAssociateContext"
+type = "HIMC"
+
+[header]
+name = "ImmAssociateContext"
+addr = 0xaf7b4f
+type = "HIMC"
+
+[header.args]

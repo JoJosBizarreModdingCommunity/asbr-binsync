@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x7370a0
+size = 0xfc
+name = "ASBR_LoadShadersFromNSH"
+type = "long long"
+
+[header]
+name = "ASBR_LoadShadersFromNSH"
+addr = 0x7370a0
+type = "long long"
+
+[header.args]

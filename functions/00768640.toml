@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x768640
+size = 0xea
+name = "ASBR_SceneManager_Execute"
+type = "long long"
+
+[header]
+name = "ASBR_SceneManager_Execute"
+addr = 0x768640
+type = "long long"
+
+[header.args]

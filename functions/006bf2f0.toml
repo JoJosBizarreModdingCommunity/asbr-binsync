@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6bf2f0
+size = 0x4c
+name = "ASBR_nuccAllocator_create"
+type = "cc2_string_obj *"
+
+[header]
+name = "ASBR_nuccAllocator_create"
+addr = 0x6bf2f0
+type = "cc2_string_obj *"
+
+[header.args]

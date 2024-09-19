@@ -1,0 +1,9 @@
+last_change = 2024-09-19T13:58:47.967581Z
+name = "IDXGIFactory"
+size = 0x8
+
+[members.0x0]
+name = "lpVtbl"
+offset = 0x0
+type = "struct IDXGIFactoryVtbl *"
+size = 0x8

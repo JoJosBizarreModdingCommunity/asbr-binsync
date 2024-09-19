@@ -1,0 +1,21 @@
+last_change = 2024-09-19T13:58:47.986360Z
+name = "_devicemodeW::$5A39A2C3BB0B1D2D5888DFEE2BA0B23C::$604F2BC6924E02F5722A52FC79BC44F9"
+size = 0x10
+
+[members.0x0]
+name = "dmPosition"
+offset = 0x0
+type = "POINTL"
+size = 0x8
+
+[members.0x8]
+name = "dmDisplayOrientation"
+offset = 0x8
+type = "DWORD"
+size = 0x4
+
+[members.0xc]
+name = "dmDisplayFixedOutput"
+offset = 0xc
+type = "DWORD"
+size = 0x4

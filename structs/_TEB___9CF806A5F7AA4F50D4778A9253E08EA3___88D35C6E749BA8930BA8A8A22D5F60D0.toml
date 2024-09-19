@@ -1,0 +1,9 @@
+last_change = 2024-09-19T13:58:47.984365Z
+name = "_TEB::$9CF806A5F7AA4F50D4778A9253E08EA3::$88D35C6E749BA8930BA8A8A22D5F60D0"
+size = 0x2
+
+[members.0x0]
+name = "SpareCrossTebBits"
+offset = 0x0
+type = "unsigned short"
+size = 0x2

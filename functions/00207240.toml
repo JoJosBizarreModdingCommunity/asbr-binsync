@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x207240
+size = 0xb
+name = "?maximum_signed_value@__crt_strtox@@YA_J_K@Z"
+type = "long long"
+
+[header]
+name = "?maximum_signed_value@__crt_strtox@@YA_J_K@Z"
+addr = 0x207240
+type = "long long"
+
+[header.args]

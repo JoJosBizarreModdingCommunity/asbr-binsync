@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x769320
+size = 0x3e
+name = "ASBR_SceneManager_GetScenePos"
+type = "long long"
+
+[header]
+name = "ASBR_SceneManager_GetScenePos"
+addr = 0x769320
+type = "long long"
+
+[header.args]

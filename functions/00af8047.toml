@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf8047
+size = 0x6
+name = "cosh"
+type = "double"
+
+[header]
+name = "cosh"
+addr = 0xaf8047
+type = "double"
+
+[header.args]

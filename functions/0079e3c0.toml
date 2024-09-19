@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x79e3c0
+size = 0xa
+name = "??0_lambda_17b8e77e04f0039ff1429d79b8271fa1_@@QEAA@AEBQEB_W@Z"
+type = "_lambda_17b8e77e04f0039ff1429d79b8271fa1_ *"
+
+[header]
+name = "??0_lambda_17b8e77e04f0039ff1429d79b8271fa1_@@QEAA@AEBQEB_W@Z"
+addr = 0x79e3c0
+type = "_lambda_17b8e77e04f0039ff1429d79b8271fa1_ *"
+
+[header.args]

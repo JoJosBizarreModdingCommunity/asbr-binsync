@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa4fa98
+size = 0x52
+name = "sprintf_s"
+type = "int"
+
+[header]
+name = "sprintf_s"
+addr = 0xa4fa98
+type = "int"
+
+[header.args]

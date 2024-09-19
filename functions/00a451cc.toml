@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa451cc
+size = 0x3c
+name = "__CheckForDebuggerJustMyCode"
+type = "long long"
+
+[header]
+name = "__CheckForDebuggerJustMyCode"
+addr = 0xa451cc
+type = "long long"
+
+[header.args]

@@ -1,0 +1,57 @@
+last_change = 2024-09-19T13:58:47.988904Z
+name = "_xDISPATCHER_CONTEXT"
+size = 0x48
+
+[members.0x0]
+name = "ControlPc"
+offset = 0x0
+type = "long long"
+size = 0x8
+
+[members.0x8]
+name = "ImageBase"
+offset = 0x8
+type = "long long"
+size = 0x8
+
+[members.0x10]
+name = "FunctionEntry"
+offset = 0x10
+type = "PRUNTIME_FUNCTION"
+size = 0x8
+
+[members.0x18]
+name = "EstablisherFrame"
+offset = 0x18
+type = "ULONG_PTR"
+size = 0x8
+
+[members.0x20]
+name = "TargetIp"
+offset = 0x20
+type = "ULONG64"
+size = 0x8
+
+[members.0x28]
+name = "ContextRecord"
+offset = 0x28
+type = "PCONTEXT"
+size = 0x8
+
+[members.0x30]
+name = "LanguageHandler"
+offset = 0x30
+type = "PVOID"
+size = 0x8
+
+[members.0x38]
+name = "HandlerData"
+offset = 0x38
+type = "PVOID"
+size = 0x8
+
+[members.0x40]
+name = "HistoryTable"
+offset = 0x40
+type = "PUNWIND_HISTORY_TABLE"
+size = 0x8

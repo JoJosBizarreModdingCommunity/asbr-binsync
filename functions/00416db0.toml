@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x416db0
+size = 0x25
+name = "??1?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@UEAA@XZ_0"
+
+[header]
+name = "??1?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@UEAA@XZ_0"
+addr = 0x416db0
+
+[header.args]

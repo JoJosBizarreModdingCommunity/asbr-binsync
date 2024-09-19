@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa44176
+size = 0x6
+name = "_Cnd_unregister_at_thread_exit"
+type = "void"
+
+[header]
+name = "_Cnd_unregister_at_thread_exit"
+addr = 0xa44176
+type = "void"
+
+[header.args]

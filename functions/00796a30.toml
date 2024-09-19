@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x796a30
+size = 0x34
+name = "??_Gcritical_section@Concurrency@@QEAAPEAXI@Z_10"
+type = "void *"
+
+[header]
+name = "??_Gcritical_section@Concurrency@@QEAAPEAXI@Z_10"
+addr = 0x796a30
+type = "void *"
+
+[header.args]

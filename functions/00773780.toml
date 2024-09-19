@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x773780
+size = 0x23
+name = "ASBR_StringHash"
+type = "unsigned int"
+
+[header]
+name = "ASBR_StringHash"
+addr = 0x773780
+type = "unsigned int"
+
+[header.args]

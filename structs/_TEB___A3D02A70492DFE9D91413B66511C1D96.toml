@@ -1,0 +1,21 @@
+last_change = 2024-09-19T13:58:47.984365Z
+name = "_TEB::$A3D02A70492DFE9D91413B66511C1D96"
+size = 0x4
+
+[members.0x0]
+name = "CurrentIdealProcessor"
+offset = 0x0
+type = "struct _PROCESSOR_NUMBER"
+size = 0x4
+
+[members.0x1]
+name = "IdealProcessorValue"
+offset = 0x1
+type = "unsigned int"
+size = 0x4
+
+[members.0x2]
+name = "ReservedPad0"
+offset = 0x2
+type = "uint8_t"
+size = 0x1

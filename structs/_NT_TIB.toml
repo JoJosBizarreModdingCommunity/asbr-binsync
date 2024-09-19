@@ -1,0 +1,45 @@
+last_change = 2024-09-19T13:58:47.977779Z
+name = "_NT_TIB"
+size = 0x38
+
+[members.0x0]
+name = "ExceptionList"
+offset = 0x0
+type = "struct _EXCEPTION_REGISTRATION_RECORD *"
+size = 0x8
+
+[members.0x8]
+name = "StackBase"
+offset = 0x8
+type = "PVOID"
+size = 0x8
+
+[members.0x10]
+name = "StackLimit"
+offset = 0x10
+type = "PVOID"
+size = 0x8
+
+[members.0x18]
+name = "SubSystemTib"
+offset = 0x18
+type = "PVOID"
+size = 0x8
+
+[members.0x20]
+name = "anonymous_0"
+offset = 0x20
+type = "union _NT_TIB::$0349ADB4452EC09BEC08E2292695FBBA"
+size = 0x8
+
+[members.0x28]
+name = "ArbitraryUserPointer"
+offset = 0x28
+type = "PVOID"
+size = 0x8
+
+[members.0x30]
+name = "Self"
+offset = 0x30
+type = "struct _NT_TIB *"
+size = 0x8

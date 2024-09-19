@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa4428c
+size = 0xd8
+name = "__scrt_initialize_onexit_tables"
+
+[header]
+name = "__scrt_initialize_onexit_tables"
+addr = 0xa4428c
+
+[header.args]

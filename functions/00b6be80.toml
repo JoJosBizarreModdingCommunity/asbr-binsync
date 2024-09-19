@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xb6be80
+size = 0x4c
+name = "__libm_sse2_sincos_"
+
+[header]
+name = "__libm_sse2_sincos_"
+addr = 0xb6be80
+
+[header.args]

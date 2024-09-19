@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa45f02
+size = 0x6
+name = "__intrinsic_setjmp"
+
+[header]
+name = "__intrinsic_setjmp"
+addr = 0xa45f02
+
+[header.args]

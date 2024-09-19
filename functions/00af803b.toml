@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf803b
+size = 0x6
+name = "atan"
+type = "double"
+
+[header]
+name = "atan"
+addr = 0xaf803b
+type = "double"
+
+[header.args]

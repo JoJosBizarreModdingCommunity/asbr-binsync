@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x769300
+size = 0x18
+name = "ASBR_SceneManager_GetCurrScene"
+type = "cc2_scene_enum"
+
+[header]
+name = "ASBR_SceneManager_GetCurrScene"
+addr = 0x769300
+type = "cc2_scene_enum"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x663f98
+size = 0x11
+name = "ASBR_UiBeginScreenOrtho"
+
+[header]
+name = "ASBR_UiBeginScreenOrtho"
+addr = 0x663f98
+
+[header.args]

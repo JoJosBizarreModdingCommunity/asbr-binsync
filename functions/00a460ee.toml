@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa460ee
+size = 0x6
+name = "getenv"
+type = "char *"
+
+[header]
+name = "getenv"
+addr = 0xa460ee
+type = "char *"
+
+[header.args]

@@ -1,0 +1,21 @@
+last_change = 2024-09-19T13:58:47.995452Z
+name = "type_info"
+size = 0x10
+
+[members.0x0]
+name = "vfptr"
+offset = 0x0
+type = ""
+size = 0x8
+
+[members.0x8]
+name = "_M_data"
+offset = 0x8
+type = ""
+size = 0x8
+
+[members.0x10]
+name = "_M_d_name"
+offset = 0x10
+type = ""
+size = 0x0

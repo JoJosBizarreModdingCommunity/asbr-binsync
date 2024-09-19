@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x568208
+size = 0x3d
+name = "ASBR_ccSceneNetMatchingLeave::CtrlDialogDispCount"
+type = "void"
+
+[header]
+name = "ASBR_ccSceneNetMatchingLeave::CtrlDialogDispCount"
+addr = 0x568208
+type = "void"
+
+[header.args]

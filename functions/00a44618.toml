@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa44618
+size = 0x28
+name = "?__scrt_uninitialize_thread_safe_statics@@YAXXZ"
+type = "void"
+
+[header]
+name = "?__scrt_uninitialize_thread_safe_statics@@YAXXZ"
+addr = 0xa44618
+type = "void"
+
+[header.args]

@@ -1,0 +1,39 @@
+last_change = 2024-09-19T13:58:47.979828Z
+name = "_RTTICompleteObjectLocator"
+size = 0x18
+
+[members.0x0]
+name = "signature"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "offset"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "cdOffset"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "typeDescriptor"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "classDescriptor"
+offset = 0x10
+type = ""
+size = 0x4
+
+[members.0x14]
+name = "objectBase"
+offset = 0x14
+type = ""
+size = 0x4

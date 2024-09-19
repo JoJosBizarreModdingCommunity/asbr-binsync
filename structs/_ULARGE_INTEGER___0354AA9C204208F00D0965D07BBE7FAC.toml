@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.984365Z
+name = "_ULARGE_INTEGER::$0354AA9C204208F00D0965D07BBE7FAC"
+size = 0x8
+
+[members.0x0]
+name = "LowPart"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x4]
+name = "HighPart"
+offset = 0x4
+type = "DWORD"
+size = 0x4

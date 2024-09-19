@@ -1,0 +1,411 @@
+last_change = 2024-09-19T13:58:47.988904Z
+name = "asbr_renderer"
+size = 0x1f0
+
+[members.0x0]
+name = "field_0"
+offset = 0x0
+type = "long long"
+size = 0x8
+
+[members.0x8]
+name = "field_8"
+offset = 0x8
+type = "long long"
+size = 0x8
+
+[members.0x10]
+name = "field_10"
+offset = 0x10
+type = "long long"
+size = 0x8
+
+[members.0x18]
+name = "field_18"
+offset = 0x18
+type = "long long"
+size = 0x8
+
+[members.0x20]
+name = "field_20"
+offset = 0x20
+type = "long long"
+size = 0x8
+
+[members.0x28]
+name = "field_28"
+offset = 0x28
+type = "long long"
+size = 0x8
+
+[members.0x30]
+name = "field_30"
+offset = 0x30
+type = "long long"
+size = 0x8
+
+[members.0x38]
+name = "field_38"
+offset = 0x38
+type = "long long"
+size = 0x8
+
+[members.0x40]
+name = "field_40"
+offset = 0x40
+type = "char"
+size = 0x1
+
+[members.0x41]
+name = "field_41"
+offset = 0x41
+type = "char"
+size = 0x1
+
+[members.0x42]
+name = "field_42"
+offset = 0x42
+type = "char"
+size = 0x1
+
+[members.0x43]
+name = "field_43"
+offset = 0x43
+type = "char"
+size = 0x1
+
+[members.0x44]
+name = "feature_level"
+offset = 0x44
+type = "D3D_FEATURE_LEVEL"
+size = 0x4
+
+[members.0x48]
+name = "d3d_device"
+offset = 0x48
+type = "ID3D11Device *"
+size = 0x8
+
+[members.0x50]
+name = "immediate_ctx"
+offset = 0x50
+type = "ID3D11DeviceContext *"
+size = 0x8
+
+[members.0x58]
+name = "deferred_ctx"
+offset = 0x58
+type = "ID3D11DeviceContext *"
+size = 0x8
+
+[members.0x60]
+name = "user_defined_annotation"
+offset = 0x60
+type = "long long"
+size = 0x8
+
+[members.0x68]
+name = "swapchain"
+offset = 0x68
+type = "IDXGISwapChain *"
+size = 0x8
+
+[members.0x70]
+name = "width"
+offset = 0x70
+type = "int"
+size = 0x4
+
+[members.0x74]
+name = "height"
+offset = 0x74
+type = "int"
+size = 0x4
+
+[members.0x78]
+name = "field_78"
+offset = 0x78
+type = "long long"
+size = 0x8
+
+[members.0x80]
+name = "field_80"
+offset = 0x80
+type = "int"
+size = 0x4
+
+[members.0x84]
+name = "dxgi_sample_desc"
+offset = 0x84
+type = "DXGI_SAMPLE_DESC"
+size = 0x8
+
+[members.0x90]
+name = "field_88"
+offset = 0x90
+type = "long long"
+size = 0x8
+
+[members.0x98]
+name = "field_90"
+offset = 0x98
+type = "long long"
+size = 0x8
+
+[members.0xa0]
+name = "field_98"
+offset = 0xa0
+type = "long long"
+size = 0x8
+
+[members.0xa8]
+name = "field_A0"
+offset = 0xa8
+type = "long long"
+size = 0x8
+
+[members.0xb0]
+name = "field_A8"
+offset = 0xb0
+type = "long long"
+size = 0x8
+
+[members.0xb8]
+name = "field_B0"
+offset = 0xb8
+type = "long long"
+size = 0x8
+
+[members.0xc0]
+name = "field_B8"
+offset = 0xc0
+type = "long long"
+size = 0x8
+
+[members.0xc8]
+name = "field_C0"
+offset = 0xc8
+type = "long long"
+size = 0x8
+
+[members.0xd0]
+name = "field_C8"
+offset = 0xd0
+type = "long long"
+size = 0x8
+
+[members.0xd8]
+name = "field_D0"
+offset = 0xd8
+type = "long long"
+size = 0x8
+
+[members.0xe0]
+name = "field_D8"
+offset = 0xe0
+type = "long long"
+size = 0x8
+
+[members.0xe8]
+name = "field_E0"
+offset = 0xe8
+type = "long long"
+size = 0x8
+
+[members.0xf0]
+name = "field_E8"
+offset = 0xf0
+type = "long long"
+size = 0x8
+
+[members.0xf8]
+name = "idxgi_output"
+offset = 0xf8
+type = "IDXGIOutput *"
+size = 0x8
+
+[members.0x100]
+name = "field_F8"
+offset = 0x100
+type = "long long"
+size = 0x8
+
+[members.0x108]
+name = "field_100"
+offset = 0x108
+type = "long long"
+size = 0x8
+
+[members.0x110]
+name = "field_108"
+offset = 0x110
+type = "long long"
+size = 0x8
+
+[members.0x118]
+name = "field_110"
+offset = 0x118
+type = "long long"
+size = 0x8
+
+[members.0x120]
+name = "field_118"
+offset = 0x120
+type = "long long"
+size = 0x8
+
+[members.0x128]
+name = "field_120"
+offset = 0x128
+type = "long long"
+size = 0x8
+
+[members.0x130]
+name = "field_128"
+offset = 0x130
+type = "long long"
+size = 0x8
+
+[members.0x138]
+name = "field_130"
+offset = 0x138
+type = "long long"
+size = 0x8
+
+[members.0x140]
+name = "field_138"
+offset = 0x140
+type = "long long"
+size = 0x8
+
+[members.0x148]
+name = "field_140"
+offset = 0x148
+type = "long long"
+size = 0x8
+
+[members.0x150]
+name = "field_148"
+offset = 0x150
+type = "long long"
+size = 0x8
+
+[members.0x158]
+name = "field_150"
+offset = 0x158
+type = "long long"
+size = 0x8
+
+[members.0x160]
+name = "field_158"
+offset = 0x160
+type = "long long"
+size = 0x8
+
+[members.0x168]
+name = "field_160"
+offset = 0x168
+type = "long long"
+size = 0x8
+
+[members.0x170]
+name = "field_168"
+offset = 0x170
+type = "long long"
+size = 0x8
+
+[members.0x178]
+name = "field_170"
+offset = 0x178
+type = "long long"
+size = 0x8
+
+[members.0x180]
+name = "field_178"
+offset = 0x180
+type = "long long"
+size = 0x8
+
+[members.0x188]
+name = "field_180"
+offset = 0x188
+type = "long long"
+size = 0x8
+
+[members.0x190]
+name = "field_188"
+offset = 0x190
+type = "long long"
+size = 0x8
+
+[members.0x198]
+name = "field_190"
+offset = 0x198
+type = "long long"
+size = 0x8
+
+[members.0x1a0]
+name = "field_198"
+offset = 0x1a0
+type = "long long"
+size = 0x8
+
+[members.0x1a8]
+name = "field_1A0"
+offset = 0x1a8
+type = "long long"
+size = 0x8
+
+[members.0x1b0]
+name = "windowed"
+offset = 0x1b0
+type = "int"
+size = 0x4
+
+[members.0x1b4]
+name = "x"
+offset = 0x1b4
+type = "int"
+size = 0x4
+
+[members.0x1b8]
+name = "a"
+offset = 0x1b8
+type = "long long"
+size = 0x8
+
+[members.0x1c0]
+name = "b"
+offset = 0x1c0
+type = "long long"
+size = 0x8
+
+[members.0x1c8]
+name = "c"
+offset = 0x1c8
+type = "long long"
+size = 0x8
+
+[members.0x1d0]
+name = "d"
+offset = 0x1d0
+type = "long long"
+size = 0x8
+
+[members.0x1d8]
+name = "e"
+offset = 0x1d8
+type = "long long"
+size = 0x8
+
+[members.0x1e0]
+name = "f"
+offset = 0x1e0
+type = "long long"
+size = 0x8
+
+[members.0x1e8]
+name = "g"
+offset = 0x1e8
+type = "long long"
+size = 0x8

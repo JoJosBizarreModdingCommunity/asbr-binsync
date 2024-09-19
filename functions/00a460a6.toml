@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa460a6
+size = 0x6
+name = "setbuf"
+type = "void"
+
+[header]
+name = "setbuf"
+addr = 0xa460a6
+type = "void"
+
+[header.args]

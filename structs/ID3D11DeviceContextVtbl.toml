@@ -1,0 +1,693 @@
+last_change = 2024-09-19T13:58:47.956365Z
+name = "ID3D11DeviceContextVtbl"
+size = 0x398
+
+[members.0x0]
+name = "QueryInterface"
+offset = 0x0
+type = "HRESULT (__stdcall *)(ID3D11DeviceContext *This, const IID *const riid, void **ppvObject)"
+size = 0x8
+
+[members.0x8]
+name = "AddRef"
+offset = 0x8
+type = "ULONG (__stdcall *)(ID3D11DeviceContext *This)"
+size = 0x8
+
+[members.0x10]
+name = "Release"
+offset = 0x10
+type = "ULONG (__stdcall *)(ID3D11DeviceContext *This)"
+size = 0x8
+
+[members.0x18]
+name = "GetDevice"
+offset = 0x18
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Device **ppDevice)"
+size = 0x8
+
+[members.0x20]
+name = "GetPrivateData"
+offset = 0x20
+type = "HRESULT (__stdcall *)(ID3D11DeviceContext *This, const GUID *const guid, UINT *pDataSize, void *pData)"
+size = 0x8
+
+[members.0x28]
+name = "SetPrivateData"
+offset = 0x28
+type = "HRESULT (__stdcall *)(ID3D11DeviceContext *This, const GUID *const guid, UINT DataSize, const void *pData)"
+size = 0x8
+
+[members.0x30]
+name = "SetPrivateDataInterface"
+offset = 0x30
+type = "HRESULT (__stdcall *)(ID3D11DeviceContext *This, const GUID *const guid, const IUnknown *pData)"
+size = 0x8
+
+[members.0x38]
+name = "VSSetConstantBuffers"
+offset = 0x38
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer *const *ppConstantBuffers)"
+size = 0x8
+
+[members.0x40]
+name = "PSSetShaderResources"
+offset = 0x40
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView *const *ppShaderResourceViews)"
+size = 0x8
+
+[members.0x48]
+name = "PSSetShader"
+offset = 0x48
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11PixelShader *pPixelShader, ID3D11ClassInstance *const *ppClassInstances, UINT NumClassInstances)"
+size = 0x8
+
+[members.0x50]
+name = "PSSetSamplers"
+offset = 0x50
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState *const *ppSamplers)"
+size = 0x8
+
+[members.0x58]
+name = "VSSetShader"
+offset = 0x58
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11VertexShader *pVertexShader, ID3D11ClassInstance *const *ppClassInstances, UINT NumClassInstances)"
+size = 0x8
+
+[members.0x60]
+name = "DrawIndexed"
+offset = 0x60
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT IndexCount, UINT StartIndexLocation, INT BaseVertexLocation)"
+size = 0x8
+
+[members.0x68]
+name = "Draw"
+offset = 0x68
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT VertexCount, UINT StartVertexLocation)"
+size = 0x8
+
+[members.0x70]
+name = "Map"
+offset = 0x70
+type = "HRESULT (__stdcall *)(ID3D11DeviceContext *This, ID3D11Resource *pResource, UINT Subresource, D3D11_MAP MapType, UINT MapFlags, D3D11_MAPPED_SUBRESOURCE *pMappedResource)"
+size = 0x8
+
+[members.0x78]
+name = "Unmap"
+offset = 0x78
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Resource *pResource, UINT Subresource)"
+size = 0x8
+
+[members.0x80]
+name = "PSSetConstantBuffers"
+offset = 0x80
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer *const *ppConstantBuffers)"
+size = 0x8
+
+[members.0x88]
+name = "IASetInputLayout"
+offset = 0x88
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11InputLayout *pInputLayout)"
+size = 0x8
+
+[members.0x90]
+name = "IASetVertexBuffers"
+offset = 0x90
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer *const *ppVertexBuffers, const UINT *pStrides, const UINT *pOffsets)"
+size = 0x8
+
+[members.0x98]
+name = "IASetIndexBuffer"
+offset = 0x98
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Buffer *pIndexBuffer, DXGI_FORMAT Format, UINT Offset)"
+size = 0x8
+
+[members.0xa0]
+name = "DrawIndexedInstanced"
+offset = 0xa0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT IndexCountPerInstance, UINT InstanceCount, UINT StartIndexLocation, INT BaseVertexLocation, UINT StartInstanceLocation)"
+size = 0x8
+
+[members.0xa8]
+name = "DrawInstanced"
+offset = 0xa8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT VertexCountPerInstance, UINT InstanceCount, UINT StartVertexLocation, UINT StartInstanceLocation)"
+size = 0x8
+
+[members.0xb0]
+name = "GSSetConstantBuffers"
+offset = 0xb0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer *const *ppConstantBuffers)"
+size = 0x8
+
+[members.0xb8]
+name = "GSSetShader"
+offset = 0xb8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11GeometryShader *pShader, ID3D11ClassInstance *const *ppClassInstances, UINT NumClassInstances)"
+size = 0x8
+
+[members.0xc0]
+name = "IASetPrimitiveTopology"
+offset = 0xc0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, D3D11_PRIMITIVE_TOPOLOGY Topology)"
+size = 0x8
+
+[members.0xc8]
+name = "VSSetShaderResources"
+offset = 0xc8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView *const *ppShaderResourceViews)"
+size = 0x8
+
+[members.0xd0]
+name = "VSSetSamplers"
+offset = 0xd0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState *const *ppSamplers)"
+size = 0x8
+
+[members.0xd8]
+name = "Begin"
+offset = 0xd8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Asynchronous *pAsync)"
+size = 0x8
+
+[members.0xe0]
+name = "End"
+offset = 0xe0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Asynchronous *pAsync)"
+size = 0x8
+
+[members.0xe8]
+name = "GetData"
+offset = 0xe8
+type = "HRESULT (__stdcall *)(ID3D11DeviceContext *This, ID3D11Asynchronous *pAsync, void *pData, UINT DataSize, UINT GetDataFlags)"
+size = 0x8
+
+[members.0xf0]
+name = "SetPredication"
+offset = 0xf0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Predicate *pPredicate, BOOL PredicateValue)"
+size = 0x8
+
+[members.0xf8]
+name = "GSSetShaderResources"
+offset = 0xf8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView *const *ppShaderResourceViews)"
+size = 0x8
+
+[members.0x100]
+name = "GSSetSamplers"
+offset = 0x100
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState *const *ppSamplers)"
+size = 0x8
+
+[members.0x108]
+name = "OMSetRenderTargets"
+offset = 0x108
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT NumViews, ID3D11RenderTargetView *const *ppRenderTargetViews, ID3D11DepthStencilView *pDepthStencilView)"
+size = 0x8
+
+[members.0x110]
+name = "OMSetRenderTargetsAndUnorderedAccessViews"
+offset = 0x110
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT NumRTVs, ID3D11RenderTargetView *const *ppRenderTargetViews, ID3D11DepthStencilView *pDepthStencilView, UINT UAVStartSlot, UINT NumUAVs, ID3D11UnorderedAccessView *const *ppUnorderedAccessViews, const UINT *pUAVInitialCounts)"
+size = 0x8
+
+[members.0x118]
+name = "OMSetBlendState"
+offset = 0x118
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11BlendState *pBlendState, const FLOAT BlendFactor[4], UINT SampleMask)"
+size = 0x8
+
+[members.0x120]
+name = "OMSetDepthStencilState"
+offset = 0x120
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11DepthStencilState *pDepthStencilState, UINT StencilRef)"
+size = 0x8
+
+[members.0x128]
+name = "SOSetTargets"
+offset = 0x128
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT NumBuffers, ID3D11Buffer *const *ppSOTargets, const UINT *pOffsets)"
+size = 0x8
+
+[members.0x130]
+name = "DrawAuto"
+offset = 0x130
+type = "void (__stdcall *)(ID3D11DeviceContext *This)"
+size = 0x8
+
+[members.0x138]
+name = "DrawIndexedInstancedIndirect"
+offset = 0x138
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Buffer *pBufferForArgs, UINT AlignedByteOffsetForArgs)"
+size = 0x8
+
+[members.0x140]
+name = "DrawInstancedIndirect"
+offset = 0x140
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Buffer *pBufferForArgs, UINT AlignedByteOffsetForArgs)"
+size = 0x8
+
+[members.0x148]
+name = "Dispatch"
+offset = 0x148
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT ThreadGroupCountX, UINT ThreadGroupCountY, UINT ThreadGroupCountZ)"
+size = 0x8
+
+[members.0x150]
+name = "DispatchIndirect"
+offset = 0x150
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Buffer *pBufferForArgs, UINT AlignedByteOffsetForArgs)"
+size = 0x8
+
+[members.0x158]
+name = "RSSetState"
+offset = 0x158
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11RasterizerState *pRasterizerState)"
+size = 0x8
+
+[members.0x160]
+name = "RSSetViewports"
+offset = 0x160
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT NumViewports, const D3D11_VIEWPORT *pViewports)"
+size = 0x8
+
+[members.0x168]
+name = "RSSetScissorRects"
+offset = 0x168
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT NumRects, const D3D11_RECT *pRects)"
+size = 0x8
+
+[members.0x170]
+name = "CopySubresourceRegion"
+offset = 0x170
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Resource *pDstResource, UINT DstSubresource, UINT DstX, UINT DstY, UINT DstZ, ID3D11Resource *pSrcResource, UINT SrcSubresource, const D3D11_BOX *pSrcBox)"
+size = 0x8
+
+[members.0x178]
+name = "CopyResource"
+offset = 0x178
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Resource *pDstResource, ID3D11Resource *pSrcResource)"
+size = 0x8
+
+[members.0x180]
+name = "UpdateSubresource"
+offset = 0x180
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Resource *pDstResource, UINT DstSubresource, const D3D11_BOX *pDstBox, const void *pSrcData, UINT SrcRowPitch, UINT SrcDepthPitch)"
+size = 0x8
+
+[members.0x188]
+name = "CopyStructureCount"
+offset = 0x188
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Buffer *pDstBuffer, UINT DstAlignedByteOffset, ID3D11UnorderedAccessView *pSrcView)"
+size = 0x8
+
+[members.0x190]
+name = "ClearRenderTargetView"
+offset = 0x190
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11RenderTargetView *pRenderTargetView, const FLOAT ColorRGBA[4])"
+size = 0x8
+
+[members.0x198]
+name = "ClearUnorderedAccessViewUint"
+offset = 0x198
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11UnorderedAccessView *pUnorderedAccessView, const UINT Values[4])"
+size = 0x8
+
+[members.0x1a0]
+name = "ClearUnorderedAccessViewFloat"
+offset = 0x1a0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11UnorderedAccessView *pUnorderedAccessView, const FLOAT Values[4])"
+size = 0x8
+
+[members.0x1a8]
+name = "ClearDepthStencilView"
+offset = 0x1a8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11DepthStencilView *pDepthStencilView, UINT ClearFlags, FLOAT Depth, UINT8 Stencil)"
+size = 0x8
+
+[members.0x1b0]
+name = "GenerateMips"
+offset = 0x1b0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11ShaderResourceView *pShaderResourceView)"
+size = 0x8
+
+[members.0x1b8]
+name = "SetResourceMinLOD"
+offset = 0x1b8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Resource *pResource, FLOAT MinLOD)"
+size = 0x8
+
+[members.0x1c0]
+name = "GetResourceMinLOD"
+offset = 0x1c0
+type = "FLOAT (__stdcall *)(ID3D11DeviceContext *This, ID3D11Resource *pResource)"
+size = 0x8
+
+[members.0x1c8]
+name = "ResolveSubresource"
+offset = 0x1c8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Resource *pDstResource, UINT DstSubresource, ID3D11Resource *pSrcResource, UINT SrcSubresource, DXGI_FORMAT Format)"
+size = 0x8
+
+[members.0x1d0]
+name = "ExecuteCommandList"
+offset = 0x1d0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11CommandList *pCommandList, BOOL RestoreContextState)"
+size = 0x8
+
+[members.0x1d8]
+name = "HSSetShaderResources"
+offset = 0x1d8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView *const *ppShaderResourceViews)"
+size = 0x8
+
+[members.0x1e0]
+name = "HSSetShader"
+offset = 0x1e0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11HullShader *pHullShader, ID3D11ClassInstance *const *ppClassInstances, UINT NumClassInstances)"
+size = 0x8
+
+[members.0x1e8]
+name = "HSSetSamplers"
+offset = 0x1e8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState *const *ppSamplers)"
+size = 0x8
+
+[members.0x1f0]
+name = "HSSetConstantBuffers"
+offset = 0x1f0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer *const *ppConstantBuffers)"
+size = 0x8
+
+[members.0x1f8]
+name = "DSSetShaderResources"
+offset = 0x1f8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView *const *ppShaderResourceViews)"
+size = 0x8
+
+[members.0x200]
+name = "DSSetShader"
+offset = 0x200
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11DomainShader *pDomainShader, ID3D11ClassInstance *const *ppClassInstances, UINT NumClassInstances)"
+size = 0x8
+
+[members.0x208]
+name = "DSSetSamplers"
+offset = 0x208
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState *const *ppSamplers)"
+size = 0x8
+
+[members.0x210]
+name = "DSSetConstantBuffers"
+offset = 0x210
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer *const *ppConstantBuffers)"
+size = 0x8
+
+[members.0x218]
+name = "CSSetShaderResources"
+offset = 0x218
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView *const *ppShaderResourceViews)"
+size = 0x8
+
+[members.0x220]
+name = "CSSetUnorderedAccessViews"
+offset = 0x220
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumUAVs, ID3D11UnorderedAccessView *const *ppUnorderedAccessViews, const UINT *pUAVInitialCounts)"
+size = 0x8
+
+[members.0x228]
+name = "CSSetShader"
+offset = 0x228
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11ComputeShader *pComputeShader, ID3D11ClassInstance *const *ppClassInstances, UINT NumClassInstances)"
+size = 0x8
+
+[members.0x230]
+name = "CSSetSamplers"
+offset = 0x230
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState *const *ppSamplers)"
+size = 0x8
+
+[members.0x238]
+name = "CSSetConstantBuffers"
+offset = 0x238
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer *const *ppConstantBuffers)"
+size = 0x8
+
+[members.0x240]
+name = "VSGetConstantBuffers"
+offset = 0x240
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer **ppConstantBuffers)"
+size = 0x8
+
+[members.0x248]
+name = "PSGetShaderResources"
+offset = 0x248
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView **ppShaderResourceViews)"
+size = 0x8
+
+[members.0x250]
+name = "PSGetShader"
+offset = 0x250
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11PixelShader **ppPixelShader, ID3D11ClassInstance **ppClassInstances, UINT *pNumClassInstances)"
+size = 0x8
+
+[members.0x258]
+name = "PSGetSamplers"
+offset = 0x258
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState **ppSamplers)"
+size = 0x8
+
+[members.0x260]
+name = "VSGetShader"
+offset = 0x260
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11VertexShader **ppVertexShader, ID3D11ClassInstance **ppClassInstances, UINT *pNumClassInstances)"
+size = 0x8
+
+[members.0x268]
+name = "PSGetConstantBuffers"
+offset = 0x268
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer **ppConstantBuffers)"
+size = 0x8
+
+[members.0x270]
+name = "IAGetInputLayout"
+offset = 0x270
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11InputLayout **ppInputLayout)"
+size = 0x8
+
+[members.0x278]
+name = "IAGetVertexBuffers"
+offset = 0x278
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer **ppVertexBuffers, UINT *pStrides, UINT *pOffsets)"
+size = 0x8
+
+[members.0x280]
+name = "IAGetIndexBuffer"
+offset = 0x280
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Buffer **pIndexBuffer, DXGI_FORMAT *Format, UINT *Offset)"
+size = 0x8
+
+[members.0x288]
+name = "GSGetConstantBuffers"
+offset = 0x288
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer **ppConstantBuffers)"
+size = 0x8
+
+[members.0x290]
+name = "GSGetShader"
+offset = 0x290
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11GeometryShader **ppGeometryShader, ID3D11ClassInstance **ppClassInstances, UINT *pNumClassInstances)"
+size = 0x8
+
+[members.0x298]
+name = "IAGetPrimitiveTopology"
+offset = 0x298
+type = "void (__stdcall *)(ID3D11DeviceContext *This, D3D11_PRIMITIVE_TOPOLOGY *pTopology)"
+size = 0x8
+
+[members.0x2a0]
+name = "VSGetShaderResources"
+offset = 0x2a0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView **ppShaderResourceViews)"
+size = 0x8
+
+[members.0x2a8]
+name = "VSGetSamplers"
+offset = 0x2a8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState **ppSamplers)"
+size = 0x8
+
+[members.0x2b0]
+name = "GetPredication"
+offset = 0x2b0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11Predicate **ppPredicate, BOOL *pPredicateValue)"
+size = 0x8
+
+[members.0x2b8]
+name = "GSGetShaderResources"
+offset = 0x2b8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView **ppShaderResourceViews)"
+size = 0x8
+
+[members.0x2c0]
+name = "GSGetSamplers"
+offset = 0x2c0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState **ppSamplers)"
+size = 0x8
+
+[members.0x2c8]
+name = "OMGetRenderTargets"
+offset = 0x2c8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT NumViews, ID3D11RenderTargetView **ppRenderTargetViews, ID3D11DepthStencilView **ppDepthStencilView)"
+size = 0x8
+
+[members.0x2d0]
+name = "OMGetRenderTargetsAndUnorderedAccessViews"
+offset = 0x2d0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT NumRTVs, ID3D11RenderTargetView **ppRenderTargetViews, ID3D11DepthStencilView **ppDepthStencilView, UINT UAVStartSlot, UINT NumUAVs, ID3D11UnorderedAccessView **ppUnorderedAccessViews)"
+size = 0x8
+
+[members.0x2d8]
+name = "OMGetBlendState"
+offset = 0x2d8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11BlendState **ppBlendState, FLOAT BlendFactor[4], UINT *pSampleMask)"
+size = 0x8
+
+[members.0x2e0]
+name = "OMGetDepthStencilState"
+offset = 0x2e0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11DepthStencilState **ppDepthStencilState, UINT *pStencilRef)"
+size = 0x8
+
+[members.0x2e8]
+name = "SOGetTargets"
+offset = 0x2e8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT NumBuffers, ID3D11Buffer **ppSOTargets)"
+size = 0x8
+
+[members.0x2f0]
+name = "RSGetState"
+offset = 0x2f0
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11RasterizerState **ppRasterizerState)"
+size = 0x8
+
+[members.0x2f8]
+name = "RSGetViewports"
+offset = 0x2f8
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT *pNumViewports, D3D11_VIEWPORT *pViewports)"
+size = 0x8
+
+[members.0x300]
+name = "RSGetScissorRects"
+offset = 0x300
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT *pNumRects, D3D11_RECT *pRects)"
+size = 0x8
+
+[members.0x308]
+name = "HSGetShaderResources"
+offset = 0x308
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView **ppShaderResourceViews)"
+size = 0x8
+
+[members.0x310]
+name = "HSGetShader"
+offset = 0x310
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11HullShader **ppHullShader, ID3D11ClassInstance **ppClassInstances, UINT *pNumClassInstances)"
+size = 0x8
+
+[members.0x318]
+name = "HSGetSamplers"
+offset = 0x318
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState **ppSamplers)"
+size = 0x8
+
+[members.0x320]
+name = "HSGetConstantBuffers"
+offset = 0x320
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer **ppConstantBuffers)"
+size = 0x8
+
+[members.0x328]
+name = "DSGetShaderResources"
+offset = 0x328
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView **ppShaderResourceViews)"
+size = 0x8
+
+[members.0x330]
+name = "DSGetShader"
+offset = 0x330
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11DomainShader **ppDomainShader, ID3D11ClassInstance **ppClassInstances, UINT *pNumClassInstances)"
+size = 0x8
+
+[members.0x338]
+name = "DSGetSamplers"
+offset = 0x338
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState **ppSamplers)"
+size = 0x8
+
+[members.0x340]
+name = "DSGetConstantBuffers"
+offset = 0x340
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer **ppConstantBuffers)"
+size = 0x8
+
+[members.0x348]
+name = "CSGetShaderResources"
+offset = 0x348
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumViews, ID3D11ShaderResourceView **ppShaderResourceViews)"
+size = 0x8
+
+[members.0x350]
+name = "CSGetUnorderedAccessViews"
+offset = 0x350
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumUAVs, ID3D11UnorderedAccessView **ppUnorderedAccessViews)"
+size = 0x8
+
+[members.0x358]
+name = "CSGetShader"
+offset = 0x358
+type = "void (__stdcall *)(ID3D11DeviceContext *This, ID3D11ComputeShader **ppComputeShader, ID3D11ClassInstance **ppClassInstances, UINT *pNumClassInstances)"
+size = 0x8
+
+[members.0x360]
+name = "CSGetSamplers"
+offset = 0x360
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumSamplers, ID3D11SamplerState **ppSamplers)"
+size = 0x8
+
+[members.0x368]
+name = "CSGetConstantBuffers"
+offset = 0x368
+type = "void (__stdcall *)(ID3D11DeviceContext *This, UINT StartSlot, UINT NumBuffers, ID3D11Buffer **ppConstantBuffers)"
+size = 0x8
+
+[members.0x370]
+name = "ClearState"
+offset = 0x370
+type = "void (__stdcall *)(ID3D11DeviceContext *This)"
+size = 0x8
+
+[members.0x378]
+name = "Flush"
+offset = 0x378
+type = "void (__stdcall *)(ID3D11DeviceContext *This)"
+size = 0x8
+
+[members.0x380]
+name = "GetType"
+offset = 0x380
+type = "D3D11_DEVICE_CONTEXT_TYPE (__stdcall *)(ID3D11DeviceContext *This)"
+size = 0x8
+
+[members.0x388]
+name = "GetContextFlags"
+offset = 0x388
+type = "UINT (__stdcall *)(ID3D11DeviceContext *This)"
+size = 0x8
+
+[members.0x390]
+name = "FinishCommandList"
+offset = 0x390
+type = "HRESULT (__stdcall *)(ID3D11DeviceContext *This, BOOL RestoreDeferredContextState, ID3D11CommandList **ppCommandList)"
+size = 0x8

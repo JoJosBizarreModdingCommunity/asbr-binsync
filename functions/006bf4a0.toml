@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6bf4a0
+size = 0xd
+name = "ASBR_MemoryAlloc"
+type = "void *"
+
+[header]
+name = "ASBR_MemoryAlloc"
+addr = 0x6bf4a0
+type = "void *"
+
+[header.args]

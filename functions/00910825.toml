@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x910825
+size = 0x6
+name = "__CxxQueryExceptionSize_1"
+type = "int"
+
+[header]
+name = "__CxxQueryExceptionSize_1"
+addr = 0x910825
+type = "int"
+
+[header.args]

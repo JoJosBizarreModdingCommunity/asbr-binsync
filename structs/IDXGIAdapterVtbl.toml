@@ -1,0 +1,63 @@
+last_change = 2024-09-19T13:58:47.966046Z
+name = "IDXGIAdapterVtbl"
+size = 0x50
+
+[members.0x0]
+name = "QueryInterface"
+offset = 0x0
+type = "HRESULT (__stdcall *)(IDXGIAdapter *This, const IID *const riid, void **ppvObject)"
+size = 0x8
+
+[members.0x8]
+name = "AddRef"
+offset = 0x8
+type = "ULONG (__stdcall *)(IDXGIAdapter *This)"
+size = 0x8
+
+[members.0x10]
+name = "Release"
+offset = 0x10
+type = "ULONG (__stdcall *)(IDXGIAdapter *This)"
+size = 0x8
+
+[members.0x18]
+name = "SetPrivateData"
+offset = 0x18
+type = "HRESULT (__stdcall *)(IDXGIAdapter *This, const GUID *const Name, UINT DataSize, const void *pData)"
+size = 0x8
+
+[members.0x20]
+name = "SetPrivateDataInterface"
+offset = 0x20
+type = "HRESULT (__stdcall *)(IDXGIAdapter *This, const GUID *const Name, const IUnknown *pUnknown)"
+size = 0x8
+
+[members.0x28]
+name = "GetPrivateData"
+offset = 0x28
+type = "HRESULT (__stdcall *)(IDXGIAdapter *This, const GUID *const Name, UINT *pDataSize, void *pData)"
+size = 0x8
+
+[members.0x30]
+name = "GetParent"
+offset = 0x30
+type = "HRESULT (__stdcall *)(IDXGIAdapter *This, const IID *const riid, void **ppParent)"
+size = 0x8
+
+[members.0x38]
+name = "EnumOutputs"
+offset = 0x38
+type = "HRESULT (__stdcall *)(IDXGIAdapter *This, UINT Output, IDXGIOutput **ppOutput)"
+size = 0x8
+
+[members.0x40]
+name = "GetDesc"
+offset = 0x40
+type = "HRESULT (__stdcall *)(IDXGIAdapter *This, DXGI_ADAPTER_DESC *pDesc)"
+size = 0x8
+
+[members.0x48]
+name = "CheckInterfaceSupport"
+offset = 0x48
+type = "HRESULT (__stdcall *)(IDXGIAdapter *This, const GUID *const InterfaceName, LARGE_INTEGER *pUMDVersion)"
+size = 0x8

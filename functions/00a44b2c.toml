@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa44b2c
+size = 0x12
+name = "start"
+
+[header]
+name = "start"
+addr = 0xa44b2c
+
+[header.args]

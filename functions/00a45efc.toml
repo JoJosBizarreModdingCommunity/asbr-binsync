@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa45efc
+size = 0x6
+name = "__std_exception_destroy"
+
+[header]
+name = "__std_exception_destroy"
+addr = 0xa45efc
+
+[header.args]

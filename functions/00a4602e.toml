@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa4602e
+size = 0x6
+name = "cos"
+type = "double"
+
+[header]
+name = "cos"
+addr = 0xa4602e
+type = "double"
+
+[header.args]

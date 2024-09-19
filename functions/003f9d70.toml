@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x3f9d70
+size = 0x6
+name = "ASBR_nuccAnm::Draw"
+type = "long long"
+
+[header]
+name = "ASBR_nuccAnm::Draw"
+addr = 0x3f9d70
+type = "long long"
+
+[header.args]

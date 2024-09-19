@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa45df4
+size = 0xc
+name = "__scrt_is_user_matherr_present"
+
+[header]
+name = "__scrt_is_user_matherr_present"
+addr = 0xa45df4
+
+[header.args]

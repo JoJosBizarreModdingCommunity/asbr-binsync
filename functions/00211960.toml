@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x211960
+size = 0x27
+name = "ASBR_Vector3_GetMagnitude"
+type = "float"
+
+[header]
+name = "ASBR_Vector3_GetMagnitude"
+addr = 0x211960
+type = "float"
+
+[header.args]

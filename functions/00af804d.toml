@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf804d
+size = 0x6
+name = "exp"
+type = "double"
+
+[header]
+name = "exp"
+addr = 0xaf804d
+type = "double"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa4504c
+size = 0x9b
+name = "__report_securityfailure"
+
+[header]
+name = "__report_securityfailure"
+addr = 0xa4504c
+
+[header.args]

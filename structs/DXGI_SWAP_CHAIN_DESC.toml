@@ -1,0 +1,51 @@
+last_change = 2024-09-19T13:58:47.955341Z
+name = "DXGI_SWAP_CHAIN_DESC"
+size = 0x48
+
+[members.0x0]
+name = "BufferDesc"
+offset = 0x0
+type = "DXGI_MODE_DESC"
+size = 0x1c
+
+[members.0x1c]
+name = "SampleDesc"
+offset = 0x1c
+type = "DXGI_SAMPLE_DESC"
+size = 0x8
+
+[members.0x24]
+name = "BufferUsage"
+offset = 0x24
+type = "DXGI_USAGE"
+size = 0x4
+
+[members.0x28]
+name = "BufferCount"
+offset = 0x28
+type = "UINT"
+size = 0x4
+
+[members.0x30]
+name = "OutputWindow"
+offset = 0x30
+type = "HWND"
+size = 0x8
+
+[members.0x38]
+name = "Windowed"
+offset = 0x38
+type = "BOOL"
+size = 0x4
+
+[members.0x3c]
+name = "SwapEffect"
+offset = 0x3c
+type = "DXGI_SWAP_EFFECT"
+size = 0x4
+
+[members.0x40]
+name = "Flags"
+offset = 0x40
+type = "UINT"
+size = 0x4

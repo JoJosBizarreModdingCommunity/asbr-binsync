@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf8077
+size = 0x6
+name = "strncat_s"
+type = "errno_t"
+
+[header]
+name = "strncat_s"
+addr = 0xaf8077
+type = "errno_t"
+
+[header.args]

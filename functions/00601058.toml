@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x601058
+size = 0x2b
+name = "ASBR_CameraDirectorCtrl"
+
+[header]
+name = "ASBR_CameraDirectorCtrl"
+addr = 0x601058
+
+[header.args]

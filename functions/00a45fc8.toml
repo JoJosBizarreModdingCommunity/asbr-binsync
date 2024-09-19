@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45fc8
+size = 0x6
+name = "strtoul"
+type = "unsigned int"
+
+[header]
+name = "strtoul"
+addr = 0xa45fc8
+type = "unsigned int"
+
+[header.args]

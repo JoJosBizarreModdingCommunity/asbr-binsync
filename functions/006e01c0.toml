@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6e01c0
+size = 0x68
+name = "ASBR_LoadSoundXfbin"
+type = "long long"
+
+[header]
+name = "ASBR_LoadSoundXfbin"
+addr = 0x6e01c0
+type = "long long"
+
+[header.args]

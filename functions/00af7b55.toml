@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf7b55
+size = 0x6
+name = "ImmCreateContext"
+type = "HIMC"
+
+[header]
+name = "ImmCreateContext"
+addr = 0xaf7b55
+type = "HIMC"
+
+[header.args]

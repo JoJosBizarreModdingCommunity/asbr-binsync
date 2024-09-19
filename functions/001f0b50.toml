@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x1f0b50
+size = 0x5e
+name = "ASBR_VSPrintf"
+type = "int"
+
+[header]
+name = "ASBR_VSPrintf"
+addr = 0x1f0b50
+type = "int"
+
+[header.args]

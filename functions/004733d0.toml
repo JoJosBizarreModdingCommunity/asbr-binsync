@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x4733d0
+size = 0x6
+name = "??$size@H$0O@@std@@YA_KAEAY0O@$$CBH@Z"
+type = "long long"
+
+[header]
+name = "??$size@H$0O@@std@@YA_KAEAY0O@$$CBH@Z"
+addr = 0x4733d0
+type = "long long"
+
+[header.args]

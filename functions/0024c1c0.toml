@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x24c1c0
+size = 0x2b
+name = "ASBR_nuccLinkedList_uint32_CreateNode"
+type = "cc2_nuccLinkedList_uint32 *"
+
+[header]
+name = "ASBR_nuccLinkedList_uint32_CreateNode"
+addr = 0x24c1c0
+type = "cc2_nuccLinkedList_uint32 *"
+
+[header.args]

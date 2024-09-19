@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45eba
+size = 0x6
+name = "memset"
+type = "void *"
+
+[header]
+name = "memset"
+addr = 0xa45eba
+type = "void *"
+
+[header.args]

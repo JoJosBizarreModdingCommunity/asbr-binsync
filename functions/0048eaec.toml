@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x48eaec
+size = 0xff
+name = "ASBR_RenderPlayerTypeLabel"
+type = "long long"
+
+[header]
+name = "ASBR_RenderPlayerTypeLabel"
+addr = 0x48eaec
+type = "long long"
+
+[header.args]

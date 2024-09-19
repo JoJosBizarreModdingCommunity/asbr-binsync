@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6e8d30
+size = 0x7
+name = "GetCurrentThreadId"
+type = "DWORD"
+
+[header]
+name = "GetCurrentThreadId"
+addr = 0x6e8d30
+type = "DWORD"
+
+[header.args]

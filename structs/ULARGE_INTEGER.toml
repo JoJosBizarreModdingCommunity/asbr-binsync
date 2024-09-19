@@ -1,0 +1,21 @@
+last_change = 2024-09-19T13:58:47.970228Z
+name = "ULARGE_INTEGER"
+size = 0x8
+
+[members.0x0]
+name = "anonymous_0"
+offset = 0x0
+type = "struct _ULARGE_INTEGER::$0354AA9C204208F00D0965D07BBE7FAC"
+size = 0x8
+
+[members.0x1]
+name = "u"
+offset = 0x1
+type = "struct _ULARGE_INTEGER::$0354AA9C204208F00D0965D07BBE7FAC"
+size = 0x8
+
+[members.0x2]
+name = "QuadPart"
+offset = 0x2
+type = "ULONGLONG"
+size = 0x8

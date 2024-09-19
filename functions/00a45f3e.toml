@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45f3e
+size = 0x6
+name = "atoi"
+type = "int"
+
+[header]
+name = "atoi"
+addr = 0xa45f3e
+type = "int"
+
+[header.args]

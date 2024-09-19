@@ -1,0 +1,261 @@
+last_change = 2024-09-19T13:58:47.962084Z
+name = "ID3D11DeviceVtbl"
+size = 0x158
+
+[members.0x0]
+name = "QueryInterface"
+offset = 0x0
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const IID *const riid, void **ppvObject)"
+size = 0x8
+
+[members.0x8]
+name = "AddRef"
+offset = 0x8
+type = "ULONG (__stdcall *)(ID3D11Device *This)"
+size = 0x8
+
+[members.0x10]
+name = "Release"
+offset = 0x10
+type = "ULONG (__stdcall *)(ID3D11Device *This)"
+size = 0x8
+
+[members.0x18]
+name = "CreateBuffer"
+offset = 0x18
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_BUFFER_DESC *pDesc, const D3D11_SUBRESOURCE_DATA *pInitialData, ID3D11Buffer **ppBuffer)"
+size = 0x8
+
+[members.0x20]
+name = "CreateTexture1D"
+offset = 0x20
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_TEXTURE1D_DESC *pDesc, const D3D11_SUBRESOURCE_DATA *pInitialData, ID3D11Texture1D **ppTexture1D)"
+size = 0x8
+
+[members.0x28]
+name = "CreateTexture2D"
+offset = 0x28
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_TEXTURE2D_DESC *pDesc, const D3D11_SUBRESOURCE_DATA *pInitialData, ID3D11Texture2D **ppTexture2D)"
+size = 0x8
+
+[members.0x30]
+name = "CreateTexture3D"
+offset = 0x30
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_TEXTURE3D_DESC *pDesc, const D3D11_SUBRESOURCE_DATA *pInitialData, ID3D11Texture3D **ppTexture3D)"
+size = 0x8
+
+[members.0x38]
+name = "CreateShaderResourceView"
+offset = 0x38
+type = "HRESULT (__stdcall *)(ID3D11Device *This, ID3D11Resource *pResource, const D3D11_SHADER_RESOURCE_VIEW_DESC *pDesc, ID3D11ShaderResourceView **ppSRView)"
+size = 0x8
+
+[members.0x40]
+name = "CreateUnorderedAccessView"
+offset = 0x40
+type = "HRESULT (__stdcall *)(ID3D11Device *This, ID3D11Resource *pResource, const D3D11_UNORDERED_ACCESS_VIEW_DESC *pDesc, ID3D11UnorderedAccessView **ppUAView)"
+size = 0x8
+
+[members.0x48]
+name = "CreateRenderTargetView"
+offset = 0x48
+type = "HRESULT (__stdcall *)(ID3D11Device *This, ID3D11Resource *pResource, const D3D11_RENDER_TARGET_VIEW_DESC *pDesc, ID3D11RenderTargetView **ppRTView)"
+size = 0x8
+
+[members.0x50]
+name = "CreateDepthStencilView"
+offset = 0x50
+type = "HRESULT (__stdcall *)(ID3D11Device *This, ID3D11Resource *pResource, const D3D11_DEPTH_STENCIL_VIEW_DESC *pDesc, ID3D11DepthStencilView **ppDepthStencilView)"
+size = 0x8
+
+[members.0x58]
+name = "CreateInputLayout"
+offset = 0x58
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_INPUT_ELEMENT_DESC *pInputElementDescs, UINT NumElements, const void *pShaderBytecodeWithInputSignature, SIZE_T BytecodeLength, ID3D11InputLayout **ppInputLayout)"
+size = 0x8
+
+[members.0x60]
+name = "CreateVertexShader"
+offset = 0x60
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const void *pShaderBytecode, SIZE_T BytecodeLength, ID3D11ClassLinkage *pClassLinkage, ID3D11VertexShader **ppVertexShader)"
+size = 0x8
+
+[members.0x68]
+name = "CreateGeometryShader"
+offset = 0x68
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const void *pShaderBytecode, SIZE_T BytecodeLength, ID3D11ClassLinkage *pClassLinkage, ID3D11GeometryShader **ppGeometryShader)"
+size = 0x8
+
+[members.0x70]
+name = "CreateGeometryShaderWithStreamOutput"
+offset = 0x70
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const void *pShaderBytecode, SIZE_T BytecodeLength, const D3D11_SO_DECLARATION_ENTRY *pSODeclaration, UINT NumEntries, const UINT *pBufferStrides, UINT NumStrides, UINT RasterizedStream, ID3D11ClassLinkage *pClassLinkage, ID3D11GeometryShader **ppGeometryShader)"
+size = 0x8
+
+[members.0x78]
+name = "CreatePixelShader"
+offset = 0x78
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const void *pShaderBytecode, SIZE_T BytecodeLength, ID3D11ClassLinkage *pClassLinkage, ID3D11PixelShader **ppPixelShader)"
+size = 0x8
+
+[members.0x80]
+name = "CreateHullShader"
+offset = 0x80
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const void *pShaderBytecode, SIZE_T BytecodeLength, ID3D11ClassLinkage *pClassLinkage, ID3D11HullShader **ppHullShader)"
+size = 0x8
+
+[members.0x88]
+name = "CreateDomainShader"
+offset = 0x88
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const void *pShaderBytecode, SIZE_T BytecodeLength, ID3D11ClassLinkage *pClassLinkage, ID3D11DomainShader **ppDomainShader)"
+size = 0x8
+
+[members.0x90]
+name = "CreateComputeShader"
+offset = 0x90
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const void *pShaderBytecode, SIZE_T BytecodeLength, ID3D11ClassLinkage *pClassLinkage, ID3D11ComputeShader **ppComputeShader)"
+size = 0x8
+
+[members.0x98]
+name = "CreateClassLinkage"
+offset = 0x98
+type = "HRESULT (__stdcall *)(ID3D11Device *This, ID3D11ClassLinkage **ppLinkage)"
+size = 0x8
+
+[members.0xa0]
+name = "CreateBlendState"
+offset = 0xa0
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_BLEND_DESC *pBlendStateDesc, ID3D11BlendState **ppBlendState)"
+size = 0x8
+
+[members.0xa8]
+name = "CreateDepthStencilState"
+offset = 0xa8
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_DEPTH_STENCIL_DESC *pDepthStencilDesc, ID3D11DepthStencilState **ppDepthStencilState)"
+size = 0x8
+
+[members.0xb0]
+name = "CreateRasterizerState"
+offset = 0xb0
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_RASTERIZER_DESC *pRasterizerDesc, ID3D11RasterizerState **ppRasterizerState)"
+size = 0x8
+
+[members.0xb8]
+name = "CreateSamplerState"
+offset = 0xb8
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_SAMPLER_DESC *pSamplerDesc, ID3D11SamplerState **ppSamplerState)"
+size = 0x8
+
+[members.0xc0]
+name = "CreateQuery"
+offset = 0xc0
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_QUERY_DESC *pQueryDesc, ID3D11Query **ppQuery)"
+size = 0x8
+
+[members.0xc8]
+name = "CreatePredicate"
+offset = 0xc8
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_QUERY_DESC *pPredicateDesc, ID3D11Predicate **ppPredicate)"
+size = 0x8
+
+[members.0xd0]
+name = "CreateCounter"
+offset = 0xd0
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_COUNTER_DESC *pCounterDesc, ID3D11Counter **ppCounter)"
+size = 0x8
+
+[members.0xd8]
+name = "CreateDeferredContext"
+offset = 0xd8
+type = "HRESULT (__stdcall *)(ID3D11Device *This, UINT ContextFlags, ID3D11DeviceContext **ppDeferredContext)"
+size = 0x8
+
+[members.0xe0]
+name = "OpenSharedResource"
+offset = 0xe0
+type = "HRESULT (__stdcall *)(ID3D11Device *This, HANDLE hResource, const IID *const ReturnedInterface, void **ppResource)"
+size = 0x8
+
+[members.0xe8]
+name = "CheckFormatSupport"
+offset = 0xe8
+type = "HRESULT (__stdcall *)(ID3D11Device *This, DXGI_FORMAT Format, UINT *pFormatSupport)"
+size = 0x8
+
+[members.0xf0]
+name = "CheckMultisampleQualityLevels"
+offset = 0xf0
+type = "HRESULT (__stdcall *)(ID3D11Device *This, DXGI_FORMAT Format, UINT SampleCount, UINT *pNumQualityLevels)"
+size = 0x8
+
+[members.0xf8]
+name = "CheckCounterInfo"
+offset = 0xf8
+type = "void (__stdcall *)(ID3D11Device *This, D3D11_COUNTER_INFO *pCounterInfo)"
+size = 0x8
+
+[members.0x100]
+name = "CheckCounter"
+offset = 0x100
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const D3D11_COUNTER_DESC *pDesc, D3D11_COUNTER_TYPE *pType, UINT *pActiveCounters, LPSTR szName, UINT *pNameLength, LPSTR szUnits, UINT *pUnitsLength, LPSTR szDescription, UINT *pDescriptionLength)"
+size = 0x8
+
+[members.0x108]
+name = "CheckFeatureSupport"
+offset = 0x108
+type = "HRESULT (__stdcall *)(ID3D11Device *This, D3D11_FEATURE Feature, void *pFeatureSupportData, UINT FeatureSupportDataSize)"
+size = 0x8
+
+[members.0x110]
+name = "GetPrivateData"
+offset = 0x110
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const GUID *const guid, UINT *pDataSize, void *pData)"
+size = 0x8
+
+[members.0x118]
+name = "SetPrivateData"
+offset = 0x118
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const GUID *const guid, UINT DataSize, const void *pData)"
+size = 0x8
+
+[members.0x120]
+name = "SetPrivateDataInterface"
+offset = 0x120
+type = "HRESULT (__stdcall *)(ID3D11Device *This, const GUID *const guid, const IUnknown *pData)"
+size = 0x8
+
+[members.0x128]
+name = "GetFeatureLevel"
+offset = 0x128
+type = "D3D_FEATURE_LEVEL (__stdcall *)(ID3D11Device *This)"
+size = 0x8
+
+[members.0x130]
+name = "GetCreationFlags"
+offset = 0x130
+type = "UINT (__stdcall *)(ID3D11Device *This)"
+size = 0x8
+
+[members.0x138]
+name = "GetDeviceRemovedReason"
+offset = 0x138
+type = "HRESULT (__stdcall *)(ID3D11Device *This)"
+size = 0x8
+
+[members.0x140]
+name = "GetImmediateContext"
+offset = 0x140
+type = "void (__stdcall *)(ID3D11Device *This, ID3D11DeviceContext **ppImmediateContext)"
+size = 0x8
+
+[members.0x148]
+name = "SetExceptionMode"
+offset = 0x148
+type = "HRESULT (__stdcall *)(ID3D11Device *This, UINT RaiseFlags)"
+size = 0x8
+
+[members.0x150]
+name = "GetExceptionMode"
+offset = 0x150
+type = "UINT (__stdcall *)(ID3D11Device *This)"
+size = 0x8

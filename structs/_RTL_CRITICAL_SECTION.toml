@@ -1,0 +1,39 @@
+last_change = 2024-09-19T13:58:47.978830Z
+name = "_RTL_CRITICAL_SECTION"
+size = 0x28
+
+[members.0x0]
+name = "DebugInfo"
+offset = 0x0
+type = "PRTL_CRITICAL_SECTION_DEBUG"
+size = 0x8
+
+[members.0x8]
+name = "LockCount"
+offset = 0x8
+type = "LONG"
+size = 0x4
+
+[members.0xc]
+name = "RecursionCount"
+offset = 0xc
+type = "LONG"
+size = 0x4
+
+[members.0x10]
+name = "OwningThread"
+offset = 0x10
+type = "HANDLE"
+size = 0x8
+
+[members.0x18]
+name = "LockSemaphore"
+offset = 0x18
+type = "HANDLE"
+size = 0x8
+
+[members.0x20]
+name = "SpinCount"
+offset = 0x20
+type = "ULONG_PTR"
+size = 0x8

@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa6a838
+size = 0x6
+name = "??$size@D$04@std@@YA_KAEAY04$$CBD@Z_1"
+
+[header]
+name = "??$size@D$04@std@@YA_KAEAY04$$CBD@Z_1"
+addr = 0xa6a838
+
+[header.args]

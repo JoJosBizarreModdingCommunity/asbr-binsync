@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa44240
+size = 0x49
+name = "__scrt_initialize_crt"
+type = "long long"
+
+[header]
+name = "__scrt_initialize_crt"
+addr = 0xa44240
+type = "long long"
+
+[header.args]

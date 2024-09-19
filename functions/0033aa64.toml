@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x33aa64
+size = 0x2b
+name = "??_G?$_Ref_count_del_alloc@V__ExceptionPtr@@P6AXPEAV1@@ZU?$_DebugMallocator@H@@@std@@UEAAPEAXI@Z_1"
+
+[header]
+name = "??_G?$_Ref_count_del_alloc@V__ExceptionPtr@@P6AXPEAV1@@ZU?$_DebugMallocator@H@@@std@@UEAAPEAXI@Z_1"
+addr = 0x33aa64
+
+[header.args]

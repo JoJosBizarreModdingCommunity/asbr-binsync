@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6bf340
+size = 0x16
+name = "ASBR_nuccAllocator_Free"
+type = "long long"
+
+[header]
+name = "ASBR_nuccAllocator_Free"
+addr = 0x6bf340
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x21e1d4
+size = 0x76
+name = "ASBR_str_concat"
+type = "cc2_string_obj *"
+
+[header]
+name = "ASBR_str_concat"
+addr = 0x21e1d4
+type = "cc2_string_obj *"
+
+[header.args]

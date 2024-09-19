@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa06db1
+size = 0x6
+name = "IsProcessorFeaturePresent"
+type = "BOOL"
+
+[header]
+name = "IsProcessorFeaturePresent"
+addr = 0xa06db1
+type = "BOOL"
+
+[header.args]

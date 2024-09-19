@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x228424
+size = 0xe
+name = "ASBR_ccBattleDirectionManager::Ctrl"
+type = "void"
+
+[header]
+name = "ASBR_ccBattleDirectionManager::Ctrl"
+addr = 0x228424
+type = "void"
+
+[header.args]

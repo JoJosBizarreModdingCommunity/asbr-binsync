@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf805f
+size = 0x6
+name = "log10"
+type = "double"
+
+[header]
+name = "log10"
+addr = 0xaf805f
+type = "double"
+
+[header.args]

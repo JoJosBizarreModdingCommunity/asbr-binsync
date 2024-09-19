@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xb743a2
+size = 0x1e
+name = "?filt$0@?0??__scrt_common_main_seh@@YAHXZ@4HA"
+type = "long long"
+
+[header]
+name = "?filt$0@?0??__scrt_common_main_seh@@YAHXZ@4HA"
+addr = 0xb743a2
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa44140
+size = 0x6
+name = "_Cnd_init"
+type = "int"
+
+[header]
+name = "_Cnd_init"
+addr = 0xa44140
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x936500
+size = 0x16
+name = "StartAddress"
+type = "void"
+
+[header]
+name = "StartAddress"
+addr = 0x936500
+type = "void"
+
+[header.args]

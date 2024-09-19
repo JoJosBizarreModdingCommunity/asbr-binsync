@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.984365Z
+name = "_Thrd_t"
+size = 0x10
+
+[members.0x0]
+name = "_Hnd"
+offset = 0x0
+type = "void *"
+size = 0x8
+
+[members.0x8]
+name = "_Id"
+offset = 0x8
+type = "_Thrd_id_t"
+size = 0x4

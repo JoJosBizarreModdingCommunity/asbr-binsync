@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf808f
+size = 0x6
+name = "fabs"
+type = "double"
+
+[header]
+name = "fabs"
+addr = 0xaf808f
+type = "double"
+
+[header.args]

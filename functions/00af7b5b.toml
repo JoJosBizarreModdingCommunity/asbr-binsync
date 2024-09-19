@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf7b5b
+size = 0x6
+name = "ImmDestroyContext"
+type = "BOOL"
+
+[header]
+name = "ImmDestroyContext"
+addr = 0xaf7b5b
+type = "BOOL"
+
+[header.args]

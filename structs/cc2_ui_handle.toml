@@ -1,0 +1,33 @@
+last_change = 2024-09-19T13:58:47.993429Z
+name = "cc2_ui_handle"
+size = 0x28
+
+[members.0x0]
+name = "field_0"
+offset = 0x0
+type = ""
+size = 0x8
+
+[members.0x8]
+name = "field_8"
+offset = 0x8
+type = ""
+size = 0x8
+
+[members.0x10]
+name = "func_init"
+offset = 0x10
+type = "long long (__fastcall **)(cc2_ui_handle *)"
+size = 0x8
+
+[members.0x18]
+name = "func_delete"
+offset = 0x18
+type = "cc2_ui_handle *(__fastcall **)(cc2_ui_handle *)"
+size = 0x8
+
+[members.0x20]
+name = "field_20"
+offset = 0x20
+type = ""
+size = 0x8

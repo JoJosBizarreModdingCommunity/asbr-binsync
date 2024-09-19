@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa460f4
+size = 0x6
+name = "_strdup"
+type = "char *"
+
+[header]
+name = "_strdup"
+addr = 0xa460f4
+type = "char *"
+
+[header.args]

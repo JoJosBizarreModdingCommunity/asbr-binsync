@@ -1,0 +1,21 @@
+last_change = 2024-09-19T13:58:47.993429Z
+name = "nuccChunkMapElement"
+size = 0xc
+
+[members.0x0]
+name = "strPtr"
+offset = 0x0
+type = ""
+size = 0x8
+
+[members.0x8]
+name = "strHash"
+offset = 0x8
+type = ""
+size = 0x2
+
+[members.0xa]
+name = "a1Index"
+offset = 0xa
+type = ""
+size = 0x2

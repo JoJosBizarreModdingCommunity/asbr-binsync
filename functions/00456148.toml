@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x456148
+size = 0x35
+name = "ASBR_GetVariable_56_7"
+type = "unsigned char *"
+
+[header]
+name = "ASBR_GetVariable_56_7"
+addr = 0x456148
+type = "unsigned char *"
+
+[header.args]

@@ -1,0 +1,27 @@
+last_change = 2024-09-19T13:58:47.979828Z
+name = "_RTTIClassHierarchyDescriptor"
+size = 0x10
+
+[members.0x0]
+name = "signature"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "attributes"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "numBaseClasses"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "baseClassArray"
+offset = 0xc
+type = ""
+size = 0x4

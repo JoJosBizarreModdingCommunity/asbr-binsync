@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x37541c
+size = 0x9
+name = "ASBR_ccPlayer::AfterCharacterCollision0"
+
+[header]
+name = "ASBR_ccPlayer::AfterCharacterCollision0"
+addr = 0x37541c
+
+[header.args]

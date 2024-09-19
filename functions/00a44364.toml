@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa44364
+size = 0x99
+name = "__scrt_is_nonwritable_in_current_image"
+type = "long long"
+
+[header]
+name = "__scrt_is_nonwritable_in_current_image"
+addr = 0xa44364
+type = "long long"
+
+[header.args]

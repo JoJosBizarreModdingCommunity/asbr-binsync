@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6bf4b0
+size = 0x58
+name = "ASBR_FreeBlock"
+type = "void"
+
+[header]
+name = "ASBR_FreeBlock"
+addr = 0x6bf4b0
+type = "void"
+
+[header.args]

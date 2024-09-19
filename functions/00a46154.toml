@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa46154
+size = 0x6
+name = "_register_thread_local_exe_atexit_callback"
+type = "void"
+
+[header]
+name = "_register_thread_local_exe_atexit_callback"
+addr = 0xa46154
+type = "void"
+
+[header.args]

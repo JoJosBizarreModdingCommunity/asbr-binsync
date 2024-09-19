@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x3e3c60
+size = 0x6
+name = "?digamma_large_lim@detail@math@boost@@YAIPEBX@Z"
+type = "unsigned int"
+
+[header]
+name = "?digamma_large_lim@detail@math@boost@@YAIPEBX@Z"
+addr = 0x3e3c60
+type = "unsigned int"
+
+[header.args]

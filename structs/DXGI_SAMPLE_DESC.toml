@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.955341Z
+name = "DXGI_SAMPLE_DESC"
+size = 0x8
+
+[members.0x0]
+name = "Count"
+offset = 0x0
+type = "UINT"
+size = 0x4
+
+[members.0x4]
+name = "Quality"
+offset = 0x4
+type = "UINT"
+size = 0x4

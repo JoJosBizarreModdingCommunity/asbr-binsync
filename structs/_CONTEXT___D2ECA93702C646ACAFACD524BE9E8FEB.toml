@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.975238Z
+name = "_CONTEXT::$D2ECA93702C646ACAFACD524BE9E8FEB"
+size = 0x200
+
+[members.0x0]
+name = "FltSave"
+offset = 0x0
+type = "XMM_SAVE_AREA32"
+size = 0x200
+
+[members.0x1]
+name = "anonymous_0"
+offset = 0x1
+type = "struct _CONTEXT::$D2ECA93702C646ACAFACD524BE9E8FEB::$897D11C01F73F7E79A06B0B9ED9B9414"
+size = 0x1a0

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa453a4
+size = 0x5
+name = "j_UserMathErrorFunction"
+type = "int"
+
+[header]
+name = "j_UserMathErrorFunction"
+addr = 0xa453a4
+type = "int"
+
+[header.args]

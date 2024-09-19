@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf8071
+size = 0x6
+name = "_wassert"
+type = "void"
+
+[header]
+name = "_wassert"
+addr = 0xaf8071
+type = "void"
+
+[header.args]

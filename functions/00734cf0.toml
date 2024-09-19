@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x734cf0
+size = 0x97
+name = "ASBR_InitNuccChunkMapElement"
+type = "int *"
+
+[header]
+name = "ASBR_InitNuccChunkMapElement"
+addr = 0x734cf0
+type = "int *"
+
+[header.args]

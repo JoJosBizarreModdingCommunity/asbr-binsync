@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa460c4
+size = 0x6
+name = "_wfopen"
+type = "FILE *"
+
+[header]
+name = "_wfopen"
+addr = 0xa460c4
+type = "FILE *"
+
+[header.args]

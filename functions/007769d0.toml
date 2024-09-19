@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x7769d0
+size = 0xc
+name = "ASBR_LoadXFBIN_Mode2"
+type = "long long"
+
+[header]
+name = "ASBR_LoadXFBIN_Mode2"
+addr = 0x7769d0
+type = "long long"
+
+[header.args]

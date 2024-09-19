@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45fb0
+size = 0x6
+name = "realloc"
+type = "void *"
+
+[header]
+name = "realloc"
+addr = 0xa45fb0
+type = "void *"
+
+[header.args]

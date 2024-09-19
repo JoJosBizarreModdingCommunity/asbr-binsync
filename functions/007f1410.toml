@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x7f1410
+size = 0x2b
+name = "??_G?$codecvt@_WDU_Mbstatet@@@std@@MEAAPEAXI@Z_6"
+
+[header]
+name = "??_G?$codecvt@_WDU_Mbstatet@@@std@@MEAAPEAXI@Z_6"
+addr = 0x7f1410
+
+[header.args]

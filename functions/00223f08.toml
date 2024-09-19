@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x223f08
+size = 0x29
+name = "ASBR_ccSceneBattleBegin::UpdateState"
+type = "void"
+
+[header]
+name = "ASBR_ccSceneBattleBegin::UpdateState"
+addr = 0x223f08
+type = "void"
+
+[header.args]

@@ -1,0 +1,21 @@
+last_change = 2024-09-19T13:58:47.991896Z
+name = "cc2_nuccLinkedList_uint32"
+size = 0x14
+
+[members.0x0]
+name = "prev"
+offset = 0x0
+type = ""
+size = 0x8
+
+[members.0x8]
+name = "next"
+offset = 0x8
+type = ""
+size = 0x8
+
+[members.0x10]
+name = "value"
+offset = 0x10
+type = ""
+size = 0x4

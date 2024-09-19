@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x772910
+size = 0x10
+name = "ASBR_Camera_SetPos"
+type = "long long"
+
+[header]
+name = "ASBR_Camera_SetPos"
+addr = 0x772910
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6b97e0
+size = 0x4a
+name = "??_Gios_base@std@@UEAAPEAXI@Z"
+type = "void *"
+
+[header]
+name = "??_Gios_base@std@@UEAAPEAXI@Z"
+addr = 0x6b97e0
+type = "void *"
+
+[header.args]

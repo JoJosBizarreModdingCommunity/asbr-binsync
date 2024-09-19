@@ -1,0 +1,117 @@
+last_change = 2024-09-19T13:58:47.967581Z
+name = "IDXGIOutputVtbl"
+size = 0x98
+
+[members.0x0]
+name = "QueryInterface"
+offset = 0x0
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, const IID *const riid, void **ppvObject)"
+size = 0x8
+
+[members.0x8]
+name = "AddRef"
+offset = 0x8
+type = "ULONG (__stdcall *)(IDXGIOutput *This)"
+size = 0x8
+
+[members.0x10]
+name = "Release"
+offset = 0x10
+type = "ULONG (__stdcall *)(IDXGIOutput *This)"
+size = 0x8
+
+[members.0x18]
+name = "SetPrivateData"
+offset = 0x18
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, const GUID *const Name, UINT DataSize, const void *pData)"
+size = 0x8
+
+[members.0x20]
+name = "SetPrivateDataInterface"
+offset = 0x20
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, const GUID *const Name, const IUnknown *pUnknown)"
+size = 0x8
+
+[members.0x28]
+name = "GetPrivateData"
+offset = 0x28
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, const GUID *const Name, UINT *pDataSize, void *pData)"
+size = 0x8
+
+[members.0x30]
+name = "GetParent"
+offset = 0x30
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, const IID *const riid, void **ppParent)"
+size = 0x8
+
+[members.0x38]
+name = "GetDesc"
+offset = 0x38
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, DXGI_OUTPUT_DESC *pDesc)"
+size = 0x8
+
+[members.0x40]
+name = "GetDisplayModeList"
+offset = 0x40
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, DXGI_FORMAT EnumFormat, UINT Flags, UINT *pNumModes, DXGI_MODE_DESC *pDesc)"
+size = 0x8
+
+[members.0x48]
+name = "FindClosestMatchingMode"
+offset = 0x48
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, const DXGI_MODE_DESC *pModeToMatch, DXGI_MODE_DESC *pClosestMatch, IUnknown *pConcernedDevice)"
+size = 0x8
+
+[members.0x50]
+name = "WaitForVBlank"
+offset = 0x50
+type = "HRESULT (__stdcall *)(IDXGIOutput *This)"
+size = 0x8
+
+[members.0x58]
+name = "TakeOwnership"
+offset = 0x58
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, IUnknown *pDevice, BOOL Exclusive)"
+size = 0x8
+
+[members.0x60]
+name = "ReleaseOwnership"
+offset = 0x60
+type = "void (__stdcall *)(IDXGIOutput *This)"
+size = 0x8
+
+[members.0x68]
+name = "GetGammaControlCapabilities"
+offset = 0x68
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, DXGI_GAMMA_CONTROL_CAPABILITIES *pGammaCaps)"
+size = 0x8
+
+[members.0x70]
+name = "SetGammaControl"
+offset = 0x70
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, const DXGI_GAMMA_CONTROL *pArray)"
+size = 0x8
+
+[members.0x78]
+name = "GetGammaControl"
+offset = 0x78
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, DXGI_GAMMA_CONTROL *pArray)"
+size = 0x8
+
+[members.0x80]
+name = "SetDisplaySurface"
+offset = 0x80
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, IDXGISurface *pScanoutSurface)"
+size = 0x8
+
+[members.0x88]
+name = "GetDisplaySurfaceData"
+offset = 0x88
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, IDXGISurface *pDestination)"
+size = 0x8
+
+[members.0x90]
+name = "GetFrameStatistics"
+offset = 0x90
+type = "HRESULT (__stdcall *)(IDXGIOutput *This, DXGI_FRAME_STATISTICS *pStats)"
+size = 0x8

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa46106
+size = 0x6
+name = "_register_onexit_function"
+type = "int"
+
+[header]
+name = "_register_onexit_function"
+addr = 0xa46106
+type = "int"
+
+[header.args]

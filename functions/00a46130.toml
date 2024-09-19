@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa46130
+size = 0x6
+name = "_initialize_wide_environment"
+type = "int"
+
+[header]
+name = "_initialize_wide_environment"
+addr = 0xa46130
+type = "int"
+
+[header.args]

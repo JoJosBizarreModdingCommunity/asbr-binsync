@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45fe6
+size = 0x6
+name = "rand"
+type = "int"
+
+[header]
+name = "rand"
+addr = 0xa45fe6
+type = "int"
+
+[header.args]

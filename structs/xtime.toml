@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.995452Z
+name = "xtime"
+size = 0x10
+
+[members.0x0]
+name = "sec"
+offset = 0x0
+type = "__time64_t"
+size = 0x8
+
+[members.0x8]
+name = "nsec"
+offset = 0x8
+type = "int"
+size = 0x4

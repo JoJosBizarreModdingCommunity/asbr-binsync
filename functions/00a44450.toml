@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa44450
+size = 0x4f
+name = "_onexit"
+type = "_onexit_t"
+
+[header]
+name = "_onexit"
+addr = 0xa44450
+type = "_onexit_t"
+
+[header.args]

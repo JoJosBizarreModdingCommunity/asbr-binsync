@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa46088
+size = 0x6
+name = "setvbuf"
+type = "int"
+
+[header]
+name = "setvbuf"
+addr = 0xa46088
+type = "int"
+
+[header.args]

@@ -1,0 +1,21 @@
+last_change = 2024-09-19T13:58:47.987867Z
+name = "_onexit_table_t"
+size = 0x18
+
+[members.0x0]
+name = "_first"
+offset = 0x0
+type = "_PVFV *"
+size = 0x8
+
+[members.0x8]
+name = "_last"
+offset = 0x8
+type = "_PVFV *"
+size = 0x8
+
+[members.0x10]
+name = "_end"
+offset = 0x10
+type = "_PVFV *"
+size = 0x8

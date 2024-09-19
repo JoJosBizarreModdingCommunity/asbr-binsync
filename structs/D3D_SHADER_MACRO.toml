@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.951348Z
+name = "D3D_SHADER_MACRO"
+size = 0x10
+
+[members.0x0]
+name = "Name"
+offset = 0x0
+type = "LPCSTR"
+size = 0x8
+
+[members.0x8]
+name = "Definition"
+offset = 0x8
+type = "LPCSTR"
+size = 0x8

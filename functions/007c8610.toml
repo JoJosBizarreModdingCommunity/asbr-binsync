@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x7c8610
+size = 0x21
+name = "??_G_Iostream_error_category2@std@@UEAAPEAXI@Z"
+type = "void *"
+
+[header]
+name = "??_G_Iostream_error_category2@std@@UEAAPEAXI@Z"
+addr = 0x7c8610
+type = "void *"
+
+[header.args]

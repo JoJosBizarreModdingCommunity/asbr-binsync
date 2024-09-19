@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x259af8
+size = 0x9
+name = "ASBR_nuccParticleRootManager::Ctrl"
+type = "long long"
+
+[header]
+name = "ASBR_nuccParticleRootManager::Ctrl"
+addr = 0x259af8
+type = "long long"
+
+[header.args]

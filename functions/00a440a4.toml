@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa440a4
+size = 0x6
+name = "?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z"
+
+[header]
+name = "?imbue@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAXAEBVlocale@2@@Z"
+addr = 0xa440a4
+
+[header.args]

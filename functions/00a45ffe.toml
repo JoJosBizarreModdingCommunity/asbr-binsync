@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45ffe
+size = 0x6
+name = "sqrtf"
+type = "float"
+
+[header]
+name = "sqrtf"
+addr = 0xa45ffe
+type = "float"
+
+[header.args]

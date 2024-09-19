@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6322e0
+size = 0x82
+name = "ASBR_ccUiSoundEffectManager::Ctrl"
+type = "_QWORD *"
+
+[header]
+name = "ASBR_ccUiSoundEffectManager::Ctrl"
+addr = 0x6322e0
+type = "_QWORD *"
+
+[header.args]

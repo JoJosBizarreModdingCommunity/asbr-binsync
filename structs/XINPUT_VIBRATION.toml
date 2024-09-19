@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.972238Z
+name = "XINPUT_VIBRATION"
+size = 0x4
+
+[members.0x0]
+name = "wLeftMotorSpeed"
+offset = 0x0
+type = "WORD"
+size = 0x2
+
+[members.0x2]
+name = "wRightMotorSpeed"
+offset = 0x2
+type = "WORD"
+size = 0x2

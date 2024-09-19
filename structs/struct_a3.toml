@@ -1,0 +1,69 @@
+last_change = 2024-09-19T13:58:47.994454Z
+name = "struct_a3"
+size = 0x1e
+
+[members.0x0]
+name = "gap0"
+offset = 0x0
+type = "_BYTE[4]"
+size = 0x4
+
+[members.0x4]
+name = "width"
+offset = 0x4
+type = "unsigned short"
+size = 0x2
+
+[members.0x6]
+name = "height"
+offset = 0x6
+type = "unsigned short"
+size = 0x2
+
+[members.0x8]
+name = "gap8"
+offset = 0x8
+type = "_BYTE[4]"
+size = 0x4
+
+[members.0xc]
+name = "unsigned_intC"
+offset = 0xc
+type = "unsigned int"
+size = 0x4
+
+[members.0x10]
+name = "byte10"
+offset = 0x10
+type = "_BYTE"
+size = 0x1
+
+[members.0x11]
+name = "gap11"
+offset = 0x11
+type = "_BYTE[3]"
+size = 0x3
+
+[members.0x14]
+name = "dword14"
+offset = 0x14
+type = "_DWORD"
+size = 0x4
+
+[members.0x18]
+name = "unsigned_int18"
+offset = 0x18
+type = "unsigned int"
+size = 0x4
+
+[members.0x1c]
+name = "isWindowed"
+offset = 0x1c
+type = "_BYTE"
+size = 0x1
+
+[members.0x1d]
+name = "byte1D"
+offset = 0x1d
+type = "_BYTE"
+size = 0x1

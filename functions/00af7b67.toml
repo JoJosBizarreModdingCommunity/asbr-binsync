@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf7b67
+size = 0x6
+name = "ImmReleaseContext"
+type = "BOOL"
+
+[header]
+name = "ImmReleaseContext"
+addr = 0xaf7b67
+type = "BOOL"
+
+[header.args]

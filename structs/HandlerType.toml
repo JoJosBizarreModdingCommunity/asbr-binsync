@@ -1,0 +1,33 @@
+last_change = 2024-09-19T13:58:47.956365Z
+name = "HandlerType"
+size = 0x14
+
+[members.0x0]
+name = "adjectives"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "pType"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "dispCatchObj"
+offset = 0x8
+type = ""
+size = 0x4
+
+[members.0xc]
+name = "addressOfHandler"
+offset = 0xc
+type = ""
+size = 0x4
+
+[members.0x10]
+name = "dispFrame"
+offset = 0x10
+type = ""
+size = 0x4

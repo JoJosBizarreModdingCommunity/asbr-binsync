@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa4521c
+size = 0x14a
+name = "__scrt_fastfail"
+type = "long long"
+
+[header]
+name = "__scrt_fastfail"
+addr = 0xa4521c
+type = "long long"
+
+[header.args]

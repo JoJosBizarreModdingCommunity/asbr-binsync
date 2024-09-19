@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x37e350
+size = 0x45
+name = "ASBR_ccPlayer::StoreDamage"
+
+[header]
+name = "ASBR_ccPlayer::StoreDamage"
+addr = 0x37e350
+
+[header.args]

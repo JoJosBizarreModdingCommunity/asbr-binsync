@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0xa447e0
+size = 0x51
+name = "_alloca_probe"
+
+[header]
+name = "_alloca_probe"
+addr = 0xa447e0
+
+[header.args]

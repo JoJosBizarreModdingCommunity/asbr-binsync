@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf802f
+size = 0x6
+name = "modf"
+type = "double"
+
+[header]
+name = "modf"
+addr = 0xaf802f
+type = "double"
+
+[header.args]

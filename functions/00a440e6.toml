@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa440e6
+size = 0x6
+name = "?__ExceptionPtrAssign@@YAXPEAXPEBX@Z"
+type = "void"
+
+[header]
+name = "?__ExceptionPtrAssign@@YAXPEAXPEBX@Z"
+addr = 0xa440e6
+type = "void"
+
+[header.args]

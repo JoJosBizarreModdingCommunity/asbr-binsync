@@ -1,0 +1,519 @@
+last_change = 2024-09-19T13:58:47.981363Z
+name = "_TEB"
+size = 0x1818
+
+[members.0x0]
+name = "NtTib"
+offset = 0x0
+type = "struct _NT_TIB"
+size = 0x38
+
+[members.0x38]
+name = "EnvironmentPointer"
+offset = 0x38
+type = "void *"
+size = 0x8
+
+[members.0x40]
+name = "ClientId"
+offset = 0x40
+type = "struct _CLIENT_ID"
+size = 0x10
+
+[members.0x50]
+name = "ActiveRpcHandle"
+offset = 0x50
+type = "void *"
+size = 0x8
+
+[members.0x58]
+name = "ThreadLocalStoragePointer"
+offset = 0x58
+type = "void *"
+size = 0x8
+
+[members.0x60]
+name = "ProcessEnvironmentBlock"
+offset = 0x60
+type = "struct _PEB *"
+size = 0x8
+
+[members.0x68]
+name = "LastErrorValue"
+offset = 0x68
+type = "unsigned int"
+size = 0x4
+
+[members.0x6c]
+name = "CountOfOwnedCriticalSections"
+offset = 0x6c
+type = "unsigned int"
+size = 0x4
+
+[members.0x70]
+name = "CsrClientThread"
+offset = 0x70
+type = "void *"
+size = 0x8
+
+[members.0x78]
+name = "Win32ThreadInfo"
+offset = 0x78
+type = "void *"
+size = 0x8
+
+[members.0x80]
+name = "User32Reserved"
+offset = 0x80
+type = "unsigned int[26]"
+size = 0x68
+
+[members.0xe8]
+name = "UserReserved"
+offset = 0xe8
+type = "unsigned int[5]"
+size = 0x14
+
+[members.0x100]
+name = "WOW32Reserved"
+offset = 0x100
+type = "void *"
+size = 0x8
+
+[members.0x108]
+name = "CurrentLocale"
+offset = 0x108
+type = "unsigned int"
+size = 0x4
+
+[members.0x10c]
+name = "FpSoftwareStatusRegister"
+offset = 0x10c
+type = "unsigned int"
+size = 0x4
+
+[members.0x110]
+name = "SystemReserved1"
+offset = 0x110
+type = "void *[54]"
+size = 0x1b0
+
+[members.0x2c0]
+name = "ExceptionCode"
+offset = 0x2c0
+type = "int"
+size = 0x4
+
+[members.0x2c8]
+name = "ActivationContextStackPointer"
+offset = 0x2c8
+type = "struct _ACTIVATION_CONTEXT_STACK *"
+size = 0x8
+
+[members.0x2d0]
+name = "SpareBytes"
+offset = 0x2d0
+type = "uint8_t[24]"
+size = 0x18
+
+[members.0x2e8]
+name = "TxFsContext"
+offset = 0x2e8
+type = "unsigned int"
+size = 0x4
+
+[members.0x2f0]
+name = "GdiTebBatch"
+offset = 0x2f0
+type = "struct _GDI_TEB_BATCH"
+size = 0x4e8
+
+[members.0x7d8]
+name = "RealClientId"
+offset = 0x7d8
+type = "struct _CLIENT_ID"
+size = 0x10
+
+[members.0x7e8]
+name = "GdiCachedProcessHandle"
+offset = 0x7e8
+type = "void *"
+size = 0x8
+
+[members.0x7f0]
+name = "GdiClientPID"
+offset = 0x7f0
+type = "unsigned int"
+size = 0x4
+
+[members.0x7f4]
+name = "GdiClientTID"
+offset = 0x7f4
+type = "unsigned int"
+size = 0x4
+
+[members.0x7f8]
+name = "GdiThreadLocalInfo"
+offset = 0x7f8
+type = "void *"
+size = 0x8
+
+[members.0x800]
+name = "Win32ClientInfo"
+offset = 0x800
+type = "uint64_t[62]"
+size = 0x1f0
+
+[members.0x9f0]
+name = "glDispatchTable"
+offset = 0x9f0
+type = "void *[233]"
+size = 0x748
+
+[members.0x1138]
+name = "glReserved1"
+offset = 0x1138
+type = "uint64_t[29]"
+size = 0xe8
+
+[members.0x1220]
+name = "glReserved2"
+offset = 0x1220
+type = "void *"
+size = 0x8
+
+[members.0x1228]
+name = "glSectionInfo"
+offset = 0x1228
+type = "void *"
+size = 0x8
+
+[members.0x1230]
+name = "glSection"
+offset = 0x1230
+type = "void *"
+size = 0x8
+
+[members.0x1238]
+name = "glTable"
+offset = 0x1238
+type = "void *"
+size = 0x8
+
+[members.0x1240]
+name = "glCurrentRC"
+offset = 0x1240
+type = "void *"
+size = 0x8
+
+[members.0x1248]
+name = "glContext"
+offset = 0x1248
+type = "void *"
+size = 0x8
+
+[members.0x1250]
+name = "LastStatusValue"
+offset = 0x1250
+type = "unsigned int"
+size = 0x4
+
+[members.0x1258]
+name = "StaticUnicodeString"
+offset = 0x1258
+type = "struct _UNICODE_STRING"
+size = 0x10
+
+[members.0x1268]
+name = "StaticUnicodeBuffer"
+offset = 0x1268
+type = "wchar_t[261]"
+size = 0x20a
+
+[members.0x1478]
+name = "DeallocationStack"
+offset = 0x1478
+type = "void *"
+size = 0x8
+
+[members.0x1480]
+name = "TlsSlots"
+offset = 0x1480
+type = "void *[64]"
+size = 0x200
+
+[members.0x1680]
+name = "TlsLinks"
+offset = 0x1680
+type = "struct _LIST_ENTRY"
+size = 0x10
+
+[members.0x1690]
+name = "Vdm"
+offset = 0x1690
+type = "void *"
+size = 0x8
+
+[members.0x1698]
+name = "ReservedForNtRpc"
+offset = 0x1698
+type = "void *"
+size = 0x8
+
+[members.0x16a0]
+name = "DbgSsReserved"
+offset = 0x16a0
+type = "void *[2]"
+size = 0x10
+
+[members.0x16b0]
+name = "HardErrorMode"
+offset = 0x16b0
+type = "unsigned int"
+size = 0x4
+
+[members.0x16b8]
+name = "Instrumentation"
+offset = 0x16b8
+type = "void *[11]"
+size = 0x58
+
+[members.0x1710]
+name = "ActivityId"
+offset = 0x1710
+type = "struct _GUID"
+size = 0x10
+
+[members.0x1720]
+name = "SubProcessTag"
+offset = 0x1720
+type = "void *"
+size = 0x8
+
+[members.0x1728]
+name = "EtwLocalData"
+offset = 0x1728
+type = "void *"
+size = 0x8
+
+[members.0x1730]
+name = "EtwTraceData"
+offset = 0x1730
+type = "void *"
+size = 0x8
+
+[members.0x1738]
+name = "WinSockData"
+offset = 0x1738
+type = "void *"
+size = 0x8
+
+[members.0x1740]
+name = "GdiBatchCount"
+offset = 0x1740
+type = "unsigned int"
+size = 0x4
+
+[members.0x1744]
+name = "anonymous_0"
+offset = 0x1744
+type = "union _TEB::$A3D02A70492DFE9D91413B66511C1D96"
+size = 0x4
+
+[members.0x1748]
+name = "ReservedPad1"
+offset = 0x1748
+type = "uint8_t"
+size = 0x1
+
+[members.0x1749]
+name = "ReservedPad2"
+offset = 0x1749
+type = "uint8_t"
+size = 0x1
+
+[members.0x174a]
+name = "IdealProcessor"
+offset = 0x174a
+type = "uint8_t"
+size = 0x1
+
+[members.0x174c]
+name = "GuaranteedStackBytes"
+offset = 0x174c
+type = "unsigned int"
+size = 0x4
+
+[members.0x1750]
+name = "ReservedForPerf"
+offset = 0x1750
+type = "void *"
+size = 0x8
+
+[members.0x1758]
+name = "ReservedForOle"
+offset = 0x1758
+type = "void *"
+size = 0x8
+
+[members.0x1760]
+name = "WaitingOnLoaderLock"
+offset = 0x1760
+type = "unsigned int"
+size = 0x4
+
+[members.0x1768]
+name = "SavedPriorityState"
+offset = 0x1768
+type = "void *"
+size = 0x8
+
+[members.0x1770]
+name = "SoftPatchPtr1"
+offset = 0x1770
+type = "uint64_t"
+size = 0x8
+
+[members.0x1778]
+name = "ThreadPoolData"
+offset = 0x1778
+type = "void *"
+size = 0x8
+
+[members.0x1780]
+name = "TlsExpansionSlots"
+offset = 0x1780
+type = "void **"
+size = 0x8
+
+[members.0x1788]
+name = "DeallocationBStore"
+offset = 0x1788
+type = "void *"
+size = 0x8
+
+[members.0x1790]
+name = "BStoreLimit"
+offset = 0x1790
+type = "void *"
+size = 0x8
+
+[members.0x1798]
+name = "MuiGeneration"
+offset = 0x1798
+type = "unsigned int"
+size = 0x4
+
+[members.0x179c]
+name = "IsImpersonating"
+offset = 0x179c
+type = "unsigned int"
+size = 0x4
+
+[members.0x17a0]
+name = "NlsCache"
+offset = 0x17a0
+type = "void *"
+size = 0x8
+
+[members.0x17a8]
+name = "pShimData"
+offset = 0x17a8
+type = "void *"
+size = 0x8
+
+[members.0x17b0]
+name = "HeapVirtualAffinity"
+offset = 0x17b0
+type = "unsigned int"
+size = 0x4
+
+[members.0x17b8]
+name = "CurrentTransactionHandle"
+offset = 0x17b8
+type = "void *"
+size = 0x8
+
+[members.0x17c0]
+name = "ActiveFrame"
+offset = 0x17c0
+type = "struct _TEB_ACTIVE_FRAME *"
+size = 0x8
+
+[members.0x17c8]
+name = "FlsData"
+offset = 0x17c8
+type = "void *"
+size = 0x8
+
+[members.0x17d0]
+name = "PreferredLanguages"
+offset = 0x17d0
+type = "void *"
+size = 0x8
+
+[members.0x17d8]
+name = "UserPrefLanguages"
+offset = 0x17d8
+type = "void *"
+size = 0x8
+
+[members.0x17e0]
+name = "MergedPrefLanguages"
+offset = 0x17e0
+type = "void *"
+size = 0x8
+
+[members.0x17e8]
+name = "MuiImpersonation"
+offset = 0x17e8
+type = "unsigned int"
+size = 0x4
+
+[members.0x17ec]
+name = "anonymous_1"
+offset = 0x17ec
+type = "union _TEB::$9CF806A5F7AA4F50D4778A9253E08EA3"
+size = 0x2
+
+[members.0x17ee]
+name = "anonymous_2"
+offset = 0x17ee
+type = "union _TEB::$368A8F43BCCCFC17E5DBBF98016F1166"
+size = 0x2
+
+[members.0x17f0]
+name = "TxnScopeEnterCallback"
+offset = 0x17f0
+type = "void *"
+size = 0x8
+
+[members.0x17f8]
+name = "TxnScopeExitCallback"
+offset = 0x17f8
+type = "void *"
+size = 0x8
+
+[members.0x1800]
+name = "TxnScopeContext"
+offset = 0x1800
+type = "void *"
+size = 0x8
+
+[members.0x1808]
+name = "LockCount"
+offset = 0x1808
+type = "unsigned int"
+size = 0x4
+
+[members.0x180c]
+name = "SpareUlong0"
+offset = 0x180c
+type = "unsigned int"
+size = 0x4
+
+[members.0x1810]
+name = "ResourceRetValue"
+offset = 0x1810
+type = "void *"
+size = 0x8

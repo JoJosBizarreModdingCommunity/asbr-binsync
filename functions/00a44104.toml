@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa44104
+size = 0x6
+name = "?_Syserror_map@std@@YAPEBDH@Z"
+type = "const char *"
+
+[header]
+name = "?_Syserror_map@std@@YAPEBDH@Z"
+addr = 0xa44104
+type = "const char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf8089
+size = 0x6
+name = "wcsnlen"
+type = "size_t"
+
+[header]
+name = "wcsnlen"
+addr = 0xaf8089
+type = "size_t"
+
+[header.args]

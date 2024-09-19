@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x83eb60
+size = 0xa
+name = "??$?R_W@__crt_internal_free_policy@@QEBAXQEB_W@Z"
+
+[header]
+name = "??$?R_W@__crt_internal_free_policy@@QEBAXQEB_W@Z"
+addr = 0x83eb60
+
+[header.args]

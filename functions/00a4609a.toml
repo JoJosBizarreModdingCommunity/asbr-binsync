@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa4609a
+size = 0x6
+name = "_stricmp"
+type = "int"
+
+[header]
+name = "_stricmp"
+addr = 0xa4609a
+type = "int"
+
+[header.args]

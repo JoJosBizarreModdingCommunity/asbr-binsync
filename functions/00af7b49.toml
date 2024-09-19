@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf7b49
+size = 0x6
+name = "D3DReflect"
+type = "HRESULT"
+
+[header]
+name = "D3DReflect"
+addr = 0xaf7b49
+type = "HRESULT"
+
+[header.args]

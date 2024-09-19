@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xb2ab80
+size = 0x5
+name = "?getpDC@TryBlockMap@__FrameHandler3@@QEAAPEAU_xDISPATCHER_CONTEXT@@XZ_8"
+type = "struct _xDISPATCHER_CONTEXT *"
+
+[header]
+name = "?getpDC@TryBlockMap@__FrameHandler3@@QEAAPEAU_xDISPATCHER_CONTEXT@@XZ_8"
+addr = 0xb2ab80
+type = "struct _xDISPATCHER_CONTEXT *"
+
+[header.args]

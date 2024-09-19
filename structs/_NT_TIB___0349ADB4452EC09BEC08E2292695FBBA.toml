@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.977779Z
+name = "_NT_TIB::$0349ADB4452EC09BEC08E2292695FBBA"
+size = 0x8
+
+[members.0x0]
+name = "FiberData"
+offset = 0x0
+type = "PVOID"
+size = 0x8
+
+[members.0x1]
+name = "Version"
+offset = 0x1
+type = "DWORD"
+size = 0x4

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x874830
+size = 0x7
+name = "Function"
+type = "void"
+
+[header]
+name = "Function"
+addr = 0x874830
+type = "void"
+
+[header.args]

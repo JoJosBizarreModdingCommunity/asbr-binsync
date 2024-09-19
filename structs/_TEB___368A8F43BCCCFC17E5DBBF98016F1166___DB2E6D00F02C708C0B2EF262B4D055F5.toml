@@ -1,0 +1,9 @@
+last_change = 2024-09-19T13:58:47.984365Z
+name = "_TEB::$368A8F43BCCCFC17E5DBBF98016F1166::$DB2E6D00F02C708C0B2EF262B4D055F5"
+size = 0x2
+
+[members.0x0]
+name = "_bf_0"
+offset = 0x0
+type = "short"
+size = 0x2

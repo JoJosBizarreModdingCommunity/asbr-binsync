@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xaf7b73
+size = 0x6
+name = "ImmGetOpenStatus"
+type = "BOOL"
+
+[header]
+name = "ImmGetOpenStatus"
+addr = 0xaf7b73
+type = "BOOL"
+
+[header.args]

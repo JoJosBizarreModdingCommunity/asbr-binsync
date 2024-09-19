@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa4607c
+size = 0x6
+name = "fgets"
+type = "char *"
+
+[header]
+name = "fgets"
+addr = 0xa4607c
+type = "char *"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45eae
+size = 0x6
+name = "_CxxThrowException"
+type = "void"
+
+[header]
+name = "_CxxThrowException"
+addr = 0xa45eae
+type = "void"
+
+[header.args]

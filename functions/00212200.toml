@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x212200
+size = 0x3e
+name = "?deallocate@?$allocator@D@std@@QEAAXQEAD_K@Z"
+
+[header]
+name = "?deallocate@?$allocator@D@std@@QEAAXQEAD_K@Z"
+addr = 0x212200
+
+[header.args]

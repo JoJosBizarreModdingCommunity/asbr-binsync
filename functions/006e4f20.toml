@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6e4f20
+size = 0x2fb
+name = "ASBR_nuccXfbinDocManager_LoadXfbin"
+type = "long long"
+
+[header]
+name = "ASBR_nuccXfbinDocManager_LoadXfbin"
+addr = 0x6e4f20
+type = "long long"
+
+[header.args]

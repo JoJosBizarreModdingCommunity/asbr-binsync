@@ -1,0 +1,27 @@
+last_change = 2024-09-19T13:58:47.978830Z
+name = "_RTTIBaseClassDescriptor"
+size = 0x18
+
+[members.0x0]
+name = "typeDescriptor"
+offset = 0x0
+type = ""
+size = 0x4
+
+[members.0x4]
+name = "numContainedBases"
+offset = 0x4
+type = ""
+size = 0x4
+
+[members.0x8]
+name = "pmd"
+offset = 0x8
+type = ""
+size = 0xc
+
+[members.0x14]
+name = "attributes"
+offset = 0x14
+type = ""
+size = 0x4

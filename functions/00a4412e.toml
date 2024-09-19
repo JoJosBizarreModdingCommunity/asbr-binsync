@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa4412e
+size = 0x6
+name = "_Mtx_current_owns"
+type = "int"
+
+[header]
+name = "_Mtx_current_owns"
+addr = 0xa4412e
+type = "int"
+
+[header.args]

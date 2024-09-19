@@ -1,0 +1,10 @@
+last_change = 0x66ec2e10
+addr = 0x665b18
+size = 0xc
+name = "ASBR_UpdateXfbinDocManager"
+
+[header]
+name = "ASBR_UpdateXfbinDocManager"
+addr = 0x665b18
+
+[header.args]

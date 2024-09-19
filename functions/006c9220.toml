@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x6c9220
+size = 0x74
+name = "ASBR_GenerateStrHashWithLen"
+type = "unsigned int"
+
+[header]
+name = "ASBR_GenerateStrHashWithLen"
+addr = 0x6c9220
+type = "unsigned int"
+
+[header.args]

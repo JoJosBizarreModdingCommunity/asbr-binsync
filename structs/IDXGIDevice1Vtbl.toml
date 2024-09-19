@@ -1,0 +1,87 @@
+last_change = 2024-09-19T13:58:47.966046Z
+name = "IDXGIDevice1Vtbl"
+size = 0x70
+
+[members.0x0]
+name = "QueryInterface"
+offset = 0x0
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, const IID *const riid, void **ppvObject)"
+size = 0x8
+
+[members.0x8]
+name = "AddRef"
+offset = 0x8
+type = "ULONG (__stdcall *)(IDXGIDevice1 *This)"
+size = 0x8
+
+[members.0x10]
+name = "Release"
+offset = 0x10
+type = "ULONG (__stdcall *)(IDXGIDevice1 *This)"
+size = 0x8
+
+[members.0x18]
+name = "SetPrivateData"
+offset = 0x18
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, const GUID *const Name, UINT DataSize, const void *pData)"
+size = 0x8
+
+[members.0x20]
+name = "SetPrivateDataInterface"
+offset = 0x20
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, const GUID *const Name, const IUnknown *pUnknown)"
+size = 0x8
+
+[members.0x28]
+name = "GetPrivateData"
+offset = 0x28
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, const GUID *const Name, UINT *pDataSize, void *pData)"
+size = 0x8
+
+[members.0x30]
+name = "GetParent"
+offset = 0x30
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, const IID *const riid, void **ppParent)"
+size = 0x8
+
+[members.0x38]
+name = "GetAdapter"
+offset = 0x38
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, IDXGIAdapter **pAdapter)"
+size = 0x8
+
+[members.0x40]
+name = "CreateSurface"
+offset = 0x40
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, const DXGI_SURFACE_DESC *pDesc, UINT NumSurfaces, DXGI_USAGE Usage, const DXGI_SHARED_RESOURCE *pSharedResource, IDXGISurface **ppSurface)"
+size = 0x8
+
+[members.0x48]
+name = "QueryResourceResidency"
+offset = 0x48
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, IUnknown *const *ppResources, DXGI_RESIDENCY *pResidencyStatus, UINT NumResources)"
+size = 0x8
+
+[members.0x50]
+name = "SetGPUThreadPriority"
+offset = 0x50
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, INT Priority)"
+size = 0x8
+
+[members.0x58]
+name = "GetGPUThreadPriority"
+offset = 0x58
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, INT *pPriority)"
+size = 0x8
+
+[members.0x60]
+name = "SetMaximumFrameLatency"
+offset = 0x60
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, UINT MaxLatency)"
+size = 0x8
+
+[members.0x68]
+name = "GetMaximumFrameLatency"
+offset = 0x68
+type = "HRESULT (__stdcall *)(IDXGIDevice1 *This, UINT *pMaxLatency)"
+size = 0x8

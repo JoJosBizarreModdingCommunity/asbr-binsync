@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x453394
+size = 0x5e
+name = "ASBR_GenStrHashWithLen"
+type = "uint32_t"
+
+[header]
+name = "ASBR_GenStrHashWithLen"
+addr = 0x453394
+type = "uint32_t"
+
+[header.args]

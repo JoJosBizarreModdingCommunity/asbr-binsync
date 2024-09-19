@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0xa45e90
+size = 0x6
+name = "BCryptGenRandom"
+type = "NTSTATUS"
+
+[header]
+name = "BCryptGenRandom"
+addr = 0xa45e90
+type = "NTSTATUS"
+
+[header.args]

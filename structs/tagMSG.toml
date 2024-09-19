@@ -1,0 +1,39 @@
+last_change = 2024-09-19T13:58:47.994454Z
+name = "tagMSG"
+size = 0x30
+
+[members.0x0]
+name = "hwnd"
+offset = 0x0
+type = "HWND"
+size = 0x8
+
+[members.0x8]
+name = "message"
+offset = 0x8
+type = "UINT"
+size = 0x4
+
+[members.0x10]
+name = "wParam"
+offset = 0x10
+type = "WPARAM"
+size = 0x8
+
+[members.0x18]
+name = "lParam"
+offset = 0x18
+type = "LPARAM"
+size = 0x8
+
+[members.0x20]
+name = "time"
+offset = 0x20
+type = "DWORD"
+size = 0x4
+
+[members.0x24]
+name = "pt"
+offset = 0x24
+type = "POINT"
+size = 0x8

@@ -1,0 +1,33 @@
+last_change = 2024-09-19T13:58:47.987867Z
+name = "_exception"
+size = 0x28
+
+[members.0x0]
+name = "type"
+offset = 0x0
+type = "int"
+size = 0x4
+
+[members.0x8]
+name = "name"
+offset = 0x8
+type = "char *"
+size = 0x8
+
+[members.0x10]
+name = "arg1"
+offset = 0x10
+type = "double"
+size = 0x8
+
+[members.0x18]
+name = "arg2"
+offset = 0x18
+type = "double"
+size = 0x8
+
+[members.0x20]
+name = "retval"
+offset = 0x20
+type = "double"
+size = 0x8

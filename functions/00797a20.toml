@@ -1,0 +1,12 @@
+last_change = 0x66ec2e10
+addr = 0x797a20
+size = 0x60
+name = "ASBR_ccUiManager::Ctrl"
+type = "long long"
+
+[header]
+name = "ASBR_ccUiManager::Ctrl"
+addr = 0x797a20
+type = "long long"
+
+[header.args]

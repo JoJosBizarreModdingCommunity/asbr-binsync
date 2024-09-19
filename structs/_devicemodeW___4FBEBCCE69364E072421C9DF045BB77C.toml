@@ -1,0 +1,15 @@
+last_change = 2024-09-19T13:58:47.986360Z
+name = "_devicemodeW::$4FBEBCCE69364E072421C9DF045BB77C"
+size = 0x4
+
+[members.0x0]
+name = "dmDisplayFlags"
+offset = 0x0
+type = "DWORD"
+size = 0x4
+
+[members.0x1]
+name = "dmNup"
+offset = 0x1
+type = "DWORD"
+size = 0x4
