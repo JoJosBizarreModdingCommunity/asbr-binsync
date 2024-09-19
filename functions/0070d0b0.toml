@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x70d0b0
+size = 0xa
+name = "??0big_integer@__crt_strtox@@QEAA@XZ"
+type = "long long"
+
+[header]
+name = "??0big_integer@__crt_strtox@@QEAA@XZ"
+addr = 0x70d0b0
+type = "long long"
+
+[header.args]

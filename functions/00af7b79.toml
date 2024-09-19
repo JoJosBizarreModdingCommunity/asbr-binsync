@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaf7b79
+size = 0x6
+name = "XInputGetState"
+type = "DWORD"
+
+[header]
+name = "XInputGetState"
+addr = 0xaf7b79
+type = "DWORD"
+
+[header.args]

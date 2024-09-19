@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44f30
+size = 0x34
+name = "__raise_securityfailure"
+type = "long long"
+
+[header]
+name = "__raise_securityfailure"
+addr = 0xa44f30
+type = "long long"
+
+[header.args]

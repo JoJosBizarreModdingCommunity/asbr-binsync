@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44146
+size = 0x6
+name = "_Cnd_destroy"
+type = "void"
+
+[header]
+name = "_Cnd_destroy"
+addr = 0xa44146
+type = "void"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xa440bc
+size = 0x6
+name = "?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ"
+
+[header]
+name = "?uflow@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAAHXZ"
+addr = 0xa440bc
+
+[header.args]

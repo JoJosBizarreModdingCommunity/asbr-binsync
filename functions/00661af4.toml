@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x661af4
+size = 0xe1
+name = "WinMain"
+type = "int"
+
+[header]
+name = "WinMain"
+addr = 0x661af4
+type = "int"
+
+[header.args]

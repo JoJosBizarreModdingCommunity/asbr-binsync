@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x786ab0
+size = 0xb
+name = "ASBR_ccCollisionManager::Execute_AttackTimmingASB"
+type = "long long"
+
+[header]
+name = "ASBR_ccCollisionManager::Execute_AttackTimmingASB"
+addr = 0x786ab0
+type = "long long"
+
+[header.args]

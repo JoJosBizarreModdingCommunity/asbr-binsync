@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x229f9c
+size = 0x6d
+name = "ASBR_CreateStrObj"
+type = "cc2_string_obj *"
+
+[header]
+name = "ASBR_CreateStrObj"
+addr = 0x229f9c
+type = "cc2_string_obj *"
+
+[header.args]

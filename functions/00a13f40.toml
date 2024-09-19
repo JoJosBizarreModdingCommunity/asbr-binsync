@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa13f40
+size = 0x22
+name = "ASBR_SetHWNDProc"
+type = "long long"
+
+[header]
+name = "ASBR_SetHWNDProc"
+addr = 0xa13f40
+type = "long long"
+
+[header.args]

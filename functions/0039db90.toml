@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x39db90
+size = 0x65
+name = "ASBR_StrHolderCleanup"
+type = "long long (__fastcall **)()"
+
+[header]
+name = "ASBR_StrHolderCleanup"
+addr = 0x39db90
+type = "long long (__fastcall **)()"
+
+[header.args]

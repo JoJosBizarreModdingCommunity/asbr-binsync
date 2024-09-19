@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6059bc
+size = 0x22
+name = "ASBR_ccStageObjectManager::Draw"
+type = "long long"
+
+[header]
+name = "ASBR_ccStageObjectManager::Draw"
+addr = 0x6059bc
+type = "long long"
+
+[header.args]

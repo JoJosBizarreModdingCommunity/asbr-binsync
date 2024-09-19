@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45f1a
+size = 0x6
+name = "strncpy"
+type = "char *"
+
+[header]
+name = "strncpy"
+addr = 0xa45f1a
+type = "char *"
+
+[header.args]

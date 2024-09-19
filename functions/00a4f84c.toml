@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4f84c
+size = 0x7
+name = "Sleep"
+type = "void"
+
+[header]
+name = "Sleep"
+addr = 0xa4f84c
+type = "void"
+
+[header.args]

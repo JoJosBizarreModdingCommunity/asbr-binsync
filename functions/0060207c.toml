@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x60207c
+size = 0x38
+name = "ASBR_ccSpeakingLineManager::Draw"
+type = "void"
+
+[header]
+name = "ASBR_ccSpeakingLineManager::Draw"
+addr = 0x60207c
+type = "void"
+
+[header.args]

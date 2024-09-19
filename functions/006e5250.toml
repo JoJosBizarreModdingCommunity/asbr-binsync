@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6e5250
+size = 0x198
+name = "ASBR_LookupXFBIN"
+type = "long long"
+
+[header]
+name = "ASBR_LookupXFBIN"
+addr = 0x6e5250
+type = "long long"
+
+[header.args]

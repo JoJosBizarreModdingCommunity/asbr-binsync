@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x47f114
+size = 0x112
+name = "ASBR_LoadPlayerColorParam"
+type = "long long"
+
+[header]
+name = "ASBR_LoadPlayerColorParam"
+addr = 0x47f114
+type = "long long"
+
+[header.args]

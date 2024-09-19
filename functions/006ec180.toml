@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6ec180
+size = 0xb
+name = "??__K_l@@YA?AUStringLiteral@@PEBD_K@Z"
+type = "long long"
+
+[header]
+name = "??__K_l@@YA?AUStringLiteral@@PEBD_K@Z"
+addr = 0x6ec180
+type = "long long"
+
+[header.args]

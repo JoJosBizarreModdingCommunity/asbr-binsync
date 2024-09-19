@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44424
+size = 0x2b
+name = "__scrt_uninitialize_crt"
+type = "long long"
+
+[header]
+name = "__scrt_uninitialize_crt"
+addr = 0xa44424
+type = "long long"
+
+[header.args]

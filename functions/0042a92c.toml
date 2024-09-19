@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x42a92c
+size = 0xf
+name = "ASBR_CreateParamBattleGionXfbinStr"
+type = "int"
+
+[header]
+name = "ASBR_CreateParamBattleGionXfbinStr"
+addr = 0x42a92c
+type = "int"
+
+[header.args]

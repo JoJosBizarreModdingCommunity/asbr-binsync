@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x661610
+size = 0x178
+name = "ASBR_InitGame"
+type = "long long"
+
+[header]
+name = "ASBR_InitGame"
+addr = 0x661610
+type = "long long"
+
+[header.args]

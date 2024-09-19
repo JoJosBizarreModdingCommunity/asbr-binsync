@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x4558f4
+size = 0x8
+name = "??0__crt_deferred_errno_cache@@QEAA@XZ"
+type = "__crt_deferred_errno_cache *"
+
+[header]
+name = "??0__crt_deferred_errno_cache@@QEAA@XZ"
+addr = 0x4558f4
+type = "__crt_deferred_errno_cache *"
+
+[header.args]

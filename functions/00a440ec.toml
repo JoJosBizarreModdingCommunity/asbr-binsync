@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa440ec
+size = 0x6
+name = "?__ExceptionPtrToBool@@YA_NPEBX@Z"
+type = "bool"
+
+[header]
+name = "?__ExceptionPtrToBool@@YA_NPEBX@Z"
+addr = 0xa440ec
+type = "bool"
+
+[header.args]

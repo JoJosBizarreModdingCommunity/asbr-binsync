@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45ee4
+size = 0x6
+name = "strrchr"
+type = "char *"
+
+[header]
+name = "strrchr"
+addr = 0xa45ee4
+type = "char *"
+
+[header.args]

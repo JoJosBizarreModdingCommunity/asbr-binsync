@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4606a
+size = 0x6
+name = "tolower"
+type = "int"
+
+[header]
+name = "tolower"
+addr = 0xa4606a
+type = "int"
+
+[header.args]

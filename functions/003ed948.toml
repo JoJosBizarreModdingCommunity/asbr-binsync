@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x3ed948
+size = 0x11c
+name = "ASBR_LoadCharactersPrmLoad"
+type = "long long"
+
+[header]
+name = "ASBR_LoadCharactersPrmLoad"
+addr = 0x3ed948
+type = "long long"
+
+[header.args]

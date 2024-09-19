@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x3782ec
+size = 0x32
+name = "ASBR_ccPlayer::CtrlAnmAndMove0"
+type = "long long"
+
+[header]
+name = "ASBR_ccPlayer::CtrlAnmAndMove0"
+addr = 0x3782ec
+type = "long long"
+
+[header.args]

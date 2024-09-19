@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x42e6e0
+size = 0x6a
+name = "ASBR_LoadTexture"
+type = "long long"
+
+[header]
+name = "ASBR_LoadTexture"
+addr = 0x42e6e0
+type = "long long"
+
+[header.args]

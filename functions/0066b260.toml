@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x66b260
+size = 0x155
+name = "ASBR_LoadParams"
+type = "long long"
+
+[header]
+name = "ASBR_LoadParams"
+addr = 0x66b260
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x541c48
+size = 0x34
+name = "??_G_Condition_variable@details@Concurrency@@QEAAPEAXI@Z_4"
+type = "void *"
+
+[header]
+name = "??_G_Condition_variable@details@Concurrency@@QEAAPEAXI@Z_4"
+addr = 0x541c48
+type = "void *"
+
+[header.args]

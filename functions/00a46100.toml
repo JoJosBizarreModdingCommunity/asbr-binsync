@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa46100
+size = 0x6
+name = "_initialize_onexit_table"
+type = "int"
+
+[header]
+name = "_initialize_onexit_table"
+addr = 0xa46100
+type = "int"
+
+[header.args]

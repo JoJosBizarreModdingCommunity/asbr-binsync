@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaf807d
+size = 0x6
+name = "wcscpy_s"
+type = "errno_t"
+
+[header]
+name = "wcscpy_s"
+addr = 0xaf807d
+type = "errno_t"
+
+[header.args]

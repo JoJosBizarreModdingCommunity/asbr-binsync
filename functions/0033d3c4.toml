@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x33d3c4
+size = 0x3c5
+name = "ASBR_Player_PushPositionalEnums"
+type = "long long"
+
+[header]
+name = "ASBR_Player_PushPositionalEnums"
+addr = 0x33d3c4
+type = "long long"
+
+[header.args]

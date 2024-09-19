@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x671c28
+size = 0x5
+name = "ASBR_AddI64"
+type = "long long"
+
+[header]
+name = "ASBR_AddI64"
+addr = 0x671c28
+type = "long long"
+
+[header.args]

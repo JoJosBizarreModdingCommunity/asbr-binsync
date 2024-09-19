@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x378530
+size = 0x147
+name = "ASBR_ccPlayer::CtrlCameraAfter"
+
+[header]
+name = "ASBR_ccPlayer::CtrlCameraAfter"
+addr = 0x378530
+
+[header.args]

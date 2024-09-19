@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xb6bee0
+size = 0x4f0
+name = "__static_scalar_sin"
+
+[header]
+name = "__static_scalar_sin"
+addr = 0xb6bee0
+
+[header.args]

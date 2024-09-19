@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x690428
+size = 0x5
+name = "?precision@ios_base@std@@QEBA_JXZ"
+type = "long long"
+
+[header]
+name = "?precision@ios_base@std@@QEBA_JXZ"
+addr = 0x690428
+type = "long long"
+
+[header.args]

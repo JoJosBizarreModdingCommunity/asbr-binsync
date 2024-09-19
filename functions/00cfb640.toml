@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xcfb640
+size = 0x3
+name = "nullsub_263"
+type = "void"
+
+[header]
+name = "nullsub_263"
+addr = 0xcfb640
+type = "void"
+
+[header.args]

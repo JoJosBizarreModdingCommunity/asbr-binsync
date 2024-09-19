@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa440fe
+size = 0x6
+name = "?_Execute_once@std@@YAHAEAUonce_flag@1@P6AHPEAX1PEAPEAX@Z1@Z"
+type = "int"
+
+[header]
+name = "?_Execute_once@std@@YAHAEAUonce_flag@1@P6AHPEAX1PEAPEAX@Z1@Z"
+addr = 0xa440fe
+type = "int"
+
+[header.args]

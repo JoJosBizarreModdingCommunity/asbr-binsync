@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4410a
+size = 0x6
+name = "_Thrd_start"
+type = "int"
+
+[header]
+name = "_Thrd_start"
+addr = 0xa4410a
+type = "int"
+
+[header.args]

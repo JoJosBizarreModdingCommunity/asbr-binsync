@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xa46052
+size = 0x6
+name = "terminate"
+
+[header]
+name = "terminate"
+addr = 0xa46052
+
+[header.args]

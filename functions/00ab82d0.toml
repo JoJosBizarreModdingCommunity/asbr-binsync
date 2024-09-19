@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xab82d0
+size = 0x10
+name = "__report_rangecheckfailure_0"
+
+[header]
+name = "__report_rangecheckfailure_0"
+addr = 0xab82d0
+
+[header.args]

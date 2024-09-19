@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45f8c
+size = 0x6
+name = "__acrt_iob_func"
+type = "FILE *"
+
+[header]
+name = "__acrt_iob_func"
+addr = 0xa45f8c
+type = "FILE *"
+
+[header.args]

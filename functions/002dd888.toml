@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x2dd888
+size = 0xa
+name = "ASBR_GetPetshopCharaName"
+type = "const char *"
+
+[header]
+name = "ASBR_GetPetshopCharaName"
+addr = 0x2dd888
+type = "const char *"
+
+[header.args]

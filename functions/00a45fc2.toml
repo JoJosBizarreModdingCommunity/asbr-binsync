@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45fc2
+size = 0x6
+name = "isspace"
+type = "int"
+
+[header]
+name = "isspace"
+addr = 0xa45fc2
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44c64
+size = 0x6b
+name = "??_M@YAXPEAX_K1P6AX0@Z@Z"
+type = "void"
+
+[header]
+name = "??_M@YAXPEAX_K1P6AX0@Z@Z"
+addr = 0xa44c64
+type = "void"
+
+[header.args]

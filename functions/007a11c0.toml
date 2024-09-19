@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x7a11c0
+size = 0x7
+name = "?lowio_handle@__crt_stdio_stream@@QEBAHXZ"
+type = "long long"
+
+[header]
+name = "?lowio_handle@__crt_stdio_stream@@QEBAHXZ"
+addr = 0x7a11c0
+type = "long long"
+
+[header.args]

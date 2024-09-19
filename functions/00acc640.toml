@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xacc640
+size = 0x2b6
+name = "??0bad_function_call@std@@QEAA@XZ"
+type = "long long"
+
+[header]
+name = "??0bad_function_call@std@@QEAA@XZ"
+addr = 0xacc640
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x33c670
+size = 0x725
+name = "ASBR_Player_PushHPEnums"
+type = "long long"
+
+[header]
+name = "ASBR_Player_PushHPEnums"
+addr = 0x33c670
+type = "long long"
+
+[header.args]

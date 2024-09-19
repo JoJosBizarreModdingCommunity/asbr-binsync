@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xcfb000
+size = 0xc
+name = "ASBR_XfbinDocManager_Cleanup"
+type = "void"
+
+[header]
+name = "ASBR_XfbinDocManager_Cleanup"
+addr = 0xcfb000
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaca5d0
+size = 0xf
+name = "?width@ios_base@std@@QEBA_JXZ_11"
+type = "long long"
+
+[header]
+name = "?width@ios_base@std@@QEBA_JXZ_11"
+addr = 0xaca5d0
+type = "long long"
+
+[header.args]

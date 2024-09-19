@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45f20
+size = 0x6
+name = "_time64"
+type = "__time64_t"
+
+[header]
+name = "_time64"
+addr = 0xa45f20
+type = "__time64_t"
+
+[header.args]

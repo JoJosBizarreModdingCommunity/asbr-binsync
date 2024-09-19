@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xb6c890
+size = 0x500
+name = "__static_scalar_cos"
+
+[header]
+name = "__static_scalar_cos"
+addr = 0xb6c890
+
+[header.args]

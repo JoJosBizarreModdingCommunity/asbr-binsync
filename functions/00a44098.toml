@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xa44098
+size = 0x6
+name = "?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ"
+
+[header]
+name = "?_Lock@?$basic_streambuf@DU?$char_traits@D@std@@@std@@UEAAXXZ"
+addr = 0xa44098
+
+[header.args]

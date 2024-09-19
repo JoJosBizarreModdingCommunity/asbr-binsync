@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4416a
+size = 0x6
+name = "_Cnd_signal"
+type = "int"
+
+[header]
+name = "_Cnd_signal"
+addr = 0xa4416a
+type = "int"
+
+[header.args]

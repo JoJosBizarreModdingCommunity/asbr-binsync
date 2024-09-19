@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xa45450
+size = 0x8c0
+name = "__vdecl_sinf4_0"
+
+[header]
+name = "__vdecl_sinf4_0"
+addr = 0xa45450
+
+[header.args]

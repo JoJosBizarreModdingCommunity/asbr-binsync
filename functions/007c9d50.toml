@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x7c9d50
+size = 0xb
+name = "?default_error_condition@error_category@std@@UEBA?AVerror_condition@2@H@Z"
+
+[header]
+name = "?default_error_condition@error_category@std@@UEBA?AVerror_condition@2@H@Z"
+addr = 0x7c9d50
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaf8083
+size = 0x6
+name = "wcscmp"
+type = "int"
+
+[header]
+name = "wcscmp"
+addr = 0xaf8083
+type = "int"
+
+[header.args]

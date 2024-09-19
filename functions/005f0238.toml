@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x5f0238
+size = 0x12
+name = "__acrt_uninitialize_tmpfile"
+
+[header]
+name = "__acrt_uninitialize_tmpfile"
+addr = 0x5f0238
+
+[header.args]

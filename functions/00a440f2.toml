@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa440f2
+size = 0x6
+name = "?__ExceptionPtrCopyException@@YAXPEAXPEBX1@Z"
+type = "void"
+
+[header]
+name = "?__ExceptionPtrCopyException@@YAXPEAXPEBX1@Z"
+addr = 0xa440f2
+type = "void"
+
+[header.args]

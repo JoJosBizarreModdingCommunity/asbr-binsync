@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x674ba0
+size = 0x9
+name = "?post_pgo_initialization@@YAHXZ"
+type = "void"
+
+[header]
+name = "?post_pgo_initialization@@YAHXZ"
+addr = 0x674ba0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6e2020
+size = 0x23d
+name = "ASBR_CreateStrippedXfbinString"
+type = "long long (*)[]"
+
+[header]
+name = "ASBR_CreateStrippedXfbinString"
+addr = 0x6e2020
+type = "long long (*)[]"
+
+[header.args]

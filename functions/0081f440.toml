@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x81f440
+size = 0x7
+name = "_stat64"
+type = "int"
+
+[header]
+name = "_stat64"
+addr = 0x81f440
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4603a
+size = 0x6
+name = "floorf"
+type = "float"
+
+[header]
+name = "floorf"
+addr = 0xa4603a
+type = "float"
+
+[header.args]

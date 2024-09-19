@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x3e3c90
+size = 0x6
+name = "?get_app_type@__scrt_winmain_policy@@SA?AW4_crt_app_type@@XZ"
+type = "enum _crt_app_type"
+
+[header]
+name = "?get_app_type@__scrt_winmain_policy@@SA?AW4_crt_app_type@@XZ"
+addr = 0x3e3c90
+type = "enum _crt_app_type"
+
+[header.args]

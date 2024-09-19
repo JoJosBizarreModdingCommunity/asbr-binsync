@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x234180
+size = 0x11
+name = "unknown_libname_9"
+type = "void"
+
+[header]
+name = "unknown_libname_9"
+addr = 0x234180
+type = "void"
+
+[header.args]

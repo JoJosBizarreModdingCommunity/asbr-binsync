@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4418e
+size = 0x6
+name = "?_Throw_future_error@std@@YAXAEBVerror_code@1@@Z"
+type = "void"
+
+[header]
+name = "?_Throw_future_error@std@@YAXAEBVerror_code@1@@Z"
+addr = 0xa4418e
+type = "void"
+
+[header.args]

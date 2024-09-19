@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45fec
+size = 0x6
+name = "logf"
+type = "float"
+
+[header]
+name = "logf"
+addr = 0xa45fec
+type = "float"
+
+[header.args]

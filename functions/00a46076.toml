@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa46076
+size = 0x6
+name = "fflush"
+type = "int"
+
+[header]
+name = "fflush"
+addr = 0xa46076
+type = "int"
+
+[header.args]

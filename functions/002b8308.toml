@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x2b8308
+size = 0x1b
+name = "?_DeleteExceptionPtr@@YAXQEAV__ExceptionPtr@@@Z_9"
+type = "void"
+
+[header]
+name = "?_DeleteExceptionPtr@@YAXQEAV__ExceptionPtr@@@Z_9"
+addr = 0x2b8308
+type = "void"
+
+[header.args]

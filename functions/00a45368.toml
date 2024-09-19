@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45368
+size = 0x3a
+name = "__scrt_get_show_window_mode"
+type = "long long"
+
+[header]
+name = "__scrt_get_show_window_mode"
+addr = 0xa45368
+type = "long long"
+
+[header.args]

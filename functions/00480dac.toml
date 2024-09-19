@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x480dac
+size = 0x6
+name = "ASBR_ccSceneAutoSave::Draw"
+
+[header]
+name = "ASBR_ccSceneAutoSave::Draw"
+addr = 0x480dac
+
+[header.args]

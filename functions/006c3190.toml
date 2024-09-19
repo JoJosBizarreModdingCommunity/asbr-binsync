@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6c3190
+size = 0x420
+name = "ASBR_nuccAnm_SetAnm"
+type = "long long"
+
+[header]
+name = "ASBR_nuccAnm_SetAnm"
+addr = 0x6c3190
+type = "long long"
+
+[header.args]

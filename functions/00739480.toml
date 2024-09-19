@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x739480
+size = 0x5
+name = "?scanset@?$format_string_parser@_W@__crt_stdio_input@@QEBAAEBV?$scanset_buffer@_W@2@XZ"
+
+[header]
+name = "?scanset@?$format_string_parser@_W@__crt_stdio_input@@QEBAAEBV?$scanset_buffer@_W@2@XZ"
+addr = 0x739480
+
+[header.args]

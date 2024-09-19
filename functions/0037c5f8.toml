@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x37c5f8
+size = 0xc0
+name = "ASBR_ccPlayer::ReferDamageHitResult"
+
+[header]
+name = "ASBR_ccPlayer::ReferDamageHitResult"
+addr = 0x37c5f8
+
+[header.args]

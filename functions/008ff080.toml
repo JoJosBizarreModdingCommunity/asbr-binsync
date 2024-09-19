@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x8ff080
+size = 0x101
+name = "Func"
+type = "int"
+
+[header]
+name = "Func"
+addr = 0x8ff080
+type = "int"
+
+[header.args]

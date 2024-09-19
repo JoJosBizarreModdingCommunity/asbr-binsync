@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x794300
+size = 0xb9
+name = "ASBR_AssignTextureVars"
+type = "void"
+
+[header]
+name = "ASBR_AssignTextureVars"
+addr = 0x794300
+type = "void"
+
+[header.args]

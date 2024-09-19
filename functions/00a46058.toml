@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa46058
+size = 0x6
+name = "fputs"
+type = "int"
+
+[header]
+name = "fputs"
+addr = 0xa46058
+type = "int"
+
+[header.args]

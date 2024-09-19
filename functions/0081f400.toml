@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x81f400
+size = 0x7
+name = "fopen"
+type = "FILE *"
+
+[header]
+name = "fopen"
+addr = 0x81f400
+type = "FILE *"
+
+[header.args]

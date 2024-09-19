@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x37bc08
+size = 0xa
+name = "ASBR_ccPlayer::PostCtrl"
+
+[header]
+name = "ASBR_ccPlayer::PostCtrl"
+addr = 0x37bc08
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x772930
+size = 0x13
+name = "ASBR_Camera_SetLookAt"
+type = "long long"
+
+[header]
+name = "ASBR_Camera_SetLookAt"
+addr = 0x772930
+type = "long long"
+
+[header.args]

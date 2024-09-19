@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x253b38
+size = 0x5
+name = "j__guard_check_icall_nop"
+
+[header]
+name = "j__guard_check_icall_nop"
+addr = 0x253b38
+
+[header.args]

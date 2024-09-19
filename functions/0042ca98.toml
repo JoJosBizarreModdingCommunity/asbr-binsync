@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x42ca98
+size = 0x6a
+name = "ASBR_LoadUIElement"
+type = "long long"
+
+[header]
+name = "ASBR_LoadUIElement"
+addr = 0x42ca98
+type = "long long"
+
+[header.args]

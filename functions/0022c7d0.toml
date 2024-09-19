@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x22c7d0
+size = 0x20
+name = "ASBR_ccRushSpeedCompare::Ctrl"
+
+[header]
+name = "ASBR_ccRushSpeedCompare::Ctrl"
+addr = 0x22c7d0
+
+[header.args]

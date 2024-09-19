@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa453ac
+size = 0x52
+name = "__scrt_is_managed_app"
+type = "long long"
+
+[header]
+name = "__scrt_is_managed_app"
+addr = 0xa453ac
+type = "long long"
+
+[header.args]

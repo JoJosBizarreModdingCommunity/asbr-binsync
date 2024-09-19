@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44640
+size = 0x60
+name = "_Init_thread_footer"
+type = "long long"
+
+[header]
+name = "_Init_thread_footer"
+addr = 0xa44640
+type = "long long"
+
+[header.args]

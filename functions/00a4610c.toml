@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4610c
+size = 0x6
+name = "_crt_atexit"
+type = "int"
+
+[header]
+name = "_crt_atexit"
+addr = 0xa4610c
+type = "int"
+
+[header.args]

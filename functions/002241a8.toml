@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x2241a8
+size = 0x16
+name = "ASBR_ccAdvBaseAnm_SetAnm_Wrapper"
+type = "long long"
+
+[header]
+name = "ASBR_ccAdvBaseAnm_SetAnm_Wrapper"
+addr = 0x2241a8
+type = "long long"
+
+[header.args]

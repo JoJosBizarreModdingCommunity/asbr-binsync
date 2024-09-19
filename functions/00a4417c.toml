@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4417c
+size = 0x6
+name = "_Cnd_do_broadcast_at_thread_exit"
+type = "void"
+
+[header]
+name = "_Cnd_do_broadcast_at_thread_exit"
+addr = 0xa4417c
+type = "void"
+
+[header.args]

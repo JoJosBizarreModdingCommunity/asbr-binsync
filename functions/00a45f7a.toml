@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45f7a
+size = 0x6
+name = "__stdio_common_vswprintf"
+type = "int"
+
+[header]
+name = "__stdio_common_vswprintf"
+addr = 0xa45f7a
+type = "int"
+
+[header.args]

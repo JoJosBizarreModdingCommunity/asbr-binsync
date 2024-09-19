@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x7ca870
+size = 0x55
+name = "?make_error_code@std@@YA?AVerror_code@1@W4io_errc@1@@Z"
+
+[header]
+name = "?make_error_code@std@@YA?AVerror_code@1@W4io_errc@1@@Z"
+addr = 0x7ca870
+
+[header.args]

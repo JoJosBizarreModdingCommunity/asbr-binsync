@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x3bfb14
+size = 0x1e
+name = "ASBR_GetCharacterData"
+type = "long long"
+
+[header]
+name = "ASBR_GetCharacterData"
+addr = 0x3bfb14
+type = "long long"
+
+[header.args]

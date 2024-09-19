@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x3753ec
+size = 0x9
+name = "ASBR_ccPlayer::PreCtrl"
+
+[header]
+name = "ASBR_ccPlayer::PreCtrl"
+addr = 0x3753ec
+
+[header.args]

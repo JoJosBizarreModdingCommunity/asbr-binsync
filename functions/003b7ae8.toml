@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x3b7ae8
+size = 0x511
+name = "ASBR_PushEnemyDistances_2"
+type = "void"
+
+[header]
+name = "ASBR_PushEnemyDistances_2"
+addr = 0x3b7ae8
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x663bdc
+size = 0x46
+name = "??_G?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@UEAAPEAXI@Z_7"
+type = "long long"
+
+[header]
+name = "??_G?$basic_stringbuf@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@UEAAPEAXI@Z_7"
+addr = 0x663bdc
+type = "long long"
+
+[header.args]

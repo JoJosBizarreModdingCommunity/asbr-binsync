@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa460d6
+size = 0x6
+name = "_gmtime64_s"
+type = "errno_t"
+
+[header]
+name = "_gmtime64_s"
+addr = 0xa460d6
+type = "errno_t"
+
+[header.args]

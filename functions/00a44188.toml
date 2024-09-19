@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44188
+size = 0x6
+name = "?_Throw_Cpp_error@std@@YAXH@Z"
+type = "void"
+
+[header]
+name = "?_Throw_Cpp_error@std@@YAXH@Z"
+addr = 0xa44188
+type = "void"
+
+[header.args]

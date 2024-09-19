@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x201b90
+size = 0x3
+name = "ASBR_Dummy_DrawEffect"
+type = "void"
+
+[header]
+name = "ASBR_Dummy_DrawEffect"
+addr = 0x201b90
+type = "void"
+
+[header.args]

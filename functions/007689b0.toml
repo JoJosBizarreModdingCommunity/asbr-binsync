@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x7689b0
+size = 0xb8
+name = "ASBR_SceneManager_Pop"
+type = "long long"
+
+[header]
+name = "ASBR_SceneManager_Pop"
+addr = 0x7689b0
+type = "long long"
+
+[header.args]

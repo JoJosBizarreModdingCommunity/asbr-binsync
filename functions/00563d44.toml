@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x563d44
+size = 0x57
+name = "ASBR_LoadNetRankParam"
+type = "void"
+
+[header]
+name = "ASBR_LoadNetRankParam"
+addr = 0x563d44
+type = "void"
+
+[header.args]

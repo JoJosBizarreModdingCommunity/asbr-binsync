@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x7070c0
+size = 0x5
+name = "?_Set@?$_Func_class@X$$V@std@@AEAAXPEAV?$_Func_base@X$$V@2@@Z"
+
+[header]
+name = "?_Set@?$_Func_class@X$$V@std@@AEAAXPEAV?$_Func_base@X$$V@2@@Z"
+addr = 0x7070c0
+
+[header.args]

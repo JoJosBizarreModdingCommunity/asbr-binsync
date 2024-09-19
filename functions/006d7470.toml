@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6d7470
+size = 0x6f
+name = "ASBR_nuccEffectManager::Draw"
+type = "void"
+
+[header]
+name = "ASBR_nuccEffectManager::Draw"
+addr = 0x6d7470
+type = "void"
+
+[header.args]

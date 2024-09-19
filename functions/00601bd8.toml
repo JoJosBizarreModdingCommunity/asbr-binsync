@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x601bd8
+size = 0x18
+name = "??0exception@std@@QEAA@XZ_0"
+type = "long long"
+
+[header]
+name = "??0exception@std@@QEAA@XZ_0"
+addr = 0x601bd8
+type = "long long"
+
+[header.args]

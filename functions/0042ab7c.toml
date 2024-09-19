@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x42ab7c
+size = 0x58
+name = "?GetHandlerSearchState@__FrameHandler3@@SAHPEA_KPEAU_xDISPATCHER_CONTEXT@@PEBU_s_FuncInfo@@@Z"
+type = "long long"
+
+[header]
+name = "?GetHandlerSearchState@__FrameHandler3@@SAHPEA_KPEAU_xDISPATCHER_CONTEXT@@PEBU_s_FuncInfo@@@Z"
+addr = 0x42ab7c
+type = "long long"
+
+[header.args]

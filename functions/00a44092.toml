@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44092
+size = 0x6
+name = "_Xtime_get_ticks"
+type = "long long"
+
+[header]
+name = "_Xtime_get_ticks"
+addr = 0xa44092
+type = "long long"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xa440c2
+size = 0x6
+name = "?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z"
+
+[header]
+name = "?xsgetn@?$basic_streambuf@DU?$char_traits@D@std@@@std@@MEAA_JPEAD_J@Z"
+addr = 0xa440c2
+
+[header.args]

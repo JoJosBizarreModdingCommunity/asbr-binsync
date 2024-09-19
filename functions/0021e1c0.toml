@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x21e1c0
+size = 0x11
+name = "VisualC_StringTooLongException"
+type = "void"
+
+[header]
+name = "VisualC_StringTooLongException"
+addr = 0x21e1c0
+type = "void"
+
+[header.args]

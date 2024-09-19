@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaf8029
+size = 0x6
+name = "srand"
+type = "void"
+
+[header]
+name = "srand"
+addr = 0xaf8029
+type = "void"
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x3f5c68
+size = 0x2a
+name = "ASBR_ccCustomizeSoundEffectEditor::Draw"
+
+[header]
+name = "ASBR_ccCustomizeSoundEffectEditor::Draw"
+addr = 0x3f5c68
+
+[header.args]

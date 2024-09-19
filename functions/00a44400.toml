@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44400
+size = 0x24
+name = "__scrt_release_startup_lock"
+type = "long long"
+
+[header]
+name = "__scrt_release_startup_lock"
+addr = 0xa44400
+type = "long long"
+
+[header.args]

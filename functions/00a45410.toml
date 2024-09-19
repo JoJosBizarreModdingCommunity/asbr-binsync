@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xa45410
+size = 0x38
+name = "__scrt_unhandled_exception_filter"
+
+[header]
+name = "__scrt_unhandled_exception_filter"
+addr = 0xa45410
+
+[header.args]

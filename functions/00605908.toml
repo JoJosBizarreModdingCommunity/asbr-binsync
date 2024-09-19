@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x605908
+size = 0x53
+name = "ASBR_ccStageObjectManager::Ctrl"
+type = "long long"
+
+[header]
+name = "ASBR_ccStageObjectManager::Ctrl"
+addr = 0x605908
+type = "long long"
+
+[header.args]

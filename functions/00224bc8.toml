@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x224bc8
+size = 0xaa
+name = "ASBR_ccCustomizeSoundEffectEditor::Update"
+type = "long long"
+
+[header]
+name = "ASBR_ccCustomizeSoundEffectEditor::Update"
+addr = 0x224bc8
+type = "long long"
+
+[header.args]

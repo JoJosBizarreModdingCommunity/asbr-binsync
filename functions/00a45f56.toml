@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45f56
+size = 0x6
+name = "cosf"
+type = "float"
+
+[header]
+name = "cosf"
+addr = 0xa45f56
+type = "float"
+
+[header.args]

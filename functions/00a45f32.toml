@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45f32
+size = 0x6
+name = "powf"
+type = "float"
+
+[header]
+name = "powf"
+addr = 0xa45f32
+type = "float"
+
+[header.args]

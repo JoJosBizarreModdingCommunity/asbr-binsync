@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x33b0b4
+size = 0xb8
+name = "ASBR_Player_PushGimmickEnum"
+type = "void"
+
+[header]
+name = "ASBR_Player_PushGimmickEnum"
+addr = 0x33b0b4
+type = "void"
+
+[header.args]

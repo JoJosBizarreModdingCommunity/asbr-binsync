@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaf806b
+size = 0x6
+name = "tanh"
+type = "double"
+
+[header]
+name = "tanh"
+addr = 0xaf806b
+type = "double"
+
+[header.args]

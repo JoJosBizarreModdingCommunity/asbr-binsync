@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa440ce
+size = 0x6
+name = "?_Xbad_function_call@std@@YAXXZ"
+type = "void"
+
+[header]
+name = "?_Xbad_function_call@std@@YAXXZ"
+addr = 0xa440ce
+type = "void"
+
+[header.args]

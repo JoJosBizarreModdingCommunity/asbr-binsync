@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44122
+size = 0x6
+name = "_Mtx_init_in_situ"
+type = "void"
+
+[header]
+name = "_Mtx_init_in_situ"
+addr = 0xa44122
+type = "void"
+
+[header.args]

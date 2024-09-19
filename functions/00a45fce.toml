@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45fce
+size = 0x6
+name = "strcspn"
+type = "size_t"
+
+[header]
+name = "strcspn"
+addr = 0xa45fce
+type = "size_t"
+
+[header.args]

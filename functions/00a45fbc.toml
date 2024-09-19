@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45fbc
+size = 0x6
+name = "isdigit"
+type = "int"
+
+[header]
+name = "isdigit"
+addr = 0xa45fbc
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45faa
+size = 0x6
+name = "free_0"
+type = "void"
+
+[header]
+name = "free_0"
+addr = 0xa45faa
+type = "void"
+
+[header.args]

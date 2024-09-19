@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xa8ac78
+size = 0xc
+name = "__scrt_is_ucrt_dll_in_use_1"
+
+[header]
+name = "__scrt_is_ucrt_dll_in_use_1"
+addr = 0xa8ac78
+
+[header.args]

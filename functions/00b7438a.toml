@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xb7438a
+size = 0x18
+name = "__scrt_is_nonwritable_in_current_image$filt$0"
+
+[header]
+name = "__scrt_is_nonwritable_in_current_image$filt$0"
+addr = 0xb7438a
+
+[header.args]

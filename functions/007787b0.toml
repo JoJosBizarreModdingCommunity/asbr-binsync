@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x7787b0
+size = 0x1a
+name = "ASBR_FadeMng_Draw"
+type = "void"
+
+[header]
+name = "ASBR_FadeMng_Draw"
+addr = 0x7787b0
+type = "void"
+
+[header.args]

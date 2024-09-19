@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6e3d70
+size = 0x16b
+name = "ASBR_NuccXfbinDocManager_Free"
+type = "long long (__fastcall **)()"
+
+[header]
+name = "ASBR_NuccXfbinDocManager_Free"
+addr = 0x6e3d70
+type = "long long (__fastcall **)()"
+
+[header.args]

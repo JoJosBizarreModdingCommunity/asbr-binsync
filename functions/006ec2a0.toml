@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6ec2a0
+size = 0x10
+name = "ASBR_LeaveCriticalSection"
+type = "void"
+
+[header]
+name = "ASBR_LeaveCriticalSection"
+addr = 0x6ec2a0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x2a5a00
+size = 0x6
+name = "?raw_length@charNode@@UEBAHXZ_17"
+type = "long long"
+
+[header]
+name = "?raw_length@charNode@@UEBAHXZ_17"
+addr = 0x2a5a00
+type = "long long"
+
+[header.args]

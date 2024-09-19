@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x7c9d60
+size = 0x19
+name = "?equivalent@error_category@std@@UEBA_NAEBVerror_code@2@H@Z"
+type = "bool"
+
+[header]
+name = "?equivalent@error_category@std@@UEBA_NAEBVerror_code@2@H@Z"
+addr = 0x7c9d60
+type = "bool"
+
+[header.args]

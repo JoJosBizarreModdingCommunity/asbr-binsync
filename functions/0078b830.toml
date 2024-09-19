@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x78b830
+size = 0x21
+name = "ASBR_UIWindowEnd"
+type = "cc2_ui_handle *"
+
+[header]
+name = "ASBR_UIWindowEnd"
+addr = 0x78b830
+type = "cc2_ui_handle *"
+
+[header.args]

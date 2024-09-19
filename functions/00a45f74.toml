@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45f74
+size = 0x6
+name = "fclose"
+type = "int"
+
+[header]
+name = "fclose"
+addr = 0xa45f74
+type = "int"
+
+[header.args]

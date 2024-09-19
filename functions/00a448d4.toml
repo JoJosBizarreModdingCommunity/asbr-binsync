@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa448d4
+size = 0xb7
+name = "?pre_c_initialization@@YAHXZ"
+type = "long long"
+
+[header]
+name = "?pre_c_initialization@@YAHXZ"
+addr = 0xa448d4
+type = "long long"
+
+[header.args]

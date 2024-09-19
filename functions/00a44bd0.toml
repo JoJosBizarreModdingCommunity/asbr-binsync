@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44bd0
+size = 0x21
+name = "__security_check_cookie"
+type = "void"
+
+[header]
+name = "__security_check_cookie"
+addr = 0xa44bd0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6c9300
+size = 0x62
+name = "ASBR_CopyMatrix4x4Inversed"
+type = "_DWORD *"
+
+[header]
+name = "ASBR_CopyMatrix4x4Inversed"
+addr = 0x6c9300
+type = "_DWORD *"
+
+[header.args]

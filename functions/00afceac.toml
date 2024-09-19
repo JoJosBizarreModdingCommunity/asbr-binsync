@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xafceac
+size = 0x87
+name = "memcpy_s"
+type = "errno_t"
+
+[header]
+name = "memcpy_s"
+addr = 0xafceac
+type = "errno_t"
+
+[header.args]

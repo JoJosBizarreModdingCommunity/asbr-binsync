@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa46016
+size = 0x6
+name = "ceilf"
+type = "float"
+
+[header]
+name = "ceilf"
+addr = 0xa46016
+type = "float"
+
+[header.args]

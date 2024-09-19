@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x277950
+size = 0x9
+name = "ASBR_ccCharacterBase::Draw"
+type = "long long"
+
+[header]
+name = "ASBR_ccCharacterBase::Draw"
+addr = 0x277950
+type = "long long"
+
+[header.args]

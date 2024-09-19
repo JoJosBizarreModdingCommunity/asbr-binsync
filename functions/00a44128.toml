@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44128
+size = 0x6
+name = "_Mtx_destroy_in_situ"
+type = "void"
+
+[header]
+name = "_Mtx_destroy_in_situ"
+addr = 0xa44128
+type = "void"
+
+[header.args]

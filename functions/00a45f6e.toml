@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45f6e
+size = 0x6
+name = "pow"
+type = "double"
+
+[header]
+name = "pow"
+addr = 0xa45f6e
+type = "double"
+
+[header.args]

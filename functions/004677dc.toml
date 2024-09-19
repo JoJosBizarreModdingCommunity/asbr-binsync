@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x4677dc
+size = 0xc
+name = "ASBR_ccSceneTitleMovie::CtrlMovie"
+
+[header]
+name = "ASBR_ccSceneTitleMovie::CtrlMovie"
+addr = 0x4677dc
+
+[header.args]

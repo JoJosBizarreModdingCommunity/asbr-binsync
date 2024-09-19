@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xacebb0
+size = 0x8
+name = "unknown_libname_44"
+
+[header]
+name = "unknown_libname_44"
+addr = 0xacebb0
+
+[header.args]

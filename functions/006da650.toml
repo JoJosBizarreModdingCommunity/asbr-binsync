@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6da650
+size = 0x453
+name = "ASBR_InitNuccChunkMap"
+type = "long long"
+
+[header]
+name = "ASBR_InitNuccChunkMap"
+addr = 0x6da650
+type = "long long"
+
+[header.args]

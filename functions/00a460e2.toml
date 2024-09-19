@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa460e2
+size = 0x6
+name = "raise"
+type = "int"
+
+[header]
+name = "raise"
+addr = 0xa460e2
+type = "int"
+
+[header.args]

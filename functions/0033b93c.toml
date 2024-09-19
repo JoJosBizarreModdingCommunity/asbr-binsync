@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x33b93c
+size = 0x2f8
+name = "ASBR_Player_PushDNGSkillEnums"
+type = "long long"
+
+[header]
+name = "ASBR_Player_PushDNGSkillEnums"
+addr = 0x33b93c
+type = "long long"
+
+[header.args]

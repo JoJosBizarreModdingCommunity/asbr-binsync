@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xa45ef6
+size = 0x6
+name = "__std_exception_copy"
+
+[header]
+name = "__std_exception_copy"
+addr = 0xa45ef6
+
+[header.args]

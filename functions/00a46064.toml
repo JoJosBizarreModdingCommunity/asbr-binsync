@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa46064
+size = 0x6
+name = "ftell"
+type = "int"
+
+[header]
+name = "ftell"
+addr = 0xa46064
+type = "int"
+
+[header.args]

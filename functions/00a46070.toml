@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa46070
+size = 0x6
+name = "strtol"
+type = "int"
+
+[header]
+name = "strtol"
+addr = 0xa46070
+type = "int"
+
+[header.args]

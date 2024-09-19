@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6c92a0
+size = 0x1e
+name = "ASBR_GenerateStrHash"
+type = "int"
+
+[header]
+name = "ASBR_GenerateStrHash"
+addr = 0x6c92a0
+type = "int"
+
+[header.args]

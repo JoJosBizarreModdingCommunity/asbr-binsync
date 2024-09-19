@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x88c8f0
+size = 0x6
+name = "?rsfun@std@@YAXAEAVios_base@1@H@Z"
+type = "void"
+
+[header]
+name = "?rsfun@std@@YAXAEAVios_base@1@H@Z"
+addr = 0x88c8f0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44204
+size = 0x39
+name = "__scrt_acquire_startup_lock"
+type = "long long"
+
+[header]
+name = "__scrt_acquire_startup_lock"
+addr = 0xa44204
+type = "long long"
+
+[header.args]

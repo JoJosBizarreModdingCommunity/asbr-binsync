@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaf8041
+size = 0x6
+name = "ceil"
+type = "double"
+
+[header]
+name = "ceil"
+addr = 0xaf8041
+type = "double"
+
+[header.args]

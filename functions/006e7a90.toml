@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x6e7a90
+size = 0x259
+name = "ASBR_nuccColorFilterManager::Draw"
+
+[header]
+name = "ASBR_nuccColorFilterManager::Draw"
+addr = 0x6e7a90
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44cd0
+size = 0x61
+name = "?__ArrayUnwind@@YAXPEAX_K1P6AX0@Z@Z"
+type = "void"
+
+[header]
+name = "?__ArrayUnwind@@YAXPEAX_K1P6AX0@Z@Z"
+addr = 0xa44cd0
+type = "void"
+
+[header.args]

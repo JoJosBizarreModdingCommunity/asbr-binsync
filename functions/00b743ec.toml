@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xb743ec
+size = 0x2c
+name = "?fin$0@?0???_M@YAXPEAX_K1P6AX0@Z@Z@4HA"
+
+[header]
+name = "?fin$0@?0???_M@YAXPEAX_K1P6AX0@Z@Z@4HA"
+addr = 0xb743ec
+
+[header.args]

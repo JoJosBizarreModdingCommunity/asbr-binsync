@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x661788
+size = 0x37
+name = "ASBR_CreateMutex"
+type = "HANDLE"
+
+[header]
+name = "ASBR_CreateMutex"
+addr = 0x661788
+type = "HANDLE"
+
+[header.args]

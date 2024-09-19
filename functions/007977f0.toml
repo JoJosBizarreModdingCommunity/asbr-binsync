@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x7977f0
+size = 0x32
+name = "ASBR_ccUiManager::DrawLayerGame"
+type = "long long"
+
+[header]
+name = "ASBR_ccUiManager::DrawLayerGame"
+addr = 0x7977f0
+type = "long long"
+
+[header.args]

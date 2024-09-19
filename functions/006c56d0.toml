@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6c56d0
+size = 0x20
+name = "ASBR_RunSteamCallbacks"
+type = "void"
+
+[header]
+name = "ASBR_RunSteamCallbacks"
+addr = 0x6c56d0
+type = "void"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x37c6b8
+size = 0x39
+name = "ASBR_ccPlayer::ReferDamageHitResultPrepass"
+type = "long long"
+
+[header]
+name = "ASBR_ccPlayer::ReferDamageHitResultPrepass"
+addr = 0x37c6b8
+type = "long long"
+
+[header.args]

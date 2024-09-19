@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x41c4c8
+size = 0x1a2
+name = "ASBR_ccSkillObjectManager::Ctrl"
+
+[header]
+name = "ASBR_ccSkillObjectManager::Ctrl"
+addr = 0x41c4c8
+
+[header.args]

@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x29e010
+size = 0x77
+name = "??$erase@V?$_Tree_iterator@V?$_Tree_val@U?$_Tree_simple_types@U?$pair@QEAXU_Mutex_count_pair@?A0xd833279a@@@std@@@std@@@std@@@std@@$0A@@?$_Tree@V?$_Tmap_traits@PEAXU_Mutex_count_pair@?A0xd833279a@@U?$less@PEAX@std@@V?$_Crt_allocator@U?$pair@QEAXU_Mutex_count_pair@?A0xd833279a@@@std@@@4@$0A@@std@@@std@@QEAA?AV?$_Tree_iterator@V?$_Tree_val@U?$_Tree_simple_types@U?$pair@QEAXU_Mutex_count_pair@?A0xd833279a@@@std@@@std@@@std@@@1@V21@@Z"
+
+[header]
+name = "??$erase@V?$_Tree_iterator@V?$_Tree_val@U?$_Tree_simple_types@U?$pair@QEAXU_Mutex_count_pair@?A0xd833279a@@@std@@@std@@@std@@@std@@$0A@@?$_Tree@V?$_Tmap_traits@PEAXU_Mutex_count_pair@?A0xd833279a@@U?$less@PEAX@std@@V?$_Crt_allocator@U?$pair@QEAXU_Mutex_count_pair@?A0xd833279a@@@std@@@4@$0A@@std@@@std@@QEAA?AV?$_Tree_iterator@V?$_Tree_val@U?$_Tree_simple_types@U?$pair@QEAXU_Mutex_count_pair@?A0xd833279a@@@std@@@std@@@std@@@1@V21@@Z"
+addr = 0x29e010
+
+[header.args]

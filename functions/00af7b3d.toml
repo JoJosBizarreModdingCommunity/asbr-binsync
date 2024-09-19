@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaf7b3d
+size = 0x6
+name = "D3DCompile"
+type = "HRESULT"
+
+[header]
+name = "D3DCompile"
+addr = 0xaf7b3d
+type = "HRESULT"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x768f60
+size = 0x134
+name = "ASBR_SceneManager_Push_2"
+type = "long long"
+
+[header]
+name = "ASBR_SceneManager_Push_2"
+addr = 0x768f60
+type = "long long"
+
+[header.args]

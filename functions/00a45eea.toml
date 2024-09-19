@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45eea
+size = 0x6
+name = "__C_specific_handler"
+type = "EXCEPTION_DISPOSITION"
+
+[header]
+name = "__C_specific_handler"
+addr = 0xa45eea
+type = "EXCEPTION_DISPOSITION"
+
+[header.args]

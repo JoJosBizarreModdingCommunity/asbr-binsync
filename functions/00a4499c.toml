@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4499c
+size = 0x19
+name = "?pre_cpp_initialization@@YAXXZ"
+type = "void"
+
+[header]
+name = "?pre_cpp_initialization@@YAXXZ"
+addr = 0xa4499c
+type = "void"
+
+[header.args]

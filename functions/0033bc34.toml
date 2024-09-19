@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x33bc34
+size = 0x2b0
+name = "ASBR_Player_PushGimmickDistanceEnums"
+type = "void"
+
+[header]
+name = "ASBR_Player_PushGimmickDistanceEnums"
+addr = 0x33bc34
+type = "void"
+
+[header.args]

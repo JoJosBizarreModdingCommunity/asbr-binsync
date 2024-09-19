@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa46136
+size = 0x6
+name = "_get_wide_winmain_command_line"
+type = "wchar_t *"
+
+[header]
+name = "_get_wide_winmain_command_line"
+addr = 0xa46136
+type = "wchar_t *"
+
+[header.args]

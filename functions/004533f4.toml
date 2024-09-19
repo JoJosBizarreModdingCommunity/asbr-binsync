@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x4533f4
+size = 0xb0
+name = "ASBR_nuccAnmUtil_CreateNuccAnm"
+type = "long long"
+
+[header]
+name = "ASBR_nuccAnmUtil_CreateNuccAnm"
+addr = 0x4533f4
+type = "long long"
+
+[header.args]

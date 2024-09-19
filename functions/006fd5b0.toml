@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x6fd5b0
+size = 0x5
+name = "j_?post_pgo_initialization@@YAHXZ_0"
+type = "long long"
+
+[header]
+name = "j_?post_pgo_initialization@@YAHXZ_0"
+addr = 0x6fd5b0
+type = "long long"
+
+[header.args]

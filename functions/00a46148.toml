@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa46148
+size = 0x6
+name = "_set_fmode"
+type = "errno_t"
+
+[header]
+name = "_set_fmode"
+addr = 0xa46148
+type = "errno_t"
+
+[header.args]

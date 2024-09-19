@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x66f9d8
+size = 0x4b
+name = "ASBR_LoadCCScenes"
+type = "long long"
+
+[header]
+name = "ASBR_LoadCCScenes"
+addr = 0x66f9d8
+type = "long long"
+
+[header.args]

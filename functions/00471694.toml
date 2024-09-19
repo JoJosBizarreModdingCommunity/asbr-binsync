@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x471694
+size = 0x266
+name = "ASBR_LoadDLCInfoParam"
+type = "long long"
+
+[header]
+name = "ASBR_LoadDLCInfoParam"
+addr = 0x471694
+type = "long long"
+
+[header.args]

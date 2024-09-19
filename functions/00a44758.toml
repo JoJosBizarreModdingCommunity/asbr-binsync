@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa44758
+size = 0x77
+name = "_Init_thread_wait"
+type = "long long"
+
+[header]
+name = "_Init_thread_wait"
+addr = 0xa44758
+type = "long long"
+
+[header.args]

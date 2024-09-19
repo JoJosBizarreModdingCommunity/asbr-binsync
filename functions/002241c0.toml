@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x2241c0
+size = 0xce
+name = "ASBR_ccAdvBaseAnm_SetAnm"
+type = "void"
+
+[header]
+name = "ASBR_ccAdvBaseAnm_SetAnm"
+addr = 0x2241c0
+type = "void"
+
+[header.args]

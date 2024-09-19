@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaf7b6d
+size = 0x6
+name = "ImmGetCompositionStringW"
+type = "LONG"
+
+[header]
+name = "ImmGetCompositionStringW"
+addr = 0xaf7b6d
+type = "LONG"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x65fa48
+size = 0x10c
+name = "ASBR_ccCEBankManager::Ctrl"
+type = "long long"
+
+[header]
+name = "ASBR_ccCEBankManager::Ctrl"
+addr = 0x65fa48
+type = "long long"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4601c
+size = 0x6
+name = "malloc"
+type = "void *"
+
+[header]
+name = "malloc"
+addr = 0xa4601c
+type = "void *"
+
+[header.args]

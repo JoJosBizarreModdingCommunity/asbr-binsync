@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4419c
+size = 0x67
+name = "??1_Fac_tidy_reg_t@std@@QEAA@XZ"
+type = "void"
+
+[header]
+name = "??1_Fac_tidy_reg_t@std@@QEAA@XZ"
+addr = 0xa4419c
+type = "void"
+
+[header.args]

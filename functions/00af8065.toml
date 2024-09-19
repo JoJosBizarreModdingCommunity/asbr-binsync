@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaf8065
+size = 0x6
+name = "sinh"
+type = "double"
+
+[header]
+name = "sinh"
+addr = 0xaf8065
+type = "double"
+
+[header.args]

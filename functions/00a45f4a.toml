@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa45f4a
+size = 0x6
+name = "tanf"
+type = "float"
+
+[header]
+name = "tanf"
+addr = 0xa45f4a
+type = "float"
+
+[header.args]

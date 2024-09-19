@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x2374cc
+size = 0x6c
+name = "ASBR_ccDuelManager::WaitPlayerTask"
+
+[header]
+name = "ASBR_ccDuelManager::WaitPlayerTask"
+addr = 0x2374cc
+
+[header.args]

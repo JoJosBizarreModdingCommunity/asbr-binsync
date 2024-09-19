@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0xa45dd8
+size = 0x1b
+name = "__scrt_initialize_default_local_stdio_options"
+
+[header]
+name = "__scrt_initialize_default_local_stdio_options"
+addr = 0xa45dd8
+
+[header.args]

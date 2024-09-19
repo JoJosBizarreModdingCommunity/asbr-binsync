@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa449b8
+size = 0x171
+name = "?__scrt_common_main_seh@@YAHXZ"
+type = "long long"
+
+[header]
+name = "?__scrt_common_main_seh@@YAHXZ"
+addr = 0xa449b8
+type = "long long"
+
+[header.args]

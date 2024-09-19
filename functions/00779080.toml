@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x779080
+size = 0x32
+name = "ASBR_GetDisplayString"
+type = "const char *"
+
+[header]
+name = "ASBR_GetDisplayString"
+addr = 0x779080
+type = "const char *"
+
+[header.args]

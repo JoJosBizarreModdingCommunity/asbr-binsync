@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0x1fafe0
+size = 0x1a
+name = "CompareFunction"
+type = "int"
+
+[header]
+name = "CompareFunction"
+addr = 0x1fafe0
+type = "int"
+
+[header.args]

@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xaf7b37
+size = 0x6
+name = "D3D11CreateDevice"
+type = "HRESULT"
+
+[header]
+name = "D3D11CreateDevice"
+addr = 0xaf7b37
+type = "HRESULT"
+
+[header.args]

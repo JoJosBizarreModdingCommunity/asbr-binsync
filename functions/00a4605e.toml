@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4605e
+size = 0x6
+name = "fseek"
+type = "int"
+
+[header]
+name = "fseek"
+addr = 0xa4605e
+type = "int"
+
+[header.args]

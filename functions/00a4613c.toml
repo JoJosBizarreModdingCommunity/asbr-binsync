@@ -1,0 +1,12 @@
+last_change = 0x66ec2dd1
+addr = 0xa4613c
+size = 0x6
+name = "_initterm"
+type = "void"
+
+[header]
+name = "_initterm"
+addr = 0xa4613c
+type = "void"
+
+[header.args]

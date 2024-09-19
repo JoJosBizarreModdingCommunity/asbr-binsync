@@ -1,0 +1,10 @@
+last_change = 0x66ec2dd1
+addr = 0x663f6c
+size = 0xe
+name = "ASBR_ccGame::BeginScreenDefault"
+
+[header]
+name = "ASBR_ccGame::BeginScreenDefault"
+addr = 0x663f6c
+
+[header.args]
