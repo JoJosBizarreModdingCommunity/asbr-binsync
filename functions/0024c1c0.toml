@@ -1,0 +1,12 @@
+last_change = 2024-09-19T13:36:38.324370Z
+addr = 0x24c1c0
+size = 0x2b
+
+[header]
+last_change = 2024-09-19T13:36:38.324370Z
+addr = 0x24c1c0
+
+[header.args.0x3]
+offset = 0x3
+name = "value"
+size = 0x8
