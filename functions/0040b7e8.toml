@@ -1,4 +1,4 @@
-last_change = 0x66ec2dd1
+last_change = 0x66ec2e10
 addr = 0x40b7e8
 size = 0x38
 name = "ASBR_ccGameObjectSkill::CtrlAfterCollision"
