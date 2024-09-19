@@ -1,4 +1,4 @@
-last_change = 2024-09-19T13:47:49.594044Z
+last_change = 2024-09-19T13:47:52.079227Z
 name = "cc2_nuccLinkedList_uint32"
 size = 0x14
 
@@ -15,7 +15,7 @@ type = ""
 size = 0x8
 
 [members.0x10]
-name = "field_10"
+name = "value"
 offset = 0x10
 type = ""
 size = 0x4
