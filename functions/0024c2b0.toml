@@ -1,0 +1,11 @@
+last_change = 2024-09-19T13:45:34.961602Z
+addr = 0x24c2b0
+size = 0x69
+name = "ASBR_nuccLinkedList_uint32_Push"
+
+[header]
+last_change = 2024-09-19T13:45:34.961602Z
+name = "ASBR_nuccLinkedList_uint32_Push"
+addr = 0x24c2b0
+
+[header.args]
