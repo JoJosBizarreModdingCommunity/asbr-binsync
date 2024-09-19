@@ -3,3 +3,9 @@ last_change = 2024-09-19T13:08:06.929606Z
 addr = 0xe26ac8
 name = "vtable_str_holder_obj"
 size = 0x8
+
+[0xd394c0]
+last_change = 2024-09-19T13:09:14.275839Z
+addr = 0xd394c0
+name = "vtable_str_obj"
+size = 0x8
