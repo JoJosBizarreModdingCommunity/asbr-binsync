@@ -6,8 +6,8 @@ comment = "most likely"
 decompiled = true
 
 [0x24c2b0]
-last_change = 2024-09-19T13:48:07.724465Z
+last_change = 2024-09-19T13:48:13.518780Z
 addr = 0x24c2b0
 func_addr = 0x24c2b0
-comment = "technically its a doubly linked list"
+comment = "technically its a doubly linked list, but who cares"
 decompiled = true
